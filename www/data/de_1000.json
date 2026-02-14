@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "word": "Erfolg",
+    "transcription": "/ɛɐ̯ˈfɔlk/",
+    "translations": {
+      "ru": "Успех",
+      "zh": "成功",
+      "es": "Éxito",
+      "fr": "Succès",
+      "ar": "نجاح",
+      "pt": "Sucesso",
+      "hi": "सफलता"
+    },
+    "sentence": {
+      "text": "Ich wünsche dir viel Erfolg bei der Prüfung.",
+      "translations": {
+        "ru": "Желаю тебе больших успехов на экзамене.",
+        "es": "Te deseo mucho éxito en el examen.",
+        "fr": "Je te souhaite beaucoup de succès à l'examen."
+      }
+    },
+    "learned": false
+  },
+  {
+    "id": 2,
+    "word": "Übung",
+    "transcription": "/ˈyːbʊŋ/",
+    "translations": {
+      "ru": "Упражнение",
+      "zh": "练习",
+      "es": "Ejercicio",
+      "fr": "Exercice",
+      "ar": "تمرين",
+      "pt": "Exercício",
+      "hi": "अभ्यास"
+    },
+    "sentence": {
+      "text": "Übung macht den Meister.",
+      "translations": {
+        "ru": "Практика ведет к совершенству (Повторение — мать учения).",
+        "es": "La práctica hace al maestro.",
+        "fr": "C'est en forgeant qu'on devient forgeron."
+      }
+    },
+    "learned": false
+  },
+  {
+    "id": 3,
+    "word": "Immer",
+    "transcription": "/ˈɪmɐ/",
+    "translations": {
+      "ru": "Всегда",
+      "zh": "总是",
+      "es": "Siempre",
+      "fr": "Toujours",
+      "ar": "دائماً",
+      "pt": "Sempre",
+      "hi": "हमेशा"
+    },
+    "sentence": {
+      "text": "Er ist immer pünktlich.",
+      "translations": {
+        "ru": "Он всегда пунктуален.",
+        "es": "Él siempre es puntual.",
+        "fr": "Il est toujours ponctuel."
+      }
+    },
+    "learned": false
+  }
+]

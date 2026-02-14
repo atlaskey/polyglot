@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "word": "Success",
+    "transcription": "/səkˈses/",
+    "translations": {
+      "ru": "Успех",
+      "zh": "成功",
+      "es": "Éxito",
+      "fr": "Succès",
+      "ar": "نجاح",
+      "pt": "Sucesso",
+      "hi": "सफलता"
+    },
+    "sentence": {
+      "text": "Hard work is the key to success.",
+      "translations": {
+        "ru": "Упорный труд — это ключ к успеху.",
+        "zh": "努力是成功的关键。",
+        "es": "El trabajo duro es la clave del éxito.",
+        "fr": "Le travail acharné est la clé du succès.",
+        "ar": "العمل الجاد هو مفتاح النجاح.",
+        "pt": "O trabalho duro é a chave para o sucesso.",
+        "hi": "कड़ी मेहनत ही सफलता की कुंजी है।"
+      }
+    },
+    "learned": false
+  }
+]
