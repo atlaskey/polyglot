@@ -67,7 +67,7 @@ class page {
                       <span>${item.word}</span>
                   </div>
               </td>
-              <td class="text-muted font-monospace small">${item.transcription}</td>
+              <td class="text-muted small phonetic">${item.transcription}</td>
               <td>${translation}</td>
               <td class="text-center">
                   <div class="form-check form-switch d-inline-block">
