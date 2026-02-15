@@ -19,7 +19,6 @@ class page {
     buttons.forEach(btn => btn.classList.remove('active'));
     if (element) element.classList.add('active');
 
-    const nativeLang = document.getElementById('nativeLang').value;
     const filePath = `/data/${this.studyLang}_${value}.json`;
 
     try {
@@ -27,34 +26,33 @@ class page {
         if (!response.ok) throw new Error('Network response was not ok');
         
         this.currentData = await response.json();
-        
-        // Apply saved progress
         this.currentData.forEach(item => {
             const saved = localStorage.getItem(`${this.studyLang}_${value}_${item.id}`);
             if (saved !== null) item.learned = (saved === 'true');
         });
         
-        this.renderTable(nativeLang);
+        this.renderTable();
     } catch (e) {
         console.error("Error loading level:", e);
-        // Optional: show a message to the user in the table body
         document.getElementById('vocabBody').innerHTML = '<tr><td colspan="5" class="text-center">Error loading data.</td></tr>';
     }
   }
   
-  reloadCurrentLevel() {
-    this.studyLang = document.getElementById('studyLang').value;
+  reloadCurrentLevel(value) {
+    this.studyLang = value;
     const activeBtn = document.querySelector('#levelGroup .btn.active');
     this.setLevel(this.currentLevel, activeBtn);
   }
   
   renderTable(nativeLang) {
+    if(nativeLang) this.nativeLang = nativeLang;
+
     const tbody = document.getElementById('vocabBody');
     if (!tbody) return;
     tbody.innerHTML = '';
 
     this.currentData.forEach((item, index) => {
-      const translation = item.translations[nativeLang] || "—";
+      const translation = item.translations[this.nativeLang] || "—";
       const row = `
           <tr class="${item.learned ? 'table-light opacity-50' : ''}">
               <th scope="row">${index + 1}</th>
@@ -88,7 +86,7 @@ class page {
         item.learned = isChecked;
         localStorage.setItem(`${this.studyLang}_${this.currentLevel}_${id}`, isChecked);
         if (this.username) {
-          ws_send({
+          W.ws_send({
             statsUpdate: true,
             username: this.username,
             data: {
@@ -100,7 +98,7 @@ class page {
           });
         }
     }
-    this.renderTable(document.getElementById('nativeLang').value);
+    this.renderTable();
   }
   
   speak(text) {
@@ -125,17 +123,16 @@ class page {
   async playNext() {
     if (!this.isPlaying || this.isPaused || this.playQueue.length === 0) return;
     const item = this.playQueue[this.currentIndex];
-    const nativeLang = document.getElementById('nativeLang').value;
 
     const regex = new RegExp(`(${item.word})`, 'gi');
     document.getElementById('playSentence').innerHTML = item.sentence.text.replace(regex, '<span class="highlight-word">$1</span>');
-    document.getElementById('playTranslation').innerText = item.sentence.translations[nativeLang];
+    document.getElementById('playTranslation').innerText = item.sentence.translations[this.nativeLang];
 
     document.getElementById('markLearnedBtn').onclick = () => {
         if (this.playTimer) clearTimeout(this.playTimer);
         item.learned = true;
         this.playQueue.splice(this.currentIndex, 1);
-        this.renderTable(nativeLang);
+        this.renderTable();
         if (this.playQueue.length === 0) { this.stopPlay(); } 
         else { if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0; this.playNext(); }
     };
@@ -221,7 +218,7 @@ class page {
         if (indexToRemove !== -1) {
             this.testQueue.splice(indexToRemove, 1);
         }
-        this.renderTable(document.getElementById('nativeLang').value);
+        this.renderTable();
         if (this.testQueue.length === 0) {
           setTimeout(() => {
             this.alert("Information","Congratulations! You've mastered all words in this level.");
@@ -310,9 +307,8 @@ class page {
     this.alert("Reset all my progress","Are you sure? This will delete all your learned words and progress across all languages.",() => {
       localStorage.clear();
       this.currentData.forEach(item => item.learned = false);
-      const nativeLang = document.getElementById('nativeLang').value;
-      this.renderTable(nativeLang);
-      if(this.username) ws_send({ reset: true, username: this.username });
+      this.renderTable();
+      if(this.username) W.ws_send({ reset: true, username: this.username });
     });
   }
   
@@ -399,7 +395,7 @@ class page {
     if (!password) return this.alert('Login Error', 'Password cannot be empty.');
     const md5 = this.md5(password);
 
-    ws_send({ login: user, md5 })
+    W.ws_send({ login: user, md5 });
   }
 
   signIn(user, password, c_password) {
@@ -408,7 +404,7 @@ class page {
     if (!password) return this.alert('Sign In Error', 'Password cannot be empty.');
     if (password !== c_password) return this.alert('Sign In Error', 'Passwords do not match.');
     const md5 = this.md5(password);
-    ws_send({ signin: user, md5 })
+    W.ws_send({ signin: user, md5 });
   }
 
   updateAuthButtonState() {
@@ -424,70 +420,104 @@ class page {
     btn.innerHTML = `<span class="material-symbols-outlined me-1 fs-6">person</span>${username}`;
     btn.removeAttribute('data-bs-toggle');
     btn.removeAttribute('data-bs-target');
-    ws_send({ statsLoad: true, username: this.username });
+    W.ws_send({ statsLoad: true, username: this.username });
   }
 }
 
 P = new page();
 
 window.onload = () => {
-    const nativeSelect = document.getElementById('nativeLang');
-    const firstBtn = document.querySelector('#levelGroup .btn.active');
-    P.setLevel(1000, firstBtn);
+  P.nativeLang = document.getElementById('nativeLang').value;
+  const firstBtn = document.querySelector('#levelGroup .btn.active');
+  P.setLevel(1000, firstBtn);
 };
 
-const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-const host = window.location.host;
-
-const ws = new WebSocket(`${protocol}//${host}/`);
-
-ws.onopen = () => {
-  ws_send({ ping: 1 });
-};
-
-ws.onmessage = e => {
-  let msg;
-  try {
-    msg = JSON.parse(e.data);
-  } catch (err) {
-    P.alert('Error', 'Received invalid JSON from server.');
-    return;
+class my_websocket {
+  constructor() {
+    this.init()
   }
 
-  if ('login' in msg) {
+  init() {
+    const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+    const host = window.location.host;
+    this.ws = new WebSocket(`${protocol}//${host}/`);
+
+    this.ws.onopen = () => { this.ws_send({ ping: 1 }) };
+    this.ws.onclose = () => { console.log("Connection is closed...") };
+
+    this.ws.onmessage = e => {
+      let msg;
+      try {
+        msg = JSON.parse(e.data);
+      } catch (err) {
+        return P.alert('Error', 'Received invalid JSON from server.');
+      }
+
+      if ('login' in msg) return this.login(msg);
+      if ('signin' in msg) return this.signin(msg);
+      if ('resetDone' in msg) return this.resetDone(msg);
+      if (msg.statsLoad) return this.statsLoad(msg);
+      if (msg.pong) {
+        P.isConnected = true;
+        P.updateAuthButtonState();
+        setTimeout(() => {
+          P.isConnected = false;
+          P.updateAuthButtonState();
+          this.ws_send({ ping: 1 })
+        }, 10000);
+      }
+    }
+  }
+
+  ws_send(data) {
+    if (this.ws.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify(data));
+  }
+
+  decodeIds(str) {
+    if (!str) return [];
+    const result = [];
+    const parts = str.split(',');
+    for (const part of parts) {
+      if (part.includes('-')) {
+        const [a,b] = part.split('-').map(Number);
+        for (let i = a; i <= b; i++) result.push(i);
+      } else {
+        result.push(Number(part));
+      }
+    }
+    return result;
+  }
+
+  login(msg) {
     if (msg.login) {
       P.alert('Login Success', msg.message);
       P.updateAuthButton(msg.username)
     } else {
       P.alert('Login Error', msg.error || 'Login failed.');
     }
-    return;
   }
 
-  if ('signin' in msg) {
+  signin(msg) {
     if (msg.signin) {
       P.alert('Sign In Success', msg.message);
       P.updateAuthButton(msg.username)
     } else {
       P.alert('Sign In Error', msg.error || 'Sign in failed.');
     }
-    return;
   }
 
-  if ('resetDone' in msg) {
+  resetDone(msg) {
     if (msg.resetDone) P.alert('Progress Reset', msg.message);
     else P.alert('Error', msg.message);
-    return
   }
-  
-  if (msg.statsLoad) {
+
+  statsLoad(msg) {
     const data = msg.data;
-    const nativeLang = document.getElementById('nativeLang').value;
-  
+    
     for (const lang in data) {
       for (const level in data[lang]) {
         const compact = data[lang][level] || '';
-        const ids = decodeIds(compact);
+        const ids = this.decodeIds(compact);
   
         ids.forEach(id => {
           localStorage.setItem(`${lang}_${level}_${id}`, true);
@@ -500,43 +530,8 @@ ws.onmessage = e => {
       }
     }
     
-    P.renderTable(nativeLang);
-    return
-  }
-  
-  if ('pong' in msg) {
-    P.isConnected = true;
-    P.updateAuthButtonState();
-    setTimeout(() => {
-      P.isConnected = false;
-      P.updateAuthButtonState();
-      ws_send({ ping: 1 })
-    }, 10000);
-    return;
-  }
-};
-
-ws.onclose = () => {
-  console.log("Connection is closed...");
-};
-
-function ws_send(data) {
-  if (ws.readyState === WebSocket.OPEN) {
-    ws.send(JSON.stringify(data));
+    P.renderTable();
   }
 }
 
-function decodeIds(str) {
-  if (!str) return [];
-  const result = [];
-  const parts = str.split(',');
-  for (const part of parts) {
-    if (part.includes('-')) {
-      const [a,b] = part.split('-').map(Number);
-      for (let i = a; i <= b; i++) result.push(i);
-    } else {
-      result.push(Number(part));
-    }
-  }
-  return result;
-}
+var W = new my_websocket();

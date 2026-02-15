@@ -34,7 +34,7 @@
 
       <div class="input-group input-group-sm">
         <label class="input-group-text" for="studyLang">Learning</label>
-        <select class="form-select" id="studyLang" onchange="P.reloadCurrentLevel()">
+        <select class="form-select" id="studyLang" onchange="P.reloadCurrentLevel(this.value)">
           <option value="en" selected>English</option>
           <option value="de">Deutsch</option>
         </select>
