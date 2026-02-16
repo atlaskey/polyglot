@@ -6,18 +6,37 @@ const { WebSocketServer } = require('ws');
 const app = express();
 const port = process.env.PORT || 8080;
 
+app.use(express.urlencoded({limit:'50mb',extended:true}));
+app.use(express.json({limit:'50mb'}));
 app.use(express.static(path.join(__dirname, 'www')));
+
+app.get('/userdata/:md5/:file', (req,res) => {
+  var x = { login: 'master', md5: req.params.md5 };
+  if(!W.login(0,x)) return res.json({});
+  const dir = path.join(__dirname, 'userdata');
+  const file = path.join(dir,req.params.file);
+  if(req.params.file == 'dir') return res.json(fs.readdirSync(dir));
+  if(fs.existsSync(file)) return res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
+  res.json({});
+});
+
+app.post('/userdata/:md5/:file',(req,res)=> {
+  var x = { login: 'master', md5: req.params.md5 };
+  if(!W.login(0,x)) return res.json({});
+  const dir = path.join(__dirname, 'userdata');
+  const file = path.join(dir,req.params.file);
+  fs.writeFileSync(file, JSON.stringify(req.body, null, 2), 'utf-8');
+  res.json({ upload: file }); 
+});
 
 const server = app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 
-
 class my_websocket {
   clients = []
   
   constructor() {
-    this.USERS_FILE = path.join(__dirname, 'users.json');
     this.init();
   }
   
@@ -47,9 +66,10 @@ class my_websocket {
   }
   
   readUsers() {
-    if (!fs.existsSync(this.USERS_FILE)) return {};
+    var USERS_FILE = this.statsFile();
+    if (!fs.existsSync(USERS_FILE)) return {};
     try {
-      const data = fs.readFileSync(this.USERS_FILE, 'utf-8');
+      const data = fs.readFileSync(USERS_FILE, 'utf-8');
       return JSON.parse(data);
     } catch (err) {
       console.error('Error reading users.json:', err);
@@ -59,7 +79,8 @@ class my_websocket {
   
   writeUsers(users) {
     try {
-      fs.writeFileSync(this.USERS_FILE, JSON.stringify(users, null, 2), 'utf-8');
+      var USERS_FILE = this.statsFile();
+      fs.writeFileSync(USERS_FILE, JSON.stringify(users, null, 2), 'utf-8');
     } catch (err) {
       console.error('Error writing users.json:', err);
     }
@@ -73,16 +94,17 @@ class my_websocket {
     let users = this.readUsers();
 
     if (!users[x.login]) {
-      this.ws_send(ws, { login: false, error: 'User does not exist' });
-      return;
+      if(ws) this.ws_send(ws, { login: false, error: 'User does not exist' });
+      return false;
     }
 
     if (users[x.login] !== x.md5) {
-      this.ws_send(ws, { login: false, error: 'Incorrect password' });
-      return;
+      if(ws) this.ws_send(ws, { login: false, error: 'Incorrect password' });
+      return false;
     }
 
-    this.ws_send(ws, { login: true, username: x.login, message: `Welcome back, ${x.login}!` });
+    if(ws) this.ws_send(ws, { login: true, username: x.login, message: `Welcome back, ${x.login}!` });
+    return true
   }
   
   signin(ws,x) {
@@ -100,9 +122,10 @@ class my_websocket {
   }
   
   statsFile(username) {
-    const dataDir = path.join(__dirname, 'userdata');
-    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
-    return  path.join(dataDir, `stats_${username}.json`);
+    const dir = path.join(__dirname, 'userdata');
+    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+    if(username) return path.join(dir, `stats_${username}.json`);
+    return path.join(dir, `users.json`);
   }
   
   reset(ws,x) {
@@ -184,7 +207,7 @@ class my_websocket {
     }
     return result;
   }
-
+  
   ws_send(ws,data) {
    if (ws && ws.readyState == 1) ws.send(JSON.stringify(data))
   }

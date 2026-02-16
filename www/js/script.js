@@ -166,13 +166,15 @@ class page {
     if (this.testQueue.length === 0) return this.stopTest();
     this.currentTestItem = this.testQueue[Math.floor(Math.random() * this.testQueue.length)];
     const nativeLang = document.getElementById('nativeLang').value;
+    const text = this.currentTestItem.sentence.text;
     const regex = new RegExp(`(${this.currentTestItem.word})`, 'gi');
-    document.getElementById('testSentence').innerHTML = this.currentTestItem.sentence.text.replace(regex, '<span class="highlight-word">$1</span>');
+    document.getElementById('testSentence').innerHTML = text.replace(regex, '<span class="highlight-word">$1</span>');
     document.getElementById('testTranslation').innerText = this.currentTestItem.sentence.translations[nativeLang];
     document.getElementById('liveTranscript').innerText = '';
     document.getElementById('recordingStatus').innerText = 'Microphone off';
     document.getElementById('recordingStatus').className = 'text-muted';
-    this.speak(this.currentTestItem.sentence.text);
+    document.getElementById('testAudioBtn').onclick = () => this.speak(text) ;
+    this.speak(text);
   }
   
   toggleRecord() {

@@ -160,12 +160,11 @@
     <div class="modal-dialog modal-dialog-centered">
       <div class="modal-content border-warning shadow-lg">
         <div class="modal-header bg-warning text-dark">
-          <h5 class="modal-title">Knowledge Test</h5>
+          <h5 class="modal-title">Speaking Test</h5>
           <button type="button" class="btn-close" onclick="P.stopTest()" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center p-5">
           <div id="testDisplay">
-            <!-- Native hint first to help the user understand the context -->
             <p id="testTranslation" class="fs-5 text-muted mb-4 italic">Native Translation...</p>
             
             <div class="d-flex justify-content-center align-items-center mb-3">
@@ -181,7 +180,6 @@
             </div>
           </div>
           
-          <!-- Action Buttons -->
           <div class="mt-5 d-flex justify-content-center gap-3">
             <button class="btn btn-danger d-flex align-items-center" id="recordBtn" onclick="P.toggleRecord()">
               <span class="material-symbols-outlined me-1" id="micIcon">mic</span> Record
@@ -210,65 +208,58 @@
     </div>
   </div>
 
-  <!-- Модальное окно Login / Sign in -->
-<div class="modal fade" id="authModal" tabindex="-1" aria-labelledby="authModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
+  <div class="modal fade" id="authModal" tabindex="-1" aria-labelledby="authModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <div class="modal-header">
+          <h5 class="modal-title" id="authModalLabel">Login</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        
+        <div class="modal-body">
+          <form id="loginForm">
+            <div class="mb-3">
+              <label for="loginUsername" class="form-label">Username</label>
+              <input type="text" class="form-control" id="loginUsername" required>
+            </div>
+            <div class="mb-3">
+              <label for="loginPassword" class="form-label">Password</label>
+              <input type="password" class="form-control" id="loginPassword" required>
+            </div>
+            <p class="text-center">
+              <a href="#" id="showSignIn" onclick="P.toggleAuthForm('signIn', event)">Don't have an account? Sign in</a>
+            </p>
+          </form>
+          
+          <form id="signInForm" class="d-none">
+            <div class="mb-3">
+              <label for="signInUsername" class="form-label">Username</label>
+              <input type="text" class="form-control" id="signInUsername" required>
+            </div>
+            <div class="mb-3">
+              <label for="signInPassword" class="form-label">Password</label>
+              <input type="password" class="form-control" id="signInPassword" required>
+            </div>
+            <div class="mb-3">
+              <label for="signInConfirm" class="form-label">Confirm Password</label>
+              <input type="password" class="form-control" id="signInConfirm" required>
+            </div>
+            <p class="text-center">
+              <a href="#" id="showLogin" onclick="P.toggleAuthForm('login', event)">Already have an account? Login</a>
+            </p>
+          </form>
+        </div>
 
-      <!-- Заголовок модалки -->
-      <div class="modal-header">
-        <h5 class="modal-title" id="authModalLabel">Login</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="P.AuthForm('Cancel', event)">Cancel</button>
+          <button type="submit" class="btn btn-primary" id="authSubmit" form="loginForm" onclick="P.AuthForm('OK', event)">Login</button>
+        </div>
+
       </div>
-
-      <!-- Тело модалки -->
-      <div class="modal-body">
-        <!-- Login форма -->
-        <form id="loginForm">
-          <div class="mb-3">
-            <label for="loginUsername" class="form-label">Username</label>
-            <input type="text" class="form-control" id="loginUsername" required>
-          </div>
-          <div class="mb-3">
-            <label for="loginPassword" class="form-label">Password</label>
-            <input type="password" class="form-control" id="loginPassword" required>
-          </div>
-          <p class="text-center">
-            <a href="#" id="showSignIn" onclick="P.toggleAuthForm('signIn', event)">Don't have an account? Sign in</a>
-          </p>
-        </form>
-
-        <!-- Sign in форма (скрыта по умолчанию) -->
-        <form id="signInForm" class="d-none">
-          <div class="mb-3">
-            <label for="signInUsername" class="form-label">Username</label>
-            <input type="text" class="form-control" id="signInUsername" required>
-          </div>
-          <div class="mb-3">
-            <label for="signInPassword" class="form-label">Password</label>
-            <input type="password" class="form-control" id="signInPassword" required>
-          </div>
-          <div class="mb-3">
-            <label for="signInConfirm" class="form-label">Confirm Password</label>
-            <input type="password" class="form-control" id="signInConfirm" required>
-          </div>
-          <p class="text-center">
-            <a href="#" id="showLogin" onclick="P.toggleAuthForm('login', event)">Already have an account? Login</a>
-          </p>
-        </form>
-      </div>
-
-      <!-- Футер модалки -->
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="P.AuthForm('Cancel', event)">Cancel</button>
-        <button type="submit" class="btn btn-primary" id="authSubmit" form="loginForm" onclick="P.AuthForm('OK', event)">Login</button>
-      </div>
-
     </div>
   </div>
-</div>
-
-
+  
   <footer class="footer mt-5 py-5 bg-dark text-white-50 border-top border-secondary">
     <div class="container text-center">
       <div class="mb-4">
