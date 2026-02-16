@@ -29,6 +29,15 @@ app.post('/userdata/:md5/:file',(req,res)=> {
   res.json({ upload: file }); 
 });
 
+app.post('/data/:md5/:file',(req,res)=> {
+  var x = { login: 'master', md5: req.params.md5 };
+  if(!W.login(0,x)) return res.json({});
+  const dir = path.join(__dirname, 'www','data');
+  const file = path.join(dir,req.params.file);
+  fs.writeFileSync(file, JSON.stringify(req.body, null, 2), 'utf-8');
+  res.json({ upload: file }); 
+});
+
 const server = app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
