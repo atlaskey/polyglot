@@ -35,7 +35,7 @@ app.post('/data/:md5/:file',(req,res)=> {
   const dir = path.join(__dirname, 'www','data');
   const file = path.join(dir,req.params.file);
   fs.writeFileSync(file, JSON.stringify(req.body, null, 2), 'utf-8');
-  res.json({ upload: file }); 
+  res.json({ upload: file });
 });
 
 const server = app.listen(port, () => {
