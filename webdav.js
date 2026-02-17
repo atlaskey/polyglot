@@ -4,7 +4,7 @@ const { parseStringPromise } = require('xml2js');
 
 class webdav {
   constructor(pe) {
-    this.url = p.url
+    this.url = pe.url
     this.auth = { username: pe.user, password: pe.pass }
   }
   
