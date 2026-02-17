@@ -133,13 +133,13 @@ class page {
     document.getElementById('playTranslation').innerText = item.sentence.translations[this.nativeLang];
 
     document.getElementById('markLearnedBtn').onclick = () => {
-        if (this.playTimer) clearTimeout(this.playTimer);
-        item.learned = true;
-        this.saveLearned(item.id,true)
-        this.playQueue.splice(this.currentIndex, 1);
-        this.renderTable();
-        if (this.playQueue.length === 0) { this.stopPlay(); } 
-        else { if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0; this.playNext(); }
+      if (this.playTimer) clearTimeout(this.playTimer);
+      item.learned = true;
+      this.saveLearned(item.id,true)
+      this.playQueue.splice(this.currentIndex, 1);
+      this.renderTable();
+      if (this.playQueue.length === 0) { this.stopPlay(); } 
+      else { if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0; this.playNext(); }
     };
 
     this.speak(item.sentence.text);
@@ -307,12 +307,10 @@ class page {
     this.isPlaying = false;
     clearTimeout(this.playTimer);
     bootstrap.Modal.getInstance(document.getElementById('playModal')).hide();
-    this.renderTable();
   }
   
   stopTest() {
     bootstrap.Modal.getInstance(document.getElementById('testModal')).hide();
-    this.renderTable();
   }
   
   resetProgress() {
