@@ -80,7 +80,7 @@ class page {
     this.updateProgress();
   }
   
-  toggleLearned(id, isChecked) {
+  saveLearned(id, isChecked) {
     const item = this.currentData.find(i => i.id === id);
     if (item) {
         item.learned = isChecked;
@@ -98,6 +98,10 @@ class page {
           });
         }
     }
+  }
+  
+  toggleLearned(id, isChecked) {
+    this.saveLearned(id, isChecked)
     this.renderTable();
   }
   
@@ -131,6 +135,7 @@ class page {
     document.getElementById('markLearnedBtn').onclick = () => {
         if (this.playTimer) clearTimeout(this.playTimer);
         item.learned = true;
+        this.saveLearned(item.id,true)
         this.playQueue.splice(this.currentIndex, 1);
         this.renderTable();
         if (this.playQueue.length === 0) { this.stopPlay(); } 
@@ -218,9 +223,10 @@ class page {
         statusEl.innerText = "✓ Correct!";
         statusEl.className = "text-success fw-bold";
         this.currentTestItem.learned = true;
+        this.saveLearned(this.currentTestItem.id,true);
         const indexToRemove = this.testQueue.findIndex(item => item.id === this.currentTestItem.id);
         if (indexToRemove !== -1) {
-            this.testQueue.splice(indexToRemove, 1);
+          this.testQueue.splice(indexToRemove, 1);
         }
         this.renderTable();
         if (this.testQueue.length === 0) {
@@ -300,11 +306,13 @@ class page {
   stopPlay() {
     this.isPlaying = false;
     clearTimeout(this.playTimer);
-    bootstrap.Modal.getInstance(document.getElementById('playModal')).hide()
+    bootstrap.Modal.getInstance(document.getElementById('playModal')).hide();
+    this.renderTable();
   }
   
   stopTest() {
-    bootstrap.Modal.getInstance(document.getElementById('testModal')).hide()
+    bootstrap.Modal.getInstance(document.getElementById('testModal')).hide();
+    this.renderTable();
   }
   
   resetProgress() {
@@ -410,12 +418,12 @@ class page {
     const md5 = this.md5(password);
     W.ws_send({ signin: user, md5 });
   }
-
+  
   updateAuthButtonState() {
     const btn = document.getElementById('authBtn');
     btn.disabled = !this.isConnected;
   }
-
+  
   updateAuthButton(username) {
     this.username = username;
     const btn = document.getElementById('authBtn');
