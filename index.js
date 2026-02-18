@@ -1,7 +1,11 @@
+const fs = require('fs');
 const path = require('path');
 const express = require('express');
 const webdav = require('./webdav.js');
 const websocket = require('./websocket.js');
+
+const userdata = path.join(__dirname, 'userdata');
+if (!fs.existsSync(userdata)) fs.mkdirSync(userdata, { recursive: true });
 
 const app = express();
 const port = process.env.PORT || 8080;
