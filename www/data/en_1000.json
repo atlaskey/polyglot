@@ -1261,7 +1261,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This is my favourite video game.",
+      "text": "This is my favorite video game.",
       "translations": {
         "ru": "Это моя любимая видеоигра.",
         "zh": "",
@@ -2067,7 +2067,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t have much money.",
+      "text": "I don't have much money.",
       "translations": {
         "ru": "У меня немного денег.",
         "zh": "",
@@ -2717,7 +2717,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t know why she left.",
+      "text": "I don't know why she left.",
       "translations": {
         "ru": "Я не знаю, почему она ушла.",
         "zh": "",
@@ -3601,7 +3601,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I’d like a glass of orange juice, please.",
+      "text": "I'd like a glass of orange juice, please.",
       "translations": {
         "ru": "Я хотел бы стакан апельсинового сока, пожалуйста.",
         "zh": "",
@@ -3705,7 +3705,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Football is my favourite sport.",
+      "text": "Football is my favorite sport.",
       "translations": {
         "ru": "Футбол - мой любимый спорт.",
         "zh": "",
@@ -4017,7 +4017,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I’m learning the German language.",
+      "text": "I'm learning the German language.",
       "translations": {
         "ru": "Я учу немецкий язык.",
         "zh": "",
@@ -4251,7 +4251,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Let’s get some ice cream after lunch.",
+      "text": "Let's get some ice cream after lunch.",
       "translations": {
         "ru": "Давай купим мороженое после обеда.",
         "zh": "",
@@ -4381,7 +4381,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Swimming is my favourite sport.",
+      "text": "Swimming is my favorite sport.",
       "translations": {
         "ru": "Плавание — мой любимый спорт.",
         "zh": "",
@@ -5681,7 +5681,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t have any money.",
+      "text": "I don't have any money.",
       "translations": {
         "ru": "У меня нет денег.",
         "zh": "",
@@ -6019,9 +6019,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "English is my favourite subject.",
+      "text": "English is my favorite subject.",
       "translations": {
-        "ru": "Английский — мой любимый предмет.",
+        "ru": "Английский - мой любимый предмет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6097,7 +6097,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t worry about it.",
+      "text": "Don't worry about it.",
       "translations": {
         "ru": "Не волнуйся об этом.",
         "zh": "",
@@ -6227,7 +6227,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I can’t go because I’m busy.",
+      "text": "I can't go because I'm busy.",
       "translations": {
         "ru": "Я не могу идти, потому что занят.",
         "zh": "",
@@ -7293,7 +7293,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The ticket costs 100$.",
+      "text": "The ticket costs 100 $.",
       "translations": {
         "ru": "Билет стоит 100 долларов.",
         "zh": "",
@@ -7541,10 +7541,10 @@
   },
   {
     "id": 291,
-    "word": "thisty",
-    "transcription": "/ˈθɜːsti/",
+    "word": "thirsty",
+    "transcription": "/ˈθɝːsti/",
     "translations": {
-      "ru": "тридцать",
+      "ru": "испытывающий жажду",
       "zh": "口渴",
       "es": "sediento/sedienta",
       "fr": "",
@@ -7813,7 +7813,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I get up at 7.",
+      "text": "I get up at seven.",
       "translations": {
         "ru": "Я встаю в 7.",
         "zh": "",
@@ -8125,9 +8125,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I sign the document.",
+      "text": "I signed the document.",
       "translations": {
-        "ru": "Я подписываю документ.",
+        "ru": "Я подписал документ.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11739,7 +11739,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t lose your keys.",
+      "text": "Don't lose your keys.",
       "translations": {
         "ru": "Не теряй свои ключи.",
         "zh": "",
@@ -11869,7 +11869,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I ride a bike everyday.",
+      "text": "I ride a bike every day.",
       "translations": {
         "ru": "Я катаюсь на велосипеде каждый день.",
         "zh": "",
@@ -15301,7 +15301,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t know anything.",
+      "text": "I don't know anything.",
       "translations": {
         "ru": "Я ничего не знаю.",
         "zh": "",
@@ -15379,7 +15379,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t forget your bag.",
+      "text": "Don't forget your bag.",
       "translations": {
         "ru": "Не забудь свою сумку.",
         "zh": "",
@@ -15717,7 +15717,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t know this word.",
+      "text": "I don't know this word.",
       "translations": {
         "ru": "Я не знаю этого слова.",
         "zh": "",
@@ -16601,9 +16601,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They kiss each other.",
+      "text": "Give me a kiss.",
       "translations": {
-        "ru": "Они целуются.",
+        "ru": "Дай мне поцелуй.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19123,7 +19123,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t understand it at all.",
+      "text": "I don't understand it at all.",
       "translations": {
         "ru": "Я совсем не понимаю это.",
         "zh": "",
@@ -22529,7 +22529,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t waste time.",
+      "text": "Don't waste time.",
       "translations": {
         "ru": "Не трать время зря.",
         "zh": "",
@@ -22789,7 +22789,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t interrupt me.",
+      "text": "Don't interrupt me.",
       "translations": {
         "ru": "Не перебивай меня.",
         "zh": "",
@@ -24687,7 +24687,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t live there anymore.",
+      "text": "I don't live there anymore.",
       "translations": {
         "ru": "Я больше там не живу.",
         "zh": "",
@@ -25519,7 +25519,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Unfortunately, I can’t come.",
+      "text": "Unfortunately, I can't come.",
       "translations": {
         "ru": "К сожалению, я не могу прийти.",
         "zh": "",

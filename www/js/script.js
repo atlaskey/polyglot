@@ -286,6 +286,7 @@ class page {
       t = t.replace(' 20 ', ' twenty ');
       t = t.replace(' 60 ',' sixty ');
       t = t.replace(' 90 ',' ninety ');
+      t = t.replace(' 100 ',' one hundred ');
     }
     return t
   }
