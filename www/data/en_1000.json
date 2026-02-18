@@ -8593,9 +8593,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her husband is kind.",
+      "text": "My husband works as doctor.",
       "translations": {
-        "ru": "Её муж добрый.",
+        "ru": "Мой муж работает врачём.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11323,7 +11323,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t smoke inside.",
+      "text": "Don't smoke inside.",
       "translations": {
         "ru": "Не кури внутри.",
         "zh": "",
@@ -16549,9 +16549,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her hair is long.",
+      "text": "I cut my hair.",
       "translations": {
-        "ru": "Её волосы длинные.",
+        "ru": "Я отрезал мои волосы.",
         "zh": "",
         "es": "",
         "fr": "",

@@ -270,6 +270,13 @@ class page {
     }
   }
   
+  correctTranscript(t) {
+    if(this.studyLang == "en") {
+      t = t.replace(' 10 ','ten')
+    }
+    return t
+  }
+
   initSpeechRecognition() {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) {
@@ -284,6 +291,7 @@ class page {
       for (let i = event.resultIndex; i < event.results.length; ++i) {
         transcript += event.results[i][0].transcript;
       }
+      transcript = this.correctTranscript(transcript);
       document.getElementById('liveTranscript').innerText = transcript;
     };
     recognition.onerror = (event) => {
