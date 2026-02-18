@@ -6,8 +6,9 @@ class websocket {
   clients = []
   
   constructor(server,save) {
+    this.userdata = path.join(__dirname, 'userdata');
+    if (!fs.existsSync(this.userdata)) fs.mkdirSync(this.userdata, { recursive: true });
     this.save = save;
-    this.statsFile();
     this.init(server);
   }
   
@@ -94,10 +95,8 @@ class websocket {
   }
   
   statsFile(username) {
-    const dir = path.join(__dirname, 'userdata');
-    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-    if(username) return path.join(dir, `stats_${username}.json`);
-    return path.join(dir, `users.json`);
+    if(username) return path.join(this.userdata, `stats_${username}.json`);
+    return path.join(this.userdata, `users.json`);
   }
   
   reset(ws,x) {

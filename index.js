@@ -1,4 +1,3 @@
-const fs = require('fs');
 const path = require('path');
 const express = require('express');
 const webdav = require('./webdav.js');
@@ -7,8 +6,8 @@ const websocket = require('./websocket.js');
 const app = express();
 const port = process.env.PORT || 8080;
 
-app.use(express.urlencoded({limit:'50mb',extended:true}));
 app.use(express.json({limit:'50mb'}));
+app.use(express.urlencoded({limit:'50mb',extended:true}));
 app.use(express.static(path.join(__dirname, 'www')));
 
 const server = app.listen(port, () => {
@@ -24,9 +23,9 @@ var ws = new websocket(server, localPath => {
 });
 
 (async () => {
-  var list = await wd.list('/polyglot-2026');
-  if(!list.connected) return
-  for(var e of list.data) if(!e.isDirectory) {
+  var x = await wd.list('/polyglot-2026');
+  if(!x.connected) return console.log('Webdav connection error: '+x.error);
+  for(var e of x.data) if(!e.isDirectory) {
     await wd.downloadFile(e.href, path.join(__dirname,'userdata',e.name));
   }
 })();

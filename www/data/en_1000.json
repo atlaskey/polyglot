@@ -2197,9 +2197,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I have 10 pencils.",
+      "text": "She is ten years old.",
       "translations": {
-        "ru": "У меня есть 10 карандашей.",
+        "ru": "Ей десять лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4043,7 +4043,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He doesn’t eat meat on Mondays.",
+      "text": "He doesn't eat meat on Mondays.",
       "translations": {
         "ru": "Он не ест мясо по понедельникам.",
         "zh": "",
@@ -8905,7 +8905,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Alright, let’s go.",
+      "text": "Alright, let's go.",
       "translations": {
         "ru": "Хорошо, пошли.",
         "zh": "",
@@ -17109,7 +17109,7 @@
   },
   {
     "id": 659,
-    "word": "favourite",
+    "word": "favorite",
     "transcription": "/ˈfeɪvərɪt/",
     "translations": {
       "ru": "любимый",
@@ -17121,7 +17121,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Blue is my favourite colour.",
+      "text": "Blue is my favorite color.",
       "translations": {
         "ru": "Синий — мой любимый цвет.",
         "zh": "",
