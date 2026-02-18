@@ -272,7 +272,20 @@ class page {
   
   correctTranscript(t) {
     if(this.studyLang == "en") {
-      t = t.replace(' 10 ','ten')
+      t = t.replace(' 1 ',' one ');
+      t = t.replace(' 2 ',' two ');
+      t = t.replace(' 3 ', ' three ');
+      t = t.replace(' 4 ', ' four ');
+      t = t.replace(' 5 ', ' five ');
+      t = t.replace(' 6 ', ' six ');
+      t = t.replace(' 7 ', ' seven ');
+      t = t.replace(' 8 ', ' eight ');
+      t = t.replace(' 9 ', ' nine ');
+      t = t.replace(' 10 ',' ten ');
+      t = t.replace(' 18 ', ' eighteen ');
+      t = t.replace(' 20 ', ' twenty ');
+      t = t.replace(' 60 ',' sixty ');
+      t = t.replace(' 90 ',' ninety ');
     }
     return t
   }

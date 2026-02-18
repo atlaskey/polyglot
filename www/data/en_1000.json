@@ -169,9 +169,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "It was a horrible argument and I don't want to talk about it.",
+      "text": "I don't want to talk about it.",
       "translations": {
-        "ru": "Это был ужасный спор, и я не хочу об этом говорить.",
+        "ru": "Я не хочу об этом говорить.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -585,9 +585,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Where are my glasses? They were on the table a minute ago.",
+      "text": "They like coffee.",
       "translations": {
-        "ru": "Где мои очки? Они были на столе минуту назад.",
+        "ru": "Им нравится коые.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3445,7 +3445,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "These two shirts are different colours.",
+      "text": "These two shirts are different colors.",
       "translations": {
         "ru": "Эти две рубашки разного цвета.",
         "zh": "",
@@ -8775,9 +8775,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is 60 years old.",
+      "text": "He is sixty years old.",
       "translations": {
-        "ru": "Ему 60 лет.",
+        "ru": "Ему sixty лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9087,9 +9087,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I have 8 apples.",
+      "text": "I have eight apples.",
       "translations": {
-        "ru": "У меня 8 яблок.",
+        "ru": "У меня eight яблок.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9113,9 +9113,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She is 18 years old.",
+      "text": "She is eighteen years old.",
       "translations": {
-        "ru": "Ей 18 лет.",
+        "ru": "Ей eighteen лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21269,7 +21269,7 @@
   },
   {
     "id": 819,
-    "word": "colour",
+    "word": "color",
     "transcription": "/ˈkʌlər/",
     "translations": {
       "ru": "цвет",
@@ -21281,7 +21281,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I like this colour.",
+      "text": "I like this color.",
       "translations": {
         "ru": "Мне нравится этот цвет.",
         "zh": "",
