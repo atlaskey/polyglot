@@ -4,9 +4,6 @@ const express = require('express');
 const webdav = require('./webdav.js');
 const websocket = require('./websocket.js');
 
-const userdata = path.join(__dirname, 'userdata');
-if (!fs.existsSync(userdata)) fs.mkdirSync(userdata, { recursive: true });
-
 const app = express();
 const port = process.env.PORT || 8080;
 
@@ -21,6 +18,11 @@ const server = app.listen(port, () => {
 require('dotenv').config();
 var wd = new webdav(process.env);
 
+var ws = new websocket(server, localPath => {
+  const remotePath = '/polyglot-2026/'+path.basename(localPath);
+  wd.uploadFile(localPath,remotePath);
+});
+
 (async () => {
   var list = await wd.list('/polyglot-2026');
   if(!list.connected) return
@@ -28,9 +30,3 @@ var wd = new webdav(process.env);
     await wd.downloadFile(e.href, path.join(__dirname,'userdata',e.name));
   }
 })();
-
-var ws = new websocket(server, localPath => {
-  const remotePath = '/polyglot-2026/'+path.basename(localPath);
-  wd.uploadFile(localPath,remotePath);
-});
-

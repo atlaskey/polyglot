@@ -7,6 +7,7 @@ class websocket {
   
   constructor(server,save) {
     this.save = save;
+    this.statsFile();
     this.init(server);
   }
   
