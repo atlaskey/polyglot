@@ -282,8 +282,10 @@ class page {
       t = t.replace(' 8 ', ' eight ');
       t = t.replace(' 9 ', ' nine ');
       t = t.replace(' 10 ',' ten ');
+      t = t.replace(' 15 ', ' fifteen ');
       t = t.replace(' 18 ', ' eighteen ');
       t = t.replace(' 20 ', ' twenty ');
+      t = t.replace(' 40 ', ' forty ');
       t = t.replace(' 50 ', ' fifty ');
       t = t.replace(' 60 ',' sixty ');
       t = t.replace(' 90 ',' ninety ');

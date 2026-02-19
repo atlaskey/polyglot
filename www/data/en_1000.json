@@ -39,9 +39,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Anna can speak three languages.",
+      "text": "I can speak three languages.",
       "translations": {
-        "ru": "Анна может говорить на трёх языках.",
+        "ru": "Я могу говорить на трёх языках.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -143,9 +143,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "You said I could go with you.",
+      "text": "I could go with you.",
       "translations": {
-        "ru": "Ты сказал, что я могу пойти с тобой.",
+        "ru": "Я мог бы пойти с тобой.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1859,9 +1859,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I prefer to travel with euros in Europe.",
+      "text": "I need to withdraw fifty euros from the ATM.",
       "translations": {
-        "ru": "Я предпочитаю путешествовать по Европе с евро.",
+        "ru": "Мне нужно снять пятьдесят евро в банкомате.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2067,9 +2067,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don't have much money.",
+      "text": "I don't have much time.",
       "translations": {
-        "ru": "У меня немного денег.",
+        "ru": "У меня мало времени.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2301,9 +2301,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "There are 20 chairs in the room.",
+      "text": "There are twenty chairs in the room.",
       "translations": {
-        "ru": "В комнате 20 стульев.",
+        "ru": "В комнате двадцать стульев.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3499,7 +3499,7 @@
     "sentence": {
       "text": "I usually eat breakfast at seven o'clock in the morning.",
       "translations": {
-        "ru": "Обычно я завтракаю в 7 утра.",
+        "ru": "Обычно я завтракаю в семь часов утра.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4017,7 +4017,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I'm learning the German language.",
+      "text": "I am learning the German language.",
       "translations": {
         "ru": "Я учу немецкий язык.",
         "zh": "",
@@ -5005,9 +5005,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This is his book.",
+      "text": "He forgot his keys at home.",
       "translations": {
-        "ru": "Это его книга.",
+        "ru": "Он забыл ключи дома.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5681,9 +5681,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don't have any money.",
+      "text": "Do you have any questions?",
       "translations": {
-        "ru": "У меня нет денег.",
+        "ru": "У вас есть какие-либо вопросы?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7293,9 +7293,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The ticket costs 100 $.",
+      "text": "I ran one hundred meters in the race.",
       "translations": {
-        "ru": "Билет стоит 100 долларов.",
+        "ru": "В забеге я пробежал сто метров.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8229,9 +8229,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I leave at 5.",
+      "text": "Please don't leave your bag on the floor.",
       "translations": {
-        "ru": "Я ухожу в 5.",
+        "ru": "Пожалуйста, не оставляйте сумку на полу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12155,9 +12155,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My eye hurts.",
+      "text": "She has blue eyes.",
       "translations": {
-        "ru": "У меня болит глаз.",
+        "ru": "У неё голубые глаза.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13143,9 +13143,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I eat breakfast at 7.",
+      "text": "She made eggs and toast for breakfast.",
       "translations": {
-        "ru": "Я завтракаю в 7.",
+        "ru": "Она приготовила на завтрак яичницу и тосты.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15511,7 +15511,7 @@
     "sentence": {
       "text": "Learn from the past.",
       "translations": {
-        "ru": "Учись на прошлом.",
+        "ru": "Учитесь на ошибках прошлого.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15665,7 +15665,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I met your on Tuesday.",
+      "text": "I met you on Tuesday.",
       "translations": {
         "ru": "Я встретил тебя во вторник.",
         "zh": "",
@@ -19305,7 +19305,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I wait for 1 hour.",
+      "text": "I wait for one hour.",
       "translations": {
         "ru": "Я жду один час.",
         "zh": "",
@@ -20917,9 +20917,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I have experience in teaching.",
+      "text": "I have a lot of experience in teaching.",
       "translations": {
-        "ru": "У меня есть опыт преподавания.",
+        "ru": "У меня большой опыт преподавания.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21801,9 +21801,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Winning the race was a great achievement.",
+      "text": "Completing the project on time was a major achievement for the team.",
       "translations": {
-        "ru": "Победа в гонке была большим достижением.",
+        "ru": "Завершение проекта в срок стало большим достижением для команды.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22113,9 +22113,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I realise my mistake.",
+      "text": "I realized my mistake.",
       "translations": {
-        "ru": "Я понимаю свою ошибку.",
+        "ru": "Я осознал свою ошибку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22399,7 +22399,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The news was a shock.",
+      "text": "The news was shocking.",
       "translations": {
         "ru": "Новость была шокирующей.",
         "zh": "",
@@ -23829,9 +23829,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The prisoner is in prison.",
+      "text": "He spent five years in prison.",
       "translations": {
-        "ru": "Заключённый находится в тюрьме.",
+        "ru": "Он провёл пять лет в тюрьме.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24687,7 +24687,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t eat meat anymore.",
+      "text": "I don't eat meat anymore.",
       "translations": {
         "ru": "Я больше не ем мясо.",
         "zh": "",
