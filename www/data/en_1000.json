@@ -5213,9 +5213,9 @@
       "hi": "सप्ताह"
     },
     "sentence": {
-      "text": "I work 5 days a week.",
+      "text": "I work five days a week.",
       "translations": {
-        "ru": "Я работаю 5 дней в неделю.",
+        "ru": "Я работаю пять дней в неделю.",
         "zh": "我每周工作五天。",
         "es": "Trabajo cinco días a la semana.",
         "fr": "Je travaille cinq jours par semaine.",
