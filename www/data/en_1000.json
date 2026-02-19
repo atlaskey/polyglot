@@ -9217,7 +9217,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "OK, I understand.",
+      "text": "Okay, I understand.",
       "translations": {
         "ru": "Хорошо, я понимаю.",
         "zh": "",
@@ -25585,7 +25585,7 @@
   },
   {
     "id": 985,
-    "word": "apologise",
+    "word": "apologize",
     "transcription": "/əˈpɒlədʒaɪz/",
     "translations": {
       "ru": "извиняться",
@@ -25597,7 +25597,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I apologise for being late.",
+      "text": "I apologize for being late.",
       "translations": {
         "ru": "Я извиняюсь за опоздание.",
         "zh": "",
@@ -25987,9 +25987,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My mom works for a travel agency.",
+      "text": "I work for a travel agency.",
       "translations": {
-        "ru": "Моя мама работает в туристическом агентстве.",
+        "ru": "Я работаю в туристическом агентстве.",
         "zh": "",
         "es": "",
         "fr": "",
