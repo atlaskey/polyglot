@@ -189,9 +189,9 @@ class page {
       this.recognition.continuous = true;
       this.recognition.interimResults = true;
       this.recognition.onresult = (e) => {
-          let text = '';
-          for (let i = e.resultIndex; i < e.results.length; ++i) text += e.results[i][0].transcript;
-          document.getElementById('liveTranscript').innerText = text;
+        let text = '';
+        for (let i = e.resultIndex; i < e.results.length; ++i) text += e.results[i][0].transcript;
+        document.getElementById('liveTranscript').innerText = text;
       };
     }
 
@@ -203,11 +203,13 @@ class page {
       document.getElementById('recordingStatus').innerText = 'Listening...';
       document.getElementById('recordingStatus').className = 'text-muted';
       this.updateRecordUI(true);
+      $('.test-btn').prop("disabled", true);
     } else {
       this.recognition.stop();
       this.isRecording = false;
       this.updateRecordUI(false);
       setTimeout(() => this.validateSpeech(), 400);
+      $('.test-btn').prop("disabled", false);
     }
   }
   
@@ -235,7 +237,7 @@ class page {
             this.stopTest();
           }, 500);
         } else {
-            setTimeout(() => this.testNext(), 1500);
+          setTimeout(() => this.testNext(), 1500);
         }
     } else {
         statusEl.innerText = "✗ Try again!";

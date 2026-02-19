@@ -161,7 +161,7 @@
       <div class="modal-content border-warning shadow-lg">
         <div class="modal-header bg-warning text-dark">
           <h5 class="modal-title">Speaking Test</h5>
-          <button type="button" class="btn-close" onclick="P.stopTest()" aria-label="Close"></button>
+          <button type="button" class="btn-close test-btn" onclick="P.stopTest()" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center p-5">
           <div id="testDisplay">
@@ -184,7 +184,7 @@
             <button class="btn btn-danger d-flex align-items-center" id="recordBtn" onclick="P.toggleRecord()">
               <span class="material-symbols-outlined me-1" id="micIcon">mic</span> Record
             </button>
-            <button class="btn btn-primary d-flex align-items-center" onclick="P.testNext()">
+            <button class="btn btn-primary d-flex align-items-center test-btn" onclick="P.testNext()">
               <span class="material-symbols-outlined me-1">skip_next</span> Next
             </button>
           </div>
