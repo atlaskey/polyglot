@@ -15,42 +15,38 @@ class page {
   
   async setLevel(value, element) {
     this.currentLevel = value;
-    const buttons = document.querySelectorAll('#levelGroup .btn');
-    buttons.forEach(btn => btn.classList.remove('active'));
-    if (element) element.classList.add('active');
-
+    $('#levelGroup .btn').removeClass('active');
+    if (element) $(element).addClass('active');
     const filePath = `/data/${this.studyLang}_${value}.json`;
-
     try {
-        const response = await fetch(filePath);
-        if (!response.ok) throw new Error('Network response was not ok');
-        
-        this.currentData = await response.json();
-        this.currentData.forEach(item => {
-            const saved = localStorage.getItem(`${this.studyLang}_${value}_${item.id}`);
-            if (saved !== null) item.learned = (saved === 'true');
-        });
-        
-        this.renderTable();
+      const response = await fetch(filePath);
+      if (!response.ok) throw new Error('Network response was not ok');
+      this.currentData = await response.json();
+      this.currentData.forEach(item => {
+        const saved = localStorage.getItem(`${this.studyLang}_${value}_${item.id}`);
+        if (saved !== null) item.learned = (saved === 'true');
+      });
+      
+      this.renderTable();
     } catch (e) {
-        console.error("Error loading level:", e);
-        document.getElementById('vocabBody').innerHTML = '<tr><td colspan="5" class="text-center">Error loading data.</td></tr>';
+      console.error("Error loading level:", e);
+      $('#vocabBody').html('<tr><td colspan="5" class="text-center">Error loading data.</td></tr>');
     }
   }
   
   reloadCurrentLevel(value) {
     this.studyLang = value;
-    const activeBtn = document.querySelector('#levelGroup .btn.active');
-    this.setLevel(this.currentLevel, activeBtn);
+    const activeBtn = $('#levelGroup .btn.active');
+    this.setLevel(this.currentLevel, activeBtn.length ? activeBtn[0] : null);
   }
   
   renderTable(nativeLang) {
     if(nativeLang) this.nativeLang = nativeLang;
-
-    const tbody = document.getElementById('vocabBody');
-    if (!tbody) return;
-    tbody.innerHTML = '';
-
+    
+    const $tbody = $('#vocabBody');
+    if (!$tbody.length) return;
+    $tbody.empty();
+    
     this.currentData.forEach((item, index) => {
       const translation = item.translations[this.nativeLang] || "—";
       const row = `
@@ -59,8 +55,8 @@ class page {
               <td>
                   <div class="d-flex align-items-center">
                       <button class="btn btn-link btn-sm p-0 me-2 text-primary border-0" 
-                              onclick="P.speak('${item.word.replace(/'/g, "\\'")}')">
-                          <span class="material-symbols-outlined fs-5">volume_up</span>
+                        onclick="P.speak('${item.word.replace(/'/g, "\\'")}')">
+                        <span class="material-symbols-outlined fs-5">volume_up</span>
                       </button>
                       <span>${item.word}</span>
                   </div>
@@ -70,12 +66,12 @@ class page {
               <td class="text-center">
                   <div class="form-check form-switch d-inline-block">
                       <input class="form-check-input" type="checkbox" role="switch" 
-                             onchange="P.toggleLearned(${item.id}, this.checked)"
-                             id="word${item.id}" ${item.learned ? 'checked' : ''}>
+                        onchange="P.toggleLearned(${item.id}, this.checked)"
+                        id="word${item.id}" ${item.learned ? 'checked' : ''}>
                   </div>
               </td>
           </tr>`;
-      tbody.insertAdjacentHTML('beforeend', row);
+      $tbody.append(row);
     });
     this.updateProgress();
   }
@@ -127,20 +123,23 @@ class page {
   async playNext() {
     if (!this.isPlaying || this.isPaused || this.playQueue.length === 0) return;
     const item = this.playQueue[this.currentIndex];
-
+    
     const regex = new RegExp(`(${item.word})`, 'gi');
-    document.getElementById('playSentence').innerHTML = item.sentence.text.replace(regex, '<span class="highlight-word">$1</span>');
-    document.getElementById('playTranslation').innerText = item.sentence.translations[this.nativeLang];
-
-    document.getElementById('markLearnedBtn').onclick = () => {
+    $('#playSentence').html(item.sentence.text.replace(regex,'<span class="highlight-word">$1</span>'));
+    $('#playTranslation').text(item.sentence.translations[this.nativeLang]);
+    
+    $('#markLearnedBtn').off('click').on('click', () => {
       if (this.playTimer) clearTimeout(this.playTimer);
       item.learned = true;
       this.saveLearned(item.id,true)
       this.playQueue.splice(this.currentIndex, 1);
       this.renderTable();
-      if (this.playQueue.length === 0) { this.stopPlay(); } 
-      else { if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0; this.playNext(); }
-    };
+      if (this.playQueue.length === 0) this.stopPlay() 
+      else {
+        if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0;
+        this.playNext()
+      }
+    });
 
     this.speak(item.sentence.text);
     if (this.playTimer) clearTimeout(this.playTimer);
@@ -153,16 +152,16 @@ class page {
   }
   
   togglePause() {
-      this.isPaused = !this.isPaused;
-      document.getElementById('pauseIcon').innerText = this.isPaused ? 'play_arrow' : 'pause';
-      if (!this.isPaused) this.playNext();
+    this.isPaused = !this.isPaused;
+    $('#pauseIcon').text(this.isPaused ? 'play_arrow' : 'pause');
+    if (!this.isPaused) this.playNext();
   }
   
   startTest() {
     this.testQueue = this.currentData.filter(item => !item.learned);
     if (this.testQueue.length === 0) this.alert("Information","Nothing to test!");
     else {
-      new bootstrap.Modal(document.getElementById('testModal')).show();
+      $('#testModal').modal('show');
       this.testNext();
     }
   }
@@ -170,15 +169,14 @@ class page {
   testNext() {
     if (this.testQueue.length === 0) return this.stopTest();
     this.currentTestItem = this.testQueue[Math.floor(Math.random() * this.testQueue.length)];
-    const nativeLang = document.getElementById('nativeLang').value;
+    const nativeLang = $('#nativeLang').val();
     const text = this.currentTestItem.sentence.text;
     const regex = new RegExp(`(${this.currentTestItem.word})`, 'gi');
-    document.getElementById('testSentence').innerHTML = text.replace(regex, '<span class="highlight-word">$1</span>');
-    document.getElementById('testTranslation').innerText = this.currentTestItem.sentence.translations[nativeLang];
-    document.getElementById('liveTranscript').innerText = '';
-    document.getElementById('recordingStatus').innerText = 'Microphone off';
-    document.getElementById('recordingStatus').className = 'text-muted';
-    document.getElementById('testAudioBtn').onclick = () => this.speak(text) ;
+    $('#testSentence').html(text.replace(regex, '<span class="highlight-word">$1</span>'));
+    $('#testTranslation').text(this.currentTestItem.sentence.translations[nativeLang]);
+    $('#liveTranscript').text('');
+    $('#recordingStatus').text('Microphone off').attr('class', 'text-muted');
+    $('#testAudioBtn').off('click').on('click', () => this.speak(text));
     this.speak(text);
   }
   
@@ -192,7 +190,7 @@ class page {
         let text = '';
         for (let i = e.resultIndex; i < e.results.length; ++i) text += e.results[i][0].transcript;
         text = this.correctTranscript(text);
-        document.getElementById('liveTranscript').innerText = text;
+        $('#liveTranscript').text(text);
       };
     }
 
@@ -200,9 +198,8 @@ class page {
       this.recognition.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
       this.recognition.start();
       this.isRecording = true;
-      document.getElementById('liveTranscript').innerText = '';
-      document.getElementById('recordingStatus').innerText = 'Listening...';
-      document.getElementById('recordingStatus').className = 'text-muted';
+      $('#liveTranscript').text('');
+      $('#recordingStatus').text('Listening...').attr('class', 'text-muted');
       this.updateRecordUI(true);
       $('.test-btn').prop("disabled", true);
     } else {
@@ -215,41 +212,32 @@ class page {
   }
   
   validateSpeech() {
-    const transcript = document.getElementById('liveTranscript').innerText;
+    const transcript = $('#liveTranscript').text();
     if (!transcript || !this.currentTestItem) return;
     
     const original = this.normalizeText(this.currentTestItem.sentence.text);
     const spoken = this.normalizeText(transcript);
-    const statusEl = document.getElementById('recordingStatus');
+    const $statusEl = $('#recordingStatus');
 
-    if (original === spoken) {
-        statusEl.innerText = "✓ Correct!";
-        statusEl.className = "text-success fw-bold";
-        this.currentTestItem.learned = true;
-        this.saveLearned(this.currentTestItem.id,true);
-        const indexToRemove = this.testQueue.findIndex(item => item.id === this.currentTestItem.id);
-        if (indexToRemove !== -1) {
-          this.testQueue.splice(indexToRemove, 1);
-        }
-        this.renderTable();
-        if (this.testQueue.length === 0) {
-          setTimeout(() => {
-            this.alert("Information","Congratulations! You've mastered all words in this level.");
-            this.stopTest();
-          }, 500);
-        } else {
-          setTimeout(() => this.testNext(), 1500);
-        }
-    } else {
-        statusEl.innerText = "✗ Try again!";
-        statusEl.className = "text-danger fw-bold";
-    }
+    if (original != spoken) return $statusEl.text("✗ Try again!").attr('class', 'text-danger fw-bold');
+    
+    $statusEl.text("✓ Correct!").attr('class', 'text-success fw-bold');
+    this.currentTestItem.learned = true;
+    this.saveLearned(this.currentTestItem.id,true);
+    const indexToRemove = this.testQueue.findIndex(item => item.id === this.currentTestItem.id);
+    if (indexToRemove !== -1) this.testQueue.splice(indexToRemove, 1);
+    this.renderTable();
+    
+    if (this.testQueue.length) return setTimeout(() => this.testNext(), 1500);
+    setTimeout(() => {
+      this.alert("Information","Congratulations! You've mastered all words in this level.");
+      this.stopTest();
+    }, 500);
   }
   
   updateRecordUI(active) {
-    const btn = document.getElementById('recordBtn');
-    btn.className = active ? 'btn btn-success' : 'btn btn-danger';
-    btn.innerHTML = active ? 'Stop recording' : 'Record';
+    const $btn = $('#recordBtn');
+    $btn.attr('class', active ? 'btn btn-success' : 'btn btn-danger').html(active ? 'Stop recording' : 'Record');
   }
   
   updateProgress() {
@@ -307,11 +295,11 @@ class page {
   stopPlay() {
     this.isPlaying = false;
     clearTimeout(this.playTimer);
-    bootstrap.Modal.getInstance(document.getElementById('playModal')).hide();
+    $('#playModal').modal('hide');
   }
   
   stopTest() {
-    bootstrap.Modal.getInstance(document.getElementById('testModal')).hide();
+    $('#testModal').modal('hide');
   }
   
   resetProgress() {
@@ -332,71 +320,79 @@ class page {
     });
   }
 
-  alert(title,message,ok) {
-    const modalElement = document.getElementById('alert');
-    const modal = new bootstrap.Modal(modalElement);
-    const cancelBtn = document.getElementById('btnCancel');
-    if(ok) cancelBtn.style.display = 'block';
-    else cancelBtn.style.display = 'none';
-    const okBtn = document.getElementById('btnOk');
+  alert(title, message, ok) {
+    const $modal = $('#alert');
+    const $cancelBtn = $('#btnCancel');
+    $cancelBtn.toggle(!!ok); // показываем или скрываем
+    const $okBtn = $('#btnOk');
     $('#alert_title').html(title);
-    $('#alert_message').html(message)
-    modal.show();
-    cancelBtn.onclick = () => { modal.hide() };
-    okBtn.onclick = () => { modal.hide(); if(ok) ok() };
+    $('#alert_message').html(message);
+    $modal.modal('show'); // короче, без [0]
+    $cancelBtn.off('click').on('click', () => $modal.modal('hide'));
+    $okBtn.off('click').on('click', () => {
+      $modal.modal('hide');
+      if (ok) ok();
+    });
   }
-
+  
   toggleAuthForm(formType, event) {
     event?.preventDefault();
-    const loginForm = document.getElementById('loginForm');
-    const signInForm = document.getElementById('signInForm');
-    const modalTitle = document.getElementById('authModalLabel');
-    const authSubmit = document.getElementById('authSubmit');
-  
+    
+    const $loginForm = $('#loginForm');
+    const $signInForm = $('#signInForm');
+    const $modalTitle = $('#authModalLabel');
+    const $authSubmit = $('#authSubmit');
+    
     if (formType === 'login') {
-      signInForm.classList.add('d-none');
-      loginForm.classList.remove('d-none');
-      modalTitle.textContent = 'Login';
-      authSubmit.setAttribute('form', 'loginForm');
-      authSubmit.textContent = 'Login';
+      $signInForm.addClass('d-none');
+      $loginForm.removeClass('d-none');
+      $modalTitle.text('Login');
+      $authSubmit.attr('form', 'loginForm').text('Login');
     } else {
-      loginForm.classList.add('d-none');
-      signInForm.classList.remove('d-none');
-      modalTitle.textContent = 'Sign in';
-      authSubmit.setAttribute('form', 'signInForm');
-      authSubmit.textContent = 'Sign in';
+      $loginForm.addClass('d-none');
+      $signInForm.removeClass('d-none');
+      $modalTitle.text('Sign in');
+      $authSubmit.attr('form', 'signInForm').text('Sign in');
     }
   }
 
   AuthForm(action, event) {
     event?.preventDefault();
-  
-    const loginForm = document.getElementById('loginForm');
-    const signInForm = document.getElementById('signInForm');
-    const modal = bootstrap.Modal.getInstance(document.getElementById('authModal'));
-  
-    const activeForm = loginForm.classList.contains('d-none') ? signInForm : loginForm;
-    const formType = loginForm.classList.contains('d-none') ? 'Sign in' : 'Login';
-  
+    
+    const $loginForm = $('#loginForm');
+    const $signInForm = $('#signInForm');
+    const $modal = $('#authModal');
+    
+    const activeForm = $loginForm.hasClass('d-none') ? $signInForm : $loginForm;
+    const formType = $loginForm.hasClass('d-none') ? 'Sign in' : 'Login';
+    
     if (action === 'Cancel') {
-      activeForm.reset(); modal.hide();
+      activeForm[0].reset();
+      $modal.modal('hide'); // jQuery-плагин, без [0]
       return;
     }
-  
+    
     if (action === 'OK') {
       const formData = {};
-      Array.from(activeForm.querySelectorAll('input')).forEach(input => {
-        formData[input.id] = input.value;
+      activeForm.find('input').each(function() {
+        formData[this.id] = $(this).val();
       });
-  
-      if (formType === 'Login') P.login(formData.loginUsername, formData.loginPassword);
-      else P.signIn(formData.signInUsername, formData.signInPassword, formData.signInConfirm);
-  
-      modal.hide();
-      activeForm.reset();
+      
+      if (formType === 'Login') {
+        P.login(formData.loginUsername, formData.loginPassword);
+      } else {
+        P.signIn(
+          formData.signInUsername,
+          formData.signInPassword,
+          formData.signInConfirm
+        );
+      }
+      
+      $modal.modal('hide'); // скрываем модалку
+      activeForm[0].reset();
     }
   }
-
+  
   md5(d){
     function M(d){for(var _,m="0123456789ABCDEF",f="",r=0;r<d.length;r++)_=d.charCodeAt(r),f+=m.charAt(_>>>4&15)+m.charAt(15&_);return f}function X(d){for(var _=Array(d.length>>2),m=0;m<_.length;m++)_[m]=0;for(m=0;m<8*d.length;m+=8)_[m>>5]|=(255&d.charCodeAt(m/8))<<m%32;return _}function V(d){for(var _="",m=0;m<32*d.length;m+=8)_+=String.fromCharCode(d[m>>5]>>>m%32&255);return _}function Y(d,_){d[_>>5]|=128<<_%32,d[14+(_+64>>>9<<4)]=_;for(var m=1732584193,f=-271733879,r=-1732584194,i=271733878,n=0;n<d.length;n+=16){var h=m,t=f,g=r,e=i;f=md5_ii(f=md5_ii(f=md5_ii(f=md5_ii(f=md5_hh(f=md5_hh(f=md5_hh(f=md5_hh(f=md5_gg(f=md5_gg(f=md5_gg(f=md5_gg(f=md5_ff(f=md5_ff(f=md5_ff(f=md5_ff(f,r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+0],7,-680876936),f,r,d[n+1],12,-389564586),m,f,d[n+2],17,606105819),i,m,d[n+3],22,-1044525330),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+4],7,-176418897),f,r,d[n+5],12,1200080426),m,f,d[n+6],17,-1473231341),i,m,d[n+7],22,-45705983),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+8],7,1770035416),f,r,d[n+9],12,-1958414417),m,f,d[n+10],17,-42063),i,m,d[n+11],22,-1990404162),r=md5_ff(r,i=md5_ff(i,m=md5_ff(m,f,r,i,d[n+12],7,1804603682),f,r,d[n+13],12,-40341101),m,f,d[n+14],17,-1502002290),i,m,d[n+15],22,1236535329),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+1],5,-165796510),f,r,d[n+6],9,-1069501632),m,f,d[n+11],14,643717713),i,m,d[n+0],20,-373897302),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+5],5,-701558691),f,r,d[n+10],9,38016083),m,f,d[n+15],14,-660478335),i,m,d[n+4],20,-405537848),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+9],5,568446438),f,r,d[n+14],9,-1019803690),m,f,d[n+3],14,-187363961),i,m,d[n+8],20,1163531501),r=md5_gg(r,i=md5_gg(i,m=md5_gg(m,f,r,i,d[n+13],5,-1444681467),f,r,d[n+2],9,-51403784),m,f,d[n+7],14,1735328473),i,m,d[n+12],20,-1926607734),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+5],4,-378558),f,r,d[n+8],11,-2022574463),m,f,d[n+11],16,1839030562),i,m,d[n+14],23,-35309556),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+1],4,-1530992060),f,r,d[n+4],11,1272893353),m,f,d[n+7],16,-155497632),i,m,d[n+10],23,-1094730640),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+13],4,681279174),f,r,d[n+0],11,-358537222),m,f,d[n+3],16,-722521979),i,m,d[n+6],23,76029189),r=md5_hh(r,i=md5_hh(i,m=md5_hh(m,f,r,i,d[n+9],4,-640364487),f,r,d[n+12],11,-421815835),m,f,d[n+15],16,530742520),i,m,d[n+2],23,-995338651),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+0],6,-198630844),f,r,d[n+7],10,1126891415),m,f,d[n+14],15,-1416354905),i,m,d[n+5],21,-57434055),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+12],6,1700485571),f,r,d[n+3],10,-1894986606),m,f,d[n+10],15,-1051523),i,m,d[n+1],21,-2054922799),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+8],6,1873313359),f,r,d[n+15],10,-30611744),m,f,d[n+6],15,-1560198380),i,m,d[n+13],21,1309151649),r=md5_ii(r,i=md5_ii(i,m=md5_ii(m,f,r,i,d[n+4],6,-145523070),f,r,d[n+11],10,-1120210379),m,f,d[n+2],15,718787259),i,m,d[n+9],21,-343485551),m=safe_add(m,h),f=safe_add(f,t),r=safe_add(r,g),i=safe_add(i,e)}return Array(m,f,r,i)}function md5_cmn(d,_,m,f,r,i){return safe_add(bit_rol(safe_add(safe_add(_,d),safe_add(f,i)),r),m)}function md5_ff(d,_,m,f,r,i,n){return md5_cmn(_&m|~_&f,d,_,r,i,n)}function md5_gg(d,_,m,f,r,i,n){return md5_cmn(_&f|m&~f,d,_,r,i,n)}function md5_hh(d,_,m,f,r,i,n){return md5_cmn(_^m^f,d,_,r,i,n)}function md5_ii(d,_,m,f,r,i,n){return md5_cmn(m^(_|~f),d,_,r,i,n)}function safe_add(d,_){var m=(65535&d)+(65535&_);return(d>>16)+(_>>16)+(m>>16)<<16|65535&m}function bit_rol(d,_){return d<<_|d>>>32-_};var r = M(V(Y(X(d),8*d.length)));return r.toLowerCase()
   }
@@ -419,20 +415,21 @@ class page {
   }
   
   updateAuthButtonState() {
-    const btn = document.getElementById('authBtn');
-    btn.disabled = !this.isConnected;
+    $('#authBtn').prop('disabled', !this.isConnected);
   }
   
   updateAuthButton(username) {
-    this.username = username;
-    const btn = document.getElementById('authBtn');
-    btn.classList.remove('btn-warning');
-    btn.classList.add('btn-success');
-    btn.innerHTML = `<span class="material-symbols-outlined me-1 fs-6">person</span>${username}`;
-    btn.removeAttribute('data-bs-toggle');
-    btn.removeAttribute('data-bs-target');
-    W.ws_send({ statsLoad: true, username: this.username });
-  }
+  this.username = username;
+  const $btn = $('#authBtn');
+  $btn.removeClass('btn-warning')
+    .addClass('btn-success')
+    .html(`<span class="material-symbols-outlined me-1 fs-6">person</span>${username}`)
+    .removeAttr('data-bs-toggle')
+    .removeAttr('data-bs-target');
+  
+  W.ws_send({ statsLoad: true, username: this.username });
+}
+
 }
 
 P = new page();
