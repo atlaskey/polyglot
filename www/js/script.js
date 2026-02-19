@@ -110,14 +110,29 @@ class page {
   
   startPlay() {
     this.playQueue = this.currentData.filter(item => !item.learned);
-    if (this.playQueue.length === 0) this.alert("Information","All learned!");
-    else {
-      this.isPlaying = true;
-      this.isPaused = false;
-      this.currentIndex = 0;
-      new bootstrap.Modal(document.getElementById('playModal')).show();
-      this.playNext();
-    }
+    if (!this.playQueue.length) return this.alert("Information","All learned!");
+    this.isPlaying = true;
+    this.isPaused = false;
+    this.currentIndex = 0;
+    $('#playModal').modal('show');
+    this.playNext();
+  }
+  
+  stopPlay() {
+    this.isPlaying = false;
+    clearTimeout(this.playTimer);
+    $('#playModal').modal('hide');
+  }
+  
+  startTest() {
+    this.testQueue = this.currentData.filter(item => !item.learned);
+    if (!this.testQueue.length) return this.alert("Information","Nothing to test!");
+    $('#testModal').modal('show');
+    this.testNext();
+  }
+  
+  stopTest() {
+    $('#testModal').modal('hide');
   }
   
   async playNext() {
@@ -134,7 +149,7 @@ class page {
       this.saveLearned(item.id,true)
       this.playQueue.splice(this.currentIndex, 1);
       this.renderTable();
-      if (this.playQueue.length === 0) this.stopPlay() 
+      if (!this.playQueue.length) this.stopPlay() 
       else {
         if (this.currentIndex >= this.playQueue.length) this.currentIndex = 0;
         this.playNext()
@@ -155,15 +170,6 @@ class page {
     this.isPaused = !this.isPaused;
     $('#pauseIcon').text(this.isPaused ? 'play_arrow' : 'pause');
     if (!this.isPaused) this.playNext();
-  }
-  
-  startTest() {
-    this.testQueue = this.currentData.filter(item => !item.learned);
-    if (this.testQueue.length === 0) this.alert("Information","Nothing to test!");
-    else {
-      $('#testModal').modal('show');
-      this.testNext();
-    }
   }
   
   testNext() {
@@ -294,16 +300,6 @@ class page {
      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\?]/g, "")
      .replace(/\s{2,}/g, " ")
      .trim();
-  }
-  
-  stopPlay() {
-    this.isPlaying = false;
-    clearTimeout(this.playTimer);
-    $('#playModal').modal('hide');
-  }
-  
-  stopTest() {
-    $('#testModal').modal('hide');
   }
   
   resetProgress() {
