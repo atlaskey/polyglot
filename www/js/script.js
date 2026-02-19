@@ -262,6 +262,9 @@ class page {
   }
   
   correctTranscript(t) {
+    t = t.trim();
+    if (!t) return "";
+
     if(this.studyLang == "en") {
       t = t.replace(' 1 ',' one ');
       t = t.replace(' 2 ',' two ');
@@ -275,11 +278,12 @@ class page {
       t = t.replace(' 10 ',' ten ');
       t = t.replace(' 18 ', ' eighteen ');
       t = t.replace(' 20 ', ' twenty ');
+      t = t.replace(' 50 ', ' fifty ');
       t = t.replace(' 60 ',' sixty ');
       t = t.replace(' 90 ',' ninety ');
       t = t.replace(' 100 ',' one hundred ');
     }
-    if (!t) return "";
+    
     var x = this.currentTestItem.sentence.text;
     return t.charAt(0).toUpperCase() + t.slice(1)+x[x.length - 1];;
   }
@@ -419,16 +423,16 @@ class page {
   }
   
   updateAuthButton(username) {
-  this.username = username;
-  const $btn = $('#authBtn');
-  $btn.removeClass('btn-warning')
-    .addClass('btn-success')
-    .html(`<span class="material-symbols-outlined me-1 fs-6">person</span>${username}`)
-    .removeAttr('data-bs-toggle')
-    .removeAttr('data-bs-target');
+    this.username = username;
+    const $btn = $('#authBtn');
+    $btn.removeClass('btn-warning')
+      .addClass('btn-success')
+      .html(`<span class="material-symbols-outlined me-1 fs-6">person</span>${username}`)
+      .removeAttr('data-bs-toggle')
+      .removeAttr('data-bs-target');
   
-  W.ws_send({ statsLoad: true, username: this.username });
-}
+    W.ws_send({ statsLoad: true, username: this.username });
+  }
 
 }
 

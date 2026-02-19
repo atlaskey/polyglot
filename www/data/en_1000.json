@@ -39,9 +39,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Anna can speak four languages.",
+      "text": "Anna can speak three languages.",
       "translations": {
-        "ru": "Анна может говорить на четырёх языках.",
+        "ru": "Анна может говорить на трёх языках.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -325,9 +325,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The good thing is, he's not afraid to learn from his mistakes.",
+      "text": "We are learning how to cook Italian food.",
       "translations": {
-        "ru": "Хорошо то, что он не боится учиться на своих ошибках.",
+        "ru": "Мы учимся готовить итальянскую еду.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1027,9 +1027,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "London is only 50 miles from here.",
+      "text": "London is only fifty miles from here.",
       "translations": {
-        "ru": "Лондон всего в 50 милях отсюда.",
+        "ru": "Лондон всего в пятидесяти милях отсюда.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1937,9 +1937,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She has 50 flowers.",
+      "text": "She has fifty flowers.",
       "translations": {
-        "ru": "У неё 50 цветов.",
+        "ru": "У неё пятьдесят цветов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2119,9 +2119,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This bag weighs 2 lbs.",
+      "text": "This bag weighs two pounds.",
       "translations": {
-        "ru": "Эта сумка весит 2 фунта.",
+        "ru": "Эта сумка весит два фунта.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3497,7 +3497,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I usually eat breakfast at 7:00 in the morning.",
+      "text": "I usually eat breakfast at seven o'clock in the morning.",
       "translations": {
         "ru": "Обычно я завтракаю в 7 утра.",
         "zh": "",
@@ -4459,9 +4459,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her father is a businessman.",
+      "text": "Your father is a businessman.",
       "translations": {
-        "ru": "Её отец — бизнесмен.",
+        "ru": "Тво отец — бизнесмен.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5603,7 +5603,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We talk every day.",
+      "text": "We talk everyday.",
       "translations": {
         "ru": "Мы разговариваем каждый день.",
         "zh": "",
@@ -8775,9 +8775,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The book costs sixty dollars.",
+      "text": "She bought sixty apples for the party.",
       "translations": {
-        "ru": "Книга стоит шестьдесят долларов.",
+        "ru": "Она купила шестьдесят яблок для вечеринки.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9205,7 +9205,7 @@
   },
   {
     "id": 355,
-    "word": "OK",
+    "word": "Okay",
     "transcription": "/oʊˈkeɪ/",
     "translations": {
       "ru": "в порядке",
@@ -15665,9 +15665,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I meet her on Tuesday.",
+      "text": "I met your on Tuesday.",
       "translations": {
-        "ru": "Я встречаюсь с ней во вторник.",
+        "ru": "Я встретил тебя во вторник.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24687,9 +24687,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don't live there anymore.",
+      "text": "I don’t eat meat anymore.",
       "translations": {
-        "ru": "Я больше там не живу.",
+        "ru": "Я больше не ем мясо.",
         "zh": "",
         "es": "",
         "fr": "",
