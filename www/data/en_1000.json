@@ -1223,7 +1223,7 @@
   },
   {
     "id": 48,
-    "word": "travelling",
+    "word": "traveling",
     "transcription": "/ˈtrævəlɪŋ/",
     "translations": {
       "ru": "путешествие",
@@ -1235,7 +1235,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I love travelling to new places.",
+      "text": "I love traveling to new places.",
       "translations": {
         "ru": "Я люблю путешествовать в новые места.",
         "zh": "",
@@ -5941,7 +5941,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I only need 1 minute.",
+      "text": "I only need one minute.",
       "translations": {
         "ru": "Мне нужна только одна минута.",
         "zh": "",
@@ -23635,7 +23635,7 @@
   },
   {
     "id": 910,
-    "word": "humour",
+    "word": "humor",
     "transcription": "/ˈhjuːmər/",
     "translations": {
       "ru": "юмор",
@@ -23647,7 +23647,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I like his humour.",
+      "text": "I like his humor.",
       "translations": {
         "ru": "Мне нравится его чувство юмора.",
         "zh": "",

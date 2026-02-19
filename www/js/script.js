@@ -191,6 +191,7 @@ class page {
       this.recognition.onresult = (e) => {
         let text = '';
         for (let i = e.resultIndex; i < e.results.length; ++i) text += e.results[i][0].transcript;
+        text = this.correctTranscript(text);
         document.getElementById('liveTranscript').innerText = text;
       };
     }
@@ -290,36 +291,12 @@ class page {
       t = t.replace(' 90 ',' ninety ');
       t = t.replace(' 100 ',' one hundred ');
     }
-    return t
-  }
-
-  initSpeechRecognition() {
-    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    if (!SpeechRecognition) {
-      console.error("Speech Recognition not supported in this browser.");
-      return null;
-    }
-    const recognition = new SpeechRecognition();
-    recognition.continuous = true;
-    recognition.interimResults = true; // Show results while speaking
-    recognition.onresult = (event) => {
-      let transcript = '';
-      for (let i = event.resultIndex; i < event.results.length; ++i) {
-        transcript += event.results[i][0].transcript;
-      }
-      transcript = this.correctTranscript(transcript);
-      document.getElementById('liveTranscript').innerText = transcript;
-    };
-    recognition.onerror = (event) => {
-      console.error("Recognition error:", event.error);
-      this.stopRecordingUI();
-    };
-    return recognition;
+    if (!t) return "";
+    var x = this.currentTestItem.sentence.text;
+    return t.charAt(0).toUpperCase() + t.slice(1)+x[x.length - 1];;
   }
   
   normalizeText(text) {
-    return text.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\?]/g, "").replace(/\s{2,}/g, " ").trim();
-
     return text
      .toLowerCase()
      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\?]/g, "")
