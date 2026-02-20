@@ -250,7 +250,7 @@ class page {
     if (!this.currentData || this.currentData.length === 0) return;
     const total = this.currentData.length;
     const learnedCount = this.currentData.filter(item => item.learned).length;
-    const percentage = Math.round((learnedCount / total) * 100);
+    const percentage = Math.min(Math.round((learnedCount / total) * 100), learnedCount === total ? 100 : 99);
     const bar = document.getElementById('progressBar');
     const text = document.getElementById('progressPercent');
     if (bar && text) {
@@ -285,6 +285,7 @@ class page {
       t = t.replace(' 15 ', ' fifteen ');
       t = t.replace(' 18 ', ' eighteen ');
       t = t.replace(' 20 ', ' twenty ');
+      t = t.replace(' 30 ', ' thirty ');
       t = t.replace(' 40 ', ' forty ');
       t = t.replace(' 50 ', ' fifty ');
       t = t.replace(' 60 ',' sixty ');

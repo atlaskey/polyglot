@@ -1,7 +1,7 @@
 [
   {
     "id": 1001,
-    "word": "behaviour",
+    "word": "behavior",
     "transcription": "",
     "translations": {
       "ru": "поведение",
@@ -13,7 +13,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "His behaviour in class is very good.",
+      "text": "His behavior in class is very good.",
       "translations": {
         "ru": "Его поведение на уроке очень хорошее.",
         "zh": "",
@@ -4017,7 +4017,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t mind waiting.",
+      "text": "I don't mind waiting.",
       "translations": {
         "ru": "Я не против подождать.",
         "zh": "",
@@ -4069,7 +4069,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I don’t like coffee particularly.",
+      "text": "I don't like coffee particularly.",
       "translations": {
         "ru": "Мне не особо нравится кофе.",
         "zh": "",
@@ -8073,9 +8073,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This job will require patience.",
+      "text": "New software may require additional training for staff.",
       "translations": {
-        "ru": "Эта работа потребует терпения.",
+        "ru": "Внедрение нового программного обеспечения может потребовать дополнительного обучения персонала.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8645,9 +8645,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Our flight is at 9:00 a.m.",
+      "text": "Our flight was delayed because of heavy snow at airport.",
       "translations": {
-        "ru": "Наш рейс в 9:00 утра.",
+        "ru": "Наш рейс задержали из-за сильного снегопада в аэропорту.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9633,9 +9633,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The army planned an attack.",
+      "text": "The army launched sudden attack at dawn.",
       "translations": {
-        "ru": "Армия планировала нападение.",
+        "ru": "Армия внезапно начала наступление на рассвете.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11011,7 +11011,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Do not steal other people’s things.",
+      "text": "Do not steal other people's things.",
       "translations": {
         "ru": "Не кради чужие вещи.",
         "zh": "",
@@ -12533,7 +12533,7 @@
   },
   {
     "id": 1483,
-    "word": "low-quality",
+    "word": "low quality",
     "transcription": "",
     "translations": {
       "ru": "низкокачественный",
@@ -12545,7 +12545,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The shoes are low-quality and broke quickly.",
+      "text": "The shoes are low quality and broke quickly.",
       "translations": {
         "ru": "Обувь низкого качества и быстро сломалась.",
         "zh": "",
@@ -12805,9 +12805,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Hang your bag on the hook.",
+      "text": "He caught big fish using simple hook and thin line.",
       "translations": {
-        "ru": "Повесь сумку на крючок.",
+        "ru": "Он ловил крупную рыбу, используя простой крючок и тонкую леску.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15119,9 +15119,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "One advantage of walking is good health.",
+      "text": "She had one clear advantage over competitors.",
       "translations": {
-        "ru": "Одно из преимуществ ходьбы — хорошее здоровье.",
+        "ru": "У нее было одно явное преимущество перед конкурентами.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16679,7 +16679,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t forget to log out.",
+      "text": "Don't forget to log out.",
       "translations": {
         "ru": "Не забудь выйти из аккаунта.",
         "zh": "",
@@ -17589,9 +17589,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "It is 30 degrees today.",
+      "text": "It is thirty degrees today.",
       "translations": {
-        "ru": "Сегодня 30 градусов.",
+        "ru": "Сегодня тридцать градусов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18759,7 +18759,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He hasn’t called yet.",
+      "text": "He hasn't called yet.",
       "translations": {
         "ru": "Он ещё не позвонил.",
         "zh": "",
@@ -20137,7 +20137,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I won’t go unless you come.",
+      "text": "I won't go unless you come.",
       "translations": {
         "ru": "Я не пойду, если ты не придёшь.",
         "zh": "",
@@ -20891,7 +20891,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t burn your hand.",
+      "text": "Don't burn your hand.",
       "translations": {
         "ru": "Не обожгите руку.",
         "zh": "",
@@ -21021,7 +21021,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "No, I don’t want it.",
+      "text": "No, I don't want it.",
       "translations": {
         "ru": "Нет, я этого не хочу.",
         "zh": "",
@@ -21281,7 +21281,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Take an umbrella. It’s raining.",
+      "text": "Take an umbrella. It's raining.",
       "translations": {
         "ru": "Возьми зонт. Идёт дождь.",
         "zh": "",
@@ -21385,7 +21385,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t give up.",
+      "text": "Don't give up.",
       "translations": {
         "ru": "Не сдавайся.",
         "zh": "",
@@ -21749,9 +21749,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear a helmet for protection.",
+      "text": "They built strong wall for protection against cold wind.",
       "translations": {
-        "ru": "Надень шлем для защиты.",
+        "ru": "Они построили прочную стену для защиты от холодного ветра.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22659,7 +22659,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t drive carelessly.",
+      "text": "Don't drive carelessly.",
       "translations": {
         "ru": "Не води неосторожно.",
         "zh": "",
@@ -22711,7 +22711,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t confuse the answers.",
+      "text": "Don't confuse the answers.",
       "translations": {
         "ru": "Не путай ответы.",
         "zh": "",
@@ -23231,7 +23231,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I can’t afford this car.",
+      "text": "I can't afford this car.",
       "translations": {
         "ru": "Я не могу позволить себе эту машину.",
         "zh": "",
@@ -24635,7 +24635,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Don’t be a fool.",
+      "text": "Don't be a fool.",
       "translations": {
         "ru": "Не будь глупцом.",
         "zh": "",
