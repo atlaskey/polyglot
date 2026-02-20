@@ -273,9 +273,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I went to the cinema with my groupmate.",
+      "text": "My groupmate helped me finish the project",
       "translations": {
-        "ru": "Я ходил в кино с одногруппником.",
+        "ru": "Мой одногруппник помог мне завершить проект.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -871,9 +871,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The country's economy will grow in 2026.",
+      "text": "The government introduced new policies to boost the economy.",
       "translations": {
-        "ru": "Экономика страны будет расти в 2026 году.",
+        "ru": "Правительство ввело новые меры для стимулирования экономики.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1977,7 +1977,7 @@
   },
   {
     "id": 1077,
-    "word": "tougue",
+    "word": "tongue",
     "transcription": "",
     "translations": {
       "ru": "язык",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": 1125,
-    "word": "grannny",
+    "word": "granny",
     "transcription": "",
     "translations": {
       "ru": "бабушка",
@@ -5750,7 +5750,7 @@
     "word": "sight",
     "transcription": "",
     "translations": {
-      "ru": "зрение",
+      "ru": "зрение, вид, зрелище",
       "zh": "",
       "es": "",
       "fr": "",
@@ -5759,9 +5759,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I caught sight of a deer in the forest.",
+      "text": "The mountains were an amazing sight at sunrise.",
       "translations": {
-        "ru": "Я заметил оленя в лесу.",
+        "ru": "На рассвете горы представляли собой потрясающее зрелище.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7411,7 +7411,7 @@
   },
   {
     "id": 1286,
-    "word": "comlete",
+    "word": "complete",
     "transcription": "",
     "translations": {
       "ru": "полный, завершенный",
@@ -8243,7 +8243,7 @@
   },
   {
     "id": 1318,
-    "word": "colourful",
+    "word": "colorful",
     "transcription": "",
     "translations": {
       "ru": "красочный",
@@ -8255,7 +8255,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This painting is very colourful.",
+      "text": "This painting is very colorful.",
       "translations": {
         "ru": "Эта картина очень красочная.",
         "zh": "",
@@ -17251,9 +17251,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I take a bath.",
+      "text": "I take a warm bath every evening to relax.",
       "translations": {
-        "ru": "Я принимаю ванну.",
+        "ru": "Каждый вечер я принимаю теплую ванну, чтобы расслабиться.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20137,9 +20137,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I won't go unless you come.",
+      "text": "She keeps practicing every day unless it rains.",
       "translations": {
-        "ru": "Я не пойду, если ты не придёшь.",
+        "ru": "Она продолжает тренироваться каждый день, если только не идёт дождь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20411,7 +20411,7 @@
   },
   {
     "id": 1786,
-    "word": "prperly",
+    "word": "properly",
     "transcription": "",
     "translations": {
       "ru": "должным образом",
@@ -20501,9 +20501,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The vase is on the table.",
+      "text": "She placed fresh flowers in a beautiful vase on the table.",
       "translations": {
-        "ru": "Ваза на столе.",
+        "ru": "Она поставила на стол свежие цветы в красивую вазу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21567,9 +21567,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Multiply 2 by 3.",
+      "text": "Plants multiply quickly in warm and humid climate.",
       "translations": {
-        "ru": "Умножьте 2 на 3.",
+        "ru": "В теплом и влажном климате растения быстро размножаются.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21841,7 +21841,7 @@
   },
   {
     "id": 1841,
-    "word": "catalogue",
+    "word": "catalog",
     "transcription": "",
     "translations": {
       "ru": "каталог",
@@ -21853,7 +21853,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I looked at the catalogue.",
+      "text": "I looked at the catalog.",
       "translations": {
         "ru": "Я посмотрел в каталог.",
         "zh": "",
@@ -22685,9 +22685,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The flood was a catastrophe.",
+      "text": "The sudden storm was a complete catastrophe for the farmers.",
       "translations": {
-        "ru": "Наводнение было катастрофой.",
+        "ru": "Внезапная буря стала настоящей катастрофой для фермеров.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23387,9 +23387,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The teacher has a concern about the students progress.",
+      "text": "She expressed her concern about the rising costs of living.",
       "translations": {
-        "ru": "У учителя есть обеспокоенность по поводу успеваемости учеников.",
+        "ru": "Она выразила обеспокоенность по поводу роста стоимости жизни.",
         "zh": "",
         "es": "",
         "fr": "",
