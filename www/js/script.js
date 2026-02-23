@@ -270,39 +270,54 @@ class page {
   correctTranscript(t) {
     t = t.trim();
     if (!t) return "";
-
+    
     if(this.studyLang == "en") {
-      t = t.replace(' 1 ',' one ');
-      t = t.replace(' 2 ',' two ');
-      t = t.replace(' 3 ', ' three ');
-      t = t.replace(' 4 ', ' four ');
-      t = t.replace(' 5 ', ' five ');
-      t = t.replace(' 6 ', ' six ');
-      t = t.replace(' 7 ', ' seven ');
-      t = t.replace(' 8 ', ' eight ');
-      t = t.replace(' 9 ', ' nine ');
-      t = t.replace(' 10 ',' ten ');
-      t = t.replace(' 15 ', ' fifteen ');
-      t = t.replace(' 18 ', ' eighteen ');
-      t = t.replace(' 20 ', ' twenty ');
-      t = t.replace(' 30 ', ' thirty ');
-      t = t.replace(' 40 ', ' forty ');
-      t = t.replace(' 50 ', ' fifty ');
-      t = t.replace(' 60 ',' sixty ');
-      t = t.replace(' 90 ',' ninety ');
-      t = t.replace(' 100 ',' one hundred ');
+      const map = {
+        " 1 ": " one ",
+        " 2 ": " two ",
+        " 3 ": " three ",
+        " 4 ": " four ",
+        " 5 ": " five ",
+        " 6 ": " six ",
+        " 7 ": " seven ",
+        " 8 ": " eight ",
+        " 9 ": " nine ",
+        " 10 ": " ten ",
+        " 11 ": " eleven ",
+        " 15 ": " fifteen ",
+        " 18 ": " eighteen ",
+        " 20 ": " twenty ",
+        " 30 ": " thirty ",
+        " 40 ": " forty ",
+        " 50 ": " fifty ",
+        " 60 ": " sixty ",
+        " 90 ": " ninety ",
+        " 100 ": " one hundred ",
+        "copy book": "copybook"
+      };
+      for (const [key, value] of Object.entries(map)) {
+        t = t.replaceAll(key, value);
+      }
     }
     
     var x = this.currentTestItem.sentence.text;
-    return t.charAt(0).toUpperCase() + t.slice(1)+x[x.length - 1];;
+    let punctuation = "";
+    const lastX = x?.trim().slice(-1);
+    if (/[.!?]/.test(lastX)) punctuation = lastX;
+    
+    const lastT = t.slice(-1);
+    if (punctuationSet.includes(lastT)) t = t.slice(0, -1);
+    
+    return t.charAt(0).toUpperCase() + t.slice(1)+punctuation;
   }
   
   normalizeText(text) {
     return text
-     .toLowerCase()
-     .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\?]/g, "")
-     .replace(/\s{2,}/g, " ")
-     .trim();
+      .toLowerCase()
+      .replace(/[-–—]/g, " ")
+      .replace(/[.,\/#!$%\^&\*;:{}=\_`~()\?]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
   }
   
   resetProgress() {

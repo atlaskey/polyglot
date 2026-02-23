@@ -186,7 +186,7 @@
     "word": "design",
     "transcription": "",
     "translations": {
-      "ru": "деизайн",
+      "ru": "дизайн",
       "zh": "",
       "es": "",
       "fr": "",
@@ -1495,7 +1495,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The scientist is working in the laboratory",
+      "text": "The scientist is working in the laboratory.",
       "translations": {
         "ru": "Учёный работает в лаборатории.",
         "zh": "",
@@ -1668,7 +1668,7 @@
     "word": "by yourself",
     "transcription": "",
     "translations": {
-      "ru": "сам, самостоятельно",
+      "ru": "самостоятельно",
       "zh": "",
       "es": "",
       "fr": "",
@@ -1694,7 +1694,7 @@
     "word": "by myself",
     "transcription": "",
     "translations": {
-      "ru": "сам, самостоятельно",
+      "ru": "сам по себе",
       "zh": "",
       "es": "",
       "fr": "",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": 1116,
-    "word": "spoilt",
+    "word": "spoiled",
     "transcription": "",
     "translations": {
       "ru": "испорченный",
@@ -3003,7 +3003,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The child is spoilt by his parents.",
+      "text": "The child is spoiled by his parents.",
       "translations": {
         "ru": "Ребёнка балуют родители.",
         "zh": "",
@@ -3081,9 +3081,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My age is 20.",
+      "text": "She looks young for her age.",
       "translations": {
-        "ru": "Мне 20 лет.",
+        "ru": "Она выглядит молодо для своего возраста.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7527,9 +7527,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Turn to page 10 in your book.",
+      "text": "Turn to page ten in your book.",
       "translations": {
-        "ru": "Откройте страницу 10 в книге.",
+        "ru": "Откройте страницу десять в твоей книге.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9049,7 +9049,7 @@
   },
   {
     "id": 1349,
-    "word": "rediculous",
+    "word": "ridiculous",
     "transcription": "",
     "translations": {
       "ru": "смехотворный",
@@ -10179,9 +10179,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Please wait at gate 5.",
+      "text": "I open gate and walk into yard.",
       "translations": {
-        "ru": "Пожалуйста, подождите у выхода 5.",
+        "ru": "Я открываю ворота и выхожу во двор.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11765,9 +11765,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The school bell rings at 8 a.m.",
+      "text": "School bell rings at eight o’clock.",
       "translations": {
-        "ru": "Звонок в школе звучит в 8 утра.",
+        "ru": "В восемь часов звенит школьный звонок.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12533,7 +12533,7 @@
   },
   {
     "id": 1483,
-    "word": "low quality",
+    "word": "low-quality",
     "transcription": "",
     "translations": {
       "ru": "низкокачественный",
@@ -12545,7 +12545,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The shoes are low quality and broke quickly.",
+      "text": "The shoes are low-quality and broke quickly.",
       "translations": {
         "ru": "Обувь низкого качества и быстро сломалась.",
         "zh": "",
@@ -16107,9 +16107,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "December is cold.",
+      "text": "My birthday is in December.",
       "translations": {
-        "ru": "Декабрь холодный.",
+        "ru": "Мой день рождения в декабре.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16575,9 +16575,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The clock shows eleven.",
+      "text": "We score eleven points.",
       "translations": {
-        "ru": "Часы показывают одиннадцать.",
+        "ru": "Мы набрали одиннадцать очков.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16601,9 +16601,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He wears a hat.",
+      "text": "He wears black glasses and a hat.",
       "translations": {
-        "ru": "Он носит шляпу.",
+        "ru": "Он носит черные очки и шляпу.",
         "zh": "",
         "es": "",
         "fr": "",
