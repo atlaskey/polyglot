@@ -1027,9 +1027,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "It is cold outside, please wear a coat.",
+      "text": "The dog is outside the house.",
       "translations": {
-        "ru": "На улице холодно, пожалуйста, надень пальто.",
+        "ru": "Собака находится на улице.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3939,7 +3939,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He practises judo after school.",
+      "text": "He practices judo after school.",
       "translations": {
         "ru": "Он занимается дзюдо после школы.",
         "zh": "",
@@ -5733,9 +5733,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She seldom eats fast food.",
+      "text": "She is seldom late.",
       "translations": {
-        "ru": "Она редко ест фастфуд.",
+        "ru": "Она редко опаздывает.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10297,7 +10297,7 @@
   },
   {
     "id": 1397,
-    "word": "neighbour",
+    "word": "neighbor",
     "transcription": "",
     "translations": {
       "ru": "сосед",
@@ -10309,7 +10309,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My neighbour is very friendly.",
+      "text": "My neighbor is very friendly.",
       "translations": {
         "ru": "Мой сосед очень дружелюбный.",
         "zh": "",
@@ -13949,9 +13949,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her optimism helps her in difficult times.",
+      "text": "Your optimism helps you in difficult times.",
       "translations": {
-        "ru": "Её оптимизм помогает ей в трудные времена.",
+        "ru": "Ваш оптимизм помогает вам в трудные времена.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15587,9 +15587,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She specializes in math.",
+      "text": "He will specialize in programming.",
       "translations": {
-        "ru": "Она специализируется на математике.",
+        "ru": "Он будет специализироваться на программировании.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23777,9 +23777,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I warn you about the danger.",
+      "text": "I warned you about the danger.",
       "translations": {
-        "ru": "Я предупреждаю тебя об опасности.",
+        "ru": "Я предупредил тебя об опасности.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -25753,9 +25753,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The book is hers.",
+      "text": "This seat is hers, not mine.",
       "translations": {
-        "ru": "Книга её.",
+        "ru": "Это место принадлежит ей, а не мне.",
         "zh": "",
         "es": "",
         "fr": "",
