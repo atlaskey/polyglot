@@ -301,14 +301,11 @@ class page {
     }
     
     var x = this.currentTestItem.sentence.text;
-    let punctuation = "";
-    const lastX = x?.trim().slice(-1);
-    if (/[.!?]/.test(lastX)) punctuation = lastX;
+    let lastX = x.trim().slice(-1);
+    lastX = /[.!?]/.test(lastX) ? lastX : "";
     
-    const lastT = t.slice(-1);
-    if (punctuationSet.includes(lastT)) t = t.slice(0, -1);
-    
-    return t.charAt(0).toUpperCase() + t.slice(1)+punctuation;
+    t = t.replace(/[.!?]$/, "");
+    return t.charAt(0).toUpperCase() + t.slice(1) + lastX;
   }
   
   normalizeText(text) {
