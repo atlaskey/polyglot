@@ -767,9 +767,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The weight of this box is 10 kilos.",
+      "text": "The weight of this box is ten kilos.",
       "translations": {
-        "ru": "Вес этой коробки — 10 килограммов.",
+        "ru": "Вес этой коробки составляет десять килограммов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": 1062,
-    "word": "specilist",
+    "word": "specialist",
     "transcription": "",
     "translations": {
       "ru": "специалист",
@@ -3159,9 +3159,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My grandfather is 80 years old.",
+      "text": "My grandfather is eighty years old.",
       "translations": {
-        "ru": "Моему дедушке 80 лет.",
+        "ru": "Моему деду восемьдесят лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 1175,
-    "word": "crossroas",
+    "word": "crossroad",
     "transcription": "",
     "translations": {
       "ru": "перекресток",
@@ -5759,9 +5759,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The mountains were an amazing sight at sunrise.",
+      "text": "I lost sight of the car.",
       "translations": {
-        "ru": "На рассвете горы представляли собой потрясающее зрелище.",
+        "ru": "Я потерял машину из виду.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5941,9 +5941,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My alarm clock rings at 7:00 a.m.",
+      "text": "I woke up because my alarm clock rang in the morning.",
       "translations": {
-        "ru": "Мой будильник звонит в 7:00 утра.",
+        "ru": "Я проснулась от звонка будильника утром.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7943,9 +7943,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her performance will impress the audience.",
+      "text": "I want to impress my boss.",
       "translations": {
-        "ru": "Её выступление произведёт впечатление на аудиторию.",
+        "ru": "Я хочу произвести впечатление на своего начальника.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9633,9 +9633,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The army launched sudden attack at dawn.",
+      "text": "The army launched a sudden attack.",
       "translations": {
-        "ru": "Армия внезапно начала наступление на рассвете.",
+        "ru": "Армия внезапно перешла в наступление.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10063,7 +10063,7 @@
   },
   {
     "id": 1388,
-    "word": "analyse",
+    "word": "analyze",
     "transcription": "",
     "translations": {
       "ru": "анализировать",
@@ -10075,7 +10075,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We need to analyse the data carefully.",
+      "text": "We need to analyze the data carefully.",
       "translations": {
         "ru": "Нам нужно тщательно проанализировать данные.",
         "zh": "",
@@ -10465,9 +10465,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her appearance is very elegant.",
+      "text": "She cares about her appearance.",
       "translations": {
-        "ru": "Её внешность очень элегантна.",
+        "ru": "Она заботится о своей внешности.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10751,9 +10751,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I tried to catch the falling book.",
+      "text": "I tried to catch the ball.",
       "translations": {
-        "ru": "Я пытался поймать падающую книгу.",
+        "ru": "Я пытался поймать мяч.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11765,7 +11765,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "School bell rings at eight o’clock.",
+      "text": "School bell rings at eight o'clock.",
       "translations": {
         "ru": "В восемь часов звенит школьный звонок.",
         "zh": "",
@@ -12779,9 +12779,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She hung new curtains in the room.",
+      "text": "We have new curtains in the room.",
       "translations": {
-        "ru": "Она повесила новые шторы в комнате.",
+        "ru": "У нас в комнате новые шторы.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13455,9 +13455,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her reaction surprised me.",
+      "text": "What was your reaction to the news?",
       "translations": {
-        "ru": "Её реакция удивила меня.",
+        "ru": "Какова была ваша реакция на эту новость?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13871,9 +13871,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "People say the ghost haunts the house.",
+      "text": "People are afraid of ghosts.",
       "translations": {
-        "ru": "Говорят, что призрак обитает в доме.",
+        "ru": "Люди боятся призраков.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14547,9 +14547,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her impatience was obvious.",
+      "text": "Your impatience was obvious.",
       "translations": {
-        "ru": "Её нетерпение было очевидным.",
+        "ru": "Твоё нетерпение было очевидно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15575,7 +15575,7 @@
   },
   {
     "id": 1600,
-    "word": "specialise",
+    "word": "specialize",
     "transcription": "",
     "translations": {
       "ru": "специализация",
@@ -15587,7 +15587,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She specialises in math.",
+      "text": "She specializes in math.",
       "translations": {
         "ru": "Она специализируется на математике.",
         "zh": "",
@@ -15639,9 +15639,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Write on the whiteboard.",
+      "text": "Please erase the whiteboard.",
       "translations": {
-        "ru": "Пиши на доске.",
+        "ru": "Пожалуйста, сотрите надписи с доски.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16159,9 +16159,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "January is cold.",
+      "text": "It is very cold in January.",
       "translations": {
-        "ru": "Январь холодный.",
+        "ru": "В январе очень холодно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16355,7 +16355,7 @@
   },
   {
     "id": 1630,
-    "word": "Sptember",
+    "word": "September",
     "transcription": "",
     "translations": {
       "ru": "сентябрь",
@@ -16601,9 +16601,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He wears black glasses and a hat.",
+      "text": "I wear a hat in summer.",
       "translations": {
-        "ru": "Он носит черные очки и шляпу.",
+        "ru": "Летом я ношу шляпу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19487,9 +19487,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The boat may sink.",
+      "text": "The ship began to sink.",
       "translations": {
-        "ru": "Лодка может утонуть.",
+        "ru": "Корабль начал тонуть.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19969,7 +19969,7 @@
   },
   {
     "id": 1769,
-    "word": "insurfance",
+    "word": "insurance",
     "transcription": "",
     "translations": {
       "ru": "страхование",
@@ -20501,9 +20501,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She placed fresh flowers in a beautiful vase on the table.",
+      "text": "The flowers are in a vase.",
       "translations": {
-        "ru": "Она поставила на стол свежие цветы в красивую вазу.",
+        "ru": "Цветы стоят в вазе.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20697,7 +20697,7 @@
   },
   {
     "id": 1797,
-    "word": "ubfairly",
+    "word": "unfairly",
     "transcription": "",
     "translations": {
       "ru": "несправедливо",
@@ -21177,9 +21177,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He rides a motorcycle.",
+      "text": "I bought a new motorcycle.",
       "translations": {
-        "ru": "Он ездит на мотоцикле.",
+        "ru": "Я купил новый мотоцикл.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21827,9 +21827,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Subtract 5 from 10.",
+      "text": "We need to subtract expenses.",
       "translations": {
-        "ru": "Вычтите 5 из 10.",
+        "ru": "Нам нужно вычесть расходы.",
         "zh": "",
         "es": "",
         "fr": "",

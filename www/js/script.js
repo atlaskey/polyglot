@@ -291,9 +291,14 @@ class page {
         " 40 ": " forty ",
         " 50 ": " fifty ",
         " 60 ": " sixty ",
+        " 80 ": " eighty ",
         " 90 ": " ninety ",
         " 100 ": " one hundred ",
-        "copy book": "copybook"
+        "copy book": "copybook",
+        "best seller": "bestseller",
+        "easy going": "easygoing",
+        "15th": "fifteenth",
+        "vice to hold the metal": "vise to hold the metal"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
