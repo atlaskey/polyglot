@@ -1,71 +1,600 @@
 [
   {
     "id": 1,
-    "word": "Erfolg",
-    "transcription": "/ɛɐ̯ˈfɔlk/",
+    "word": "der, die, das",
+    "transcription": "",
     "translations": {
-      "ru": "Успех",
-      "zh": "成功",
-      "es": "Éxito",
-      "fr": "Succès",
-      "ar": "نجاح",
-      "pt": "Sucesso",
-      "hi": "सफलता"
+      "ru": "определенный артикль",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
     },
     "sentence": {
-      "text": "Ich wünsche dir viel Erfolg bei der Prüfung.",
+      "text": "*Das* ist mein Fahrrad.",
       "translations": {
-        "ru": "Желаю тебе больших успехов на экзамене.",
-        "es": "Te deseo mucho éxito en el examen.",
-        "fr": "Je te souhaite beaucoup de succès à l'examen."
+        "ru": "Это мой велосипед.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
       }
-    },
-    "learned": false
+    }
   },
   {
     "id": 2,
-    "word": "Übung",
-    "transcription": "/ˈyːbʊŋ/",
+    "word": "und",
+    "transcription": "",
     "translations": {
-      "ru": "Упражнение",
-      "zh": "练习",
-      "es": "Ejercicio",
-      "fr": "Exercice",
-      "ar": "تمرين",
-      "pt": "Exercício",
-      "hi": "अभ्यास"
+      "ru": "и",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
     },
     "sentence": {
-      "text": "Übung macht den Meister.",
+      "text": "Er liest und schreibt gern.",
       "translations": {
-        "ru": "Практика ведет к совершенству (Повторение — мать учения).",
-        "es": "La práctica hace al maestro.",
-        "fr": "C'est en forgeant qu'on devient forgeron."
+        "ru": "Он любит читать и писать.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
       }
-    },
-    "learned": false
+    }
   },
   {
     "id": 3,
-    "word": "Immer",
-    "transcription": "/ˈɪmɐ/",
+    "word": "sein",
+    "transcription": "",
     "translations": {
-      "ru": "Всегда",
-      "zh": "总是",
-      "es": "Siempre",
-      "fr": "Toujours",
-      "ar": "دائماً",
-      "pt": "Sempre",
-      "hi": "हमेशा"
+      "ru": "быть",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
     },
     "sentence": {
-      "text": "Er ist immer pünktlich.",
+      "text": "Wir *sind* in der Sauna gewesen.",
       "translations": {
-        "ru": "Он всегда пунктуален.",
-        "es": "Él siempre es puntual.",
-        "fr": "Il est toujours ponctuel."
+        "ru": "Мы в сауне.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
       }
+    }
+  },
+  {
+    "id": 4,
+    "word": "in, im",
+    "transcription": "",
+    "translations": {
+      "ru": "в, внутри, на",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
     },
-    "learned": false
+    "sentence": {
+      "text": "Anna sitzt schon *im* Zug.",
+      "translations": {
+        "ru": "Анна уже сидит в поезде.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 5,
+    "word": "ein, eine",
+    "transcription": "",
+    "translations": {
+      "ru": "неопределенный артикль",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich habe *ein* Buch.",
+      "translations": {
+        "ru": "У меня есть книга.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 6,
+    "word": "zu",
+    "transcription": "",
+    "translations": {
+      "ru": "к, в направлении, для",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Kommen Sie zu uns?",
+      "translations": {
+        "ru": "Вы придёте к нам?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 7,
+    "word": "haben",
+    "transcription": "",
+    "translations": {
+      "ru": "иметь",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Haben Sie heute Zeit?",
+      "translations": {
+        "ru": "У вас сегодня есть время?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 8,
+    "word": "ich",
+    "transcription": "",
+    "translations": {
+      "ru": "я",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich wohne in Leipzig.",
+      "translations": {
+        "ru": "Я живу в Лейпциге.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 9,
+    "word": "werden",
+    "transcription": "",
+    "translations": {
+      "ru": "становиться",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich werde müde.",
+      "translations": {
+        "ru": "Я становлюсь усталым.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 10,
+    "word": "sie",
+    "transcription": "",
+    "translations": {
+      "ru": "она",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich verstehe Sie nicht.",
+      "translations": {
+        "ru": "Я вас не понимаю.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 11,
+    "word": "von",
+    "transcription": "",
+    "translations": {
+      "ru": "от, из, с",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Nicht weit von hier gibt es ein gemütliches Restaurant.",
+      "translations": {
+        "ru": "Недалеко отсюда есть уютный ресторан.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 12,
+    "word": "nicht",
+    "transcription": "",
+    "translations": {
+      "ru": "не",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich kann nicht kommen.",
+      "translations": {
+        "ru": "Я не могу прийти.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 13,
+    "word": "mit",
+    "transcription": "",
+    "translations": {
+      "ru": "с, вместе с",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich gehe mit meinem Freund.",
+      "translations": {
+        "ru": "Я иду с моим другом.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 14,
+    "word": "es",
+    "transcription": "",
+    "translations": {
+      "ru": "это",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Es regnet.",
+      "translations": {
+        "ru": "Идёт дождь.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 15,
+    "word": "sich",
+    "transcription": "",
+    "translations": {
+      "ru": "себя, себе",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Sie hat sich im Spiegel gesehen.",
+      "translations": {
+        "ru": "Она увидела себя в зеркале.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 16,
+    "word": "auch",
+    "transcription": "",
+    "translations": {
+      "ru": "также, тоже",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wir fahren auch nach Leipzig.",
+      "translations": {
+        "ru": "Мы тоже едем в Лейпциг.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 17,
+    "word": "auf",
+    "transcription": "",
+    "translations": {
+      "ru": "на, по",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Die Tasse steht auf dem Tisch.",
+      "translations": {
+        "ru": "Чашка стоит на столе.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 18,
+    "word": "für",
+    "transcription": "",
+    "translations": {
+      "ru": "для",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Für deinen Vater kaufen wir ein paar Pralinen.",
+      "translations": {
+        "ru": "Для твоего отца мы купим несколько конфет.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 19,
+    "word": "an, am",
+    "transcription": "",
+    "translations": {
+      "ru": "на, у, в",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Das Bild hängt an der Wand.",
+      "translations": {
+        "ru": "Картина висит на стене.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 20,
+    "word": "er",
+    "transcription": "",
+    "translations": {
+      "ru": "он",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Er isst gern Leberwurst.",
+      "translations": {
+        "ru": "Он любит есть ливерную колбасу.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 21,
+    "word": "so",
+    "transcription": "",
+    "translations": {
+      "ru": "так, такой",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Das musst du so machen.",
+      "translations": {
+        "ru": "Ты должен делать так.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 22,
+    "word": "dass",
+    "transcription": "",
+    "translations": {
+      "ru": "что (союз)",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Schön, dass Sie kommen!",
+      "translations": {
+        "ru": "Хорошо, что вы пришли!",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 23,
+    "word": "können",
+    "transcription": "",
+    "translations": {
+      "ru": "мочь, уметь",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Er kann schwimmen.",
+      "translations": {
+        "ru": "Он умеет плавать.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
   }
 ]

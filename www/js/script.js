@@ -103,7 +103,7 @@ class page {
   
   speak(text) {
     window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
+    const utterance = new SpeechSynthesisUtterance(this.removeStars(text));
     utterance.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
     window.speechSynthesis.speak(utterance);
   }
@@ -140,7 +140,8 @@ class page {
     const item = this.playQueue[this.currentIndex];
     
     const regex = new RegExp(`(${item.word})`, 'gi');
-    $('#playSentence').html(item.sentence.text.replace(regex,'<span class="highlight-word">$1</span>'));
+    //$('#playSentence').html(item.sentence.text.replace(regex,'<span class="highlight-word">$1</span>'));
+    $('#playSentence').html(this.highlightSentence(item.sentence.text, item.word));
     $('#playTranslation').text(item.sentence.translations[this.nativeLang]);
     
     $('#markLearnedBtn').off('click').on('click', () => {
@@ -172,13 +173,46 @@ class page {
     if (!this.isPaused) this.playNext();
   }
   
+  removeStars(text) {
+    if (!text) return "";
+    return text.replace(/\*(.*?)\*/g, '$1');
+  }
+  
+  highlightSentence(sentence, word) {
+    if (!sentence || !word) return "";
+    const starredWords = [];
+    sentence.replace(/\*(.*?)\*/g, (_, p1) => {
+      if (p1) starredWords.push(p1);
+      return p1;
+    });
+
+    sentence = this.removeStars(sentence);
+    const highlightWords = new Set([word,...starredWords]);
+
+    const regex = new RegExp(
+      Array.from(highlightWords)
+        .map(w => this.escapeRegExp(w))
+        .join('|'),
+      'gi'
+    );
+
+    return sentence.replace(regex, match =>
+        `<span class="highlight-word">${match}</span>`
+    );
+  }
+  
+  escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+  
   testNext() {
     if (this.testQueue.length === 0) return this.stopTest();
     this.currentTestItem = this.testQueue[Math.floor(Math.random() * this.testQueue.length)];
     const nativeLang = $('#nativeLang').val();
     const text = this.currentTestItem.sentence.text;
-    const regex = new RegExp(`(${this.currentTestItem.word})`, 'gi');
-    $('#testSentence').html(text.replace(regex, '<span class="highlight-word">$1</span>'));
+    // const regex = new RegExp(`(${this.currentTestItem.word})`, 'gi');
+    // $('#testSentence').html(text.replace(regex, '<span class="highlight-word">$1</span>'));
+    $('#testSentence').html(this.highlightSentence(text, this.currentTestItem.word));
     $('#testTranslation').text(this.currentTestItem.sentence.translations[nativeLang]);
     $('#liveTranscript').text('');
     $('#recordingStatus').text('Microphone off').attr('class', 'text-muted');
@@ -339,7 +373,7 @@ class page {
       prompt(`Copy ${name} address:`, address);
     });
   }
-
+  
   alert(title, message, ok) {
     const $modal = $('#alert');
     const $cancelBtn = $('#btnCancel');
@@ -375,7 +409,7 @@ class page {
       $authSubmit.attr('form', 'signInForm').text('Sign in');
     }
   }
-
+  
   AuthForm(action, event) {
     event?.preventDefault();
     
@@ -449,7 +483,6 @@ class page {
   
     W.ws_send({ statsLoad: true, username: this.username });
   }
-
 }
 
 P = new page();
