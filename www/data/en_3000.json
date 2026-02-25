@@ -13,9 +13,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The total cost is ten dollars.",
+      "text": "He has total control.",
       "translations": {
-        "ru": "Общая стоимость — десять долларов.",
+        "ru": "У него полный контроль.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1729,9 +1729,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is seventeen.",
+      "text": "I have seventeen books.",
       "translations": {
-        "ru": "Ему семнадцать.",
+        "ru": "У меня семнадцать книг..",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1963,9 +1963,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ice is cold.",
+      "text": "There is ice on the road.",
       "translations": {
-        "ru": "Лёд холодный.",
+        "ru": "На дороге лёд.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2145,9 +2145,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The answer is zero.",
+      "text": "I have zero doubts about it.",
       "translations": {
-        "ru": "Ответ равен нулю.",
+        "ru": "У меня ноль сомнений.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2795,7 +2795,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She is dissatisfied with result.",
+      "text": "She is dissatisfied with the result.",
       "translations": {
         "ru": "Она недовольна результатом.",
         "zh": "",
@@ -5889,9 +5889,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The headquarters is in capital.",
+      "text": "The headquarters are located downtown.",
       "translations": {
-        "ru": "Штаб-квартира находится в столице.",
+        "ru": "Штаб-квартиры расположены в центре города.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6267,7 +6267,7 @@
   },
   {
     "id": 2242,
-    "word": "blobalization",
+    "word": "globalization",
     "transcription": "",
     "translations": {
       "ru": "глобализация",
@@ -6669,9 +6669,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Water freezes at zero.",
+      "text": "Freeze the meat.",
       "translations": {
-        "ru": "Вода замерзает при нуле.",
+        "ru": "Заморозь мясо.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6981,9 +6981,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The oligarch owns company.",
+      "text": "The country is controlled by a few oligarchs.",
       "translations": {
-        "ru": "Олигарх владеет компанией.",
+        "ru": "Страной управляет несколько олигархов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7917,7 +7917,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She looks in right direction.",
+      "text": "She looks in the right direction.",
       "translations": {
         "ru": "Она смотрит в правильном направлении.",
         "zh": "",
@@ -11427,9 +11427,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her face looks pale.",
+      "text": "Your face looks pale.",
       "translations": {
-        "ru": "Её лицо выглядит бледным.",
+        "ru": "Твоё лицо выглядит бледным.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11635,7 +11635,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Be cautious on road.",
+      "text": "Be cautious on the road.",
       "translations": {
         "ru": "Будьте осторожны на дороге.",
         "zh": "",
@@ -13521,7 +13521,7 @@
   },
   {
     "id": 2521,
-    "word": "favourable",
+    "word": "favorable",
     "transcription": "",
     "translations": {
       "ru": "благоприятный",
@@ -13533,7 +13533,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The weather is favourable.",
+      "text": "The weather is favorable.",
       "translations": {
         "ru": "Погода благоприятная.",
         "zh": "",
@@ -13741,9 +13741,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her arrival was late.",
+      "text": "Your arrival was late.",
       "translations": {
-        "ru": "Её прибытие было поздним.",
+        "ru": "Ваше прибытие было поздним.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13845,7 +13845,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I overslept today.",
+      "text": "I *overslept* today.",
       "translations": {
         "ru": "Сегодня я проспал.",
         "zh": "",
@@ -16627,7 +16627,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She brings up two children.",
+      "text": "She *brings up* two children.",
       "translations": {
         "ru": "Она воспитывает двоих детей.",
         "zh": "",
@@ -17511,7 +17511,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He goes in for sport.",
+      "text": "He *goes in for* sport.",
       "translations": {
         "ru": "Он занимается спортом.",
         "zh": "",
@@ -17967,7 +17967,7 @@
   },
   {
     "id": 2692,
-    "word": "inprofessionalism",
+    "word": "unprofessionalism",
     "transcription": "",
     "translations": {
       "ru": "непрофессионализм",
@@ -18291,7 +18291,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I put problem down to mistake.",
+      "text": "I *put* problem *down to* mistake.",
       "translations": {
         "ru": "Я объясняю проблему ошибкой.",
         "zh": "",
@@ -19149,9 +19149,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Do up coat.",
+      "text": "Do up your jacket.",
       "translations": {
-        "ru": "Застёгни пальто.",
+        "ru": "Застегни куртку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19201,7 +19201,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She comes through difficult time.",
+      "text": "She *comes through* difficult time.",
       "translations": {
         "ru": "Она справляется с трудным временем.",
         "zh": "",
@@ -19773,7 +19773,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The book comes out tomorrow.",
+      "text": "The book *comes out* tomorrow.",
       "translations": {
         "ru": "Книга выйдет завтра.",
         "zh": "",
@@ -20709,9 +20709,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I envy her success.",
+      "text": "He felt envy.",
       "translations": {
-        "ru": "Я завидую её успеху.",
+        "ru": "Он почувствовал зависть.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22985,7 +22985,7 @@
   },
   {
     "id": 2885,
-    "word": "rumour",
+    "word": "rumor",
     "transcription": "",
     "translations": {
       "ru": "слух",
@@ -22997,7 +22997,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Rumour spreads quickly.",
+      "text": "Rumor spreads quickly.",
       "translations": {
         "ru": "Слух распространяется быстро.",
         "zh": "",
@@ -23205,9 +23205,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The book is covered.",
+      "text": "The book is covered with dust.",
       "translations": {
-        "ru": "Книга покрыта.",
+        "ru": "Книга покрыта пылью.",
         "zh": "",
         "es": "",
         "fr": "",

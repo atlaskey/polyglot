@@ -318,7 +318,10 @@ class page {
         " 9 ": " nine ",
         " 10 ": " ten ",
         " 11 ": " eleven ",
+        " 12 ": " twelve ",
+        " 14 ": " fourteen ",
         " 15 ": " fifteen ",
+        " 17 ": " seventeen ",
         " 18 ": " eighteen ",
         " 20 ": " twenty ",
         " 30 ": " thirty ",
@@ -331,6 +334,7 @@ class page {
         "copy book": "copybook",
         "best seller": "bestseller",
         "easy going": "easygoing",
+        "over time" : "overtime",
         "15th": "fifteenth",
         "vice to hold the metal": "vise to hold the metal"
       };

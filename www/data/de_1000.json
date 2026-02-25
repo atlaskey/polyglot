@@ -13,7 +13,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "*Das* ist mein Fahrrad.",
+      "text": "*Das* ist *mein* Fahrrad.",
       "translations": {
         "ru": "Это мой велосипед.",
         "zh": "",
