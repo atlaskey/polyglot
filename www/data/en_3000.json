@@ -1079,9 +1079,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My shoes are dirty with dirt.",
+      "text": "There is dirt on your shoes.",
       "translations": {
-        "ru": "Мои туфли грязные.",
+        "ru": "На твоих ботинках грязь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1183,9 +1183,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "My grandma bakes cookies.",
+      "text": "I visited my grandma.",
       "translations": {
-        "ru": "Моя бабушка печёт печенье.",
+        "ru": "Я навестил бабушку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1651,9 +1651,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She is nineteen.",
+      "text": "I have nineteen notebooks.",
       "translations": {
-        "ru": "Ей девятнадцать.",
+        "ru": "У меня девятнадцать тетрадей.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1781,9 +1781,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She is sixteen.",
+      "text": "I have sixteen pencils.",
       "translations": {
-        "ru": "Ей шестнадцать.",
+        "ru": "У меня шестнадцать карандашей.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1807,9 +1807,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is thirteen.",
+      "text": "The team has thirteen members.",
       "translations": {
-        "ru": "Ему тринадцать.",
+        "ru": "В команде тринадцать участников.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2405,9 +2405,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Beauty is important to her.",
+      "text": "The beauty of the city attracts tourists.",
       "translations": {
-        "ru": "Красота для неё важна.",
+        "ru": "Красота города привлекает туристов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5695,7 +5695,7 @@
   },
   {
     "id": 2220,
-    "word": "recinstruct",
+    "word": "reconstruct",
     "transcription": "",
     "translations": {
       "ru": "реконструировать",
@@ -5707,9 +5707,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The teacher will reinstruct class.",
+      "text": "They plan to reconstruct the old building.",
       "translations": {
-        "ru": "Учитель повторно проведёт урок.",
+        "ru": "Они планируют реконструировать старое здание.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6319,7 +6319,7 @@
   },
   {
     "id": 2244,
-    "word": "hairsryle",
+    "word": "hairstyle",
     "transcription": "",
     "translations": {
       "ru": "прическа",
@@ -6331,9 +6331,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her hairstyle is beautiful.",
+      "text": "Your hairstyle is beautiful.",
       "translations": {
-        "ru": "Её причёска красивая.",
+        "ru": "Твоя причёска красивая.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6487,7 +6487,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The game was canceled due to rain.",
+      "text": "The game was cancelled due to rain.",
       "translations": {
         "ru": "Игра была отменена из-за дождя.",
         "zh": "",
@@ -7853,7 +7853,7 @@
   },
   {
     "id": 2303,
-    "word": "cheque",
+    "word": "check",
     "transcription": "",
     "translations": {
       "ru": "чек",
@@ -7865,7 +7865,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He writes cheque.",
+      "text": "He writes check.",
       "translations": {
         "ru": "Он выписывает чек.",
         "zh": "",
@@ -8281,9 +8281,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "It is hard, though.",
+      "text": "Though it was late, he kept working.",
       "translations": {
-        "ru": "Хотя это трудно.",
+        "ru": "Хотя было поздно, он продолжал работать.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9179,7 +9179,7 @@
   },
   {
     "id": 2354,
-    "word": "flavour",
+    "word": "flavor",
     "transcription": "",
     "translations": {
       "ru": "аромат",
@@ -9191,7 +9191,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This ice cream has nice flavour.",
+      "text": "This ice cream has nice flavor.",
       "translations": {
         "ru": "Это мороженое с приятным вкусом.",
         "zh": "",
@@ -10635,7 +10635,7 @@
   },
   {
     "id": 2410,
-    "word": "skilful",
+    "word": "skillful",
     "transcription": "",
     "translations": {
       "ru": "умелый",
@@ -10647,7 +10647,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is skilful worker.",
+      "text": "He is skillful worker.",
       "translations": {
         "ru": "Он умелый работник.",
         "zh": "",
@@ -13559,9 +13559,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Stop making fuss.",
+      "text": "Don't make a fuss.",
       "translations": {
-        "ru": "Прекрати создавать шум.",
+        "ru": "Не поднимай шум.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15171,9 +15171,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her handwriting is neat.",
+      "text": "I can't read your handwriting.",
       "translations": {
-        "ru": "Её почерк аккуратный.",
+        "ru": "Я не могу разобрать твой почерк.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16107,7 +16107,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The game is over.",
+      "text": "The game *is over*.",
       "translations": {
         "ru": "Игра окончена.",
         "zh": "",
@@ -16341,7 +16341,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He gets down from ladder.",
+      "text": "He *gets down* from ladder.",
       "translations": {
         "ru": "Он спускается с лестницы.",
         "zh": "",
@@ -17459,7 +17459,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She puts on coat.",
+      "text": "She *puts on* coat.",
       "translations": {
         "ru": "Она надевает пальто.",
         "zh": "",
@@ -17485,7 +17485,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Time goes by quickly.",
+      "text": "Time *goes by* quickly.",
       "translations": {
         "ru": "Время идёт быстро.",
         "zh": "",
@@ -17693,9 +17693,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "This hotel has good facilities.",
+      "text": "Security is strict at this facility.",
       "translations": {
-        "ru": "В этом отеле хорошие условия.",
+        "ru": "В этом объекте строгая охрана.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18005,7 +18005,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He got into trouble.",
+      "text": "He *got into* trouble.",
       "translations": {
         "ru": "Он попал в беду.",
         "zh": "",
@@ -18369,7 +18369,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She put me through to manager.",
+      "text": "She *put* me *through* to the manager.",
       "translations": {
         "ru": "Она соединила меня с менеджером.",
         "zh": "",
@@ -18785,7 +18785,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Company takes over smaller firm.",
+      "text": "Company *takes over* smaller firm.",
       "translations": {
         "ru": "Компания поглощает меньшую фирму.",
         "zh": "",
@@ -19903,9 +19903,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Height of building is 20 metres.",
+      "text": "Height of building is twenty metres.",
       "translations": {
-        "ru": "Высота здания 20 метров.",
+        "ru": "Высота здания двадцать метров.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21385,9 +21385,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Population grows fast.",
+      "text": "The population is growing.",
       "translations": {
-        "ru": "Население растёт быстро.",
+        "ru": "Население растёт.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22061,9 +22061,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He shows erudition.",
+      "text": "His lectures show great erudition.",
       "translations": {
-        "ru": "Он проявляет эрудицию.",
+        "ru": "Его лекции демонстрируют большую эрудицию.",
         "zh": "",
         "es": "",
         "fr": "",

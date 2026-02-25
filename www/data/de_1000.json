@@ -13,7 +13,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "*Das* ist *mein* Fahrrad.",
+      "text": "*Das* ist mein Fahrrad.",
       "translations": {
         "ru": "Это мой велосипед.",
         "zh": "",
@@ -588,6 +588,942 @@
       "text": "Er kann schwimmen.",
       "translations": {
         "ru": "Он умеет плавать.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 24,
+    "word": "dies",
+    "transcription": "",
+    "translations": {
+      "ru": "это, этот",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Diese Studenten kommen aus Ungarn.",
+      "translations": {
+        "ru": "Эти студенты из Венгрии.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 25,
+    "word": "als",
+    "transcription": "",
+    "translations": {
+      "ru": "чем (при сравнении), когда (в прошлом)",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Als er jung war, wohnte er in Berlin.",
+      "translations": {
+        "ru": "Когда он был молод, он жил в Берлине.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 26,
+    "word": "ihr",
+    "transcription": "",
+    "translations": {
+      "ru": "вы (мн.ч.), ваш, ей",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Habt ihr das gewusst?",
+      "translations": {
+        "ru": "Вы это знали?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 27,
+    "word": "ja",
+    "transcription": "",
+    "translations": {
+      "ru": "да",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ja, ich bin damit einverstanden.",
+      "translations": {
+        "ru": "Да, я с этим согласен.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 28,
+    "word": "wie",
+    "transcription": "",
+    "translations": {
+      "ru": "как",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wie spät ist es?",
+      "translations": {
+        "ru": "Который час?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 29,
+    "word": "bei",
+    "transcription": "",
+    "translations": {
+      "ru": "у, при, около",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Sie war gestern beim Zahnarzt.",
+      "translations": {
+        "ru": "Она была вчера у стоматолога.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 30,
+    "word": "oder",
+    "transcription": "",
+    "translations": {
+      "ru": "или",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Möchtest du lieber Spaghetti oder Tortellini?",
+      "translations": {
+        "ru": "Ты хочешь спагетти или тортеллини?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 31,
+    "word": "wir",
+    "transcription": "",
+    "translations": {
+      "ru": "мы",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wir arbeiten jeden Tag zehn Stunden.",
+      "translations": {
+        "ru": "Мы работаем каждый день по десять часов.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 32,
+    "word": "aber",
+    "transcription": "",
+    "translations": {
+      "ru": "но",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Du hast Recht, aber ich auch.",
+      "translations": {
+        "ru": "Ты прав, но и я тоже.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 33,
+    "word": "dann",
+    "transcription": "",
+    "translations": {
+      "ru": "тогда, затем",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Dann gehen wir schwimmen.",
+      "translations": {
+        "ru": "Тогда пойдём купаться.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 34,
+    "word": "man",
+    "transcription": "",
+    "translations": {
+      "ru": "человек, люди",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Das macht man nicht.",
+      "translations": {
+        "ru": "Так не делают.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 35,
+    "word": "da",
+    "transcription": "",
+    "translations": {
+      "ru": "там, тогда",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Da oben fliegt ein Adler.",
+      "translations": {
+        "ru": "Там наверху летает орёл.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 36,
+    "word": "seine",
+    "transcription": "",
+    "translations": {
+      "ru": "его",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Seine Tochter geht schon zur Schule.",
+      "translations": {
+        "ru": "Его дочь уже ходит в школу.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 37,
+    "word": "noch",
+    "transcription": "",
+    "translations": {
+      "ru": "ещё",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Habt ich noch Fragen?",
+      "translations": {
+        "ru": "Есть ли ещё вопросы?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 38,
+    "word": "nach",
+    "transcription": "",
+    "translations": {
+      "ru": "после, к, по",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Nach dem Mittagessen gehen wir spazieren.",
+      "translations": {
+        "ru": "После обеда мы пойдём гулять.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 39,
+    "word": "was",
+    "transcription": "",
+    "translations": {
+      "ru": "что",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Was hast du gesagt?",
+      "translations": {
+        "ru": "Что ты сказал?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 40,
+    "word": "also",
+    "transcription": "",
+    "translations": {
+      "ru": "итак, значит",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Du hast also keine Zeit.",
+      "translations": {
+        "ru": "Значит, у тебя нет времени.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 41,
+    "word": "aus",
+    "transcription": "",
+    "translations": {
+      "ru": "из, с",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich komme aus Deutschland.",
+      "translations": {
+        "ru": "Я из Германии.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 42,
+    "word": "all",
+    "transcription": "",
+    "translations": {
+      "ru": "весь, все",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wir sind alle fleißig.",
+      "translations": {
+        "ru": "Мы все трудолюбивы.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 43,
+    "word": "wenn",
+    "transcription": "",
+    "translations": {
+      "ru": "если, когда",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wenn du willst, kannst du kommen.",
+      "translations": {
+        "ru": "Если ты хочешь, ты можешь прийти.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 44,
+    "word": "nur",
+    "transcription": "",
+    "translations": {
+      "ru": "только",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich habe nur einen Apfel.",
+      "translations": {
+        "ru": "У меня есть только одно яблоко.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 45,
+    "word": "müssen",
+    "transcription": "",
+    "translations": {
+      "ru": "должен, нужно",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wir müssen jetzt gehen.",
+      "translations": {
+        "ru": "Мы должны сейчас идти.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 46,
+    "word": "sagen",
+    "transcription": "",
+    "translations": {
+      "ru": "говорить, сказать",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Was willst du sagen?",
+      "translations": {
+        "ru": "Что ты хочешь сказать?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 47,
+    "word": "um",
+    "transcription": "",
+    "translations": {
+      "ru": "чтобы, вокруг, около",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich gehe um den Park.",
+      "translations": {
+        "ru": "Я иду вокруг парка.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 48,
+    "word": "über",
+    "transcription": "",
+    "translations": {
+      "ru": "над, о, через",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Das Flugzeug fliegt über das Haus.",
+      "translations": {
+        "ru": "Самолёт летит над домом.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 49,
+    "word": "machen",
+    "transcription": "",
+    "translations": {
+      "ru": "делать",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich mache meine Hausaufgaben.",
+      "translations": {
+        "ru": "Я делаю домашнее задание.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 50,
+    "word": "kein",
+    "transcription": "",
+    "translations": {
+      "ru": "никакой, не",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich habe kein Geld.",
+      "translations": {
+        "ru": "У меня нет денег.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 51,
+    "word": "Jahr",
+    "transcription": "",
+    "translations": {
+      "ru": "год",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Dieses Jahr war gut.",
+      "translations": {
+        "ru": "Этот год был хорошим.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 52,
+    "word": "du",
+    "transcription": "",
+    "translations": {
+      "ru": "ты",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Du bist blöd.",
+      "translations": {
+        "ru": "Ты глупый.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 53,
+    "word": "mein",
+    "transcription": "",
+    "translations": {
+      "ru": "мой",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Du bist mein Freund.",
+      "translations": {
+        "ru": "Ты мой друг.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 54,
+    "word": "schon",
+    "transcription": "",
+    "translations": {
+      "ru": "уже",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich bin schon fertig.",
+      "translations": {
+        "ru": "Я уже закончил.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 55,
+    "word": "vor",
+    "transcription": "",
+    "translations": {
+      "ru": "перед, до",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich stehe vor dem Haus.",
+      "translations": {
+        "ru": "Я стою перед домом.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 56,
+    "word": "durch",
+    "transcription": "",
+    "translations": {
+      "ru": "через",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Wir gehen durch den Tunnel.",
+      "translations": {
+        "ru": "Мы идём через тоннель.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 57,
+    "word": "geben",
+    "transcription": "",
+    "translations": {
+      "ru": "давать",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Kannst du mir das Buch geben?",
+      "translations": {
+        "ru": "Ты можешь дать мне книгу?",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 58,
+    "word": "mehr",
+    "transcription": "",
+    "translations": {
+      "ru": "больше",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Ich will mehr Wasser.",
+      "translations": {
+        "ru": "Я хочу больше воды.",
+        "zh": "",
+        "es": "",
+        "fr": "",
+        "ar": "",
+        "pt": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": 59,
+    "word": "andere",
+    "transcription": "",
+    "translations": {
+      "ru": "другой, другие",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "ar": "",
+      "pt": "",
+      "hi": ""
+    },
+    "sentence": {
+      "text": "Andere Leute warten draußen.",
+      "translations": {
+        "ru": "Другие люди ждут снаружи.",
         "zh": "",
         "es": "",
         "fr": "",
