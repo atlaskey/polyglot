@@ -4719,9 +4719,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They surf every morning.",
+      "text": "Surf is popular in this area.",
       "translations": {
-        "ru": "Они серфят каждое утро.",
+        "ru": "Сёрфинг популярен в этом районе.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4823,9 +4823,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We отдых at seaside.",
+      "text": "We spent our vacation at the seaside.",
       "translations": {
-        "ru": "Мы отдыхаем на побережье.",
+        "ru": "Мы провели отпуск на побережье.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9373,9 +9373,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ten per cent is enough.",
+      "text": "Only five percent agreed with the decision.",
       "translations": {
-        "ru": "Десяти процентов достаточно.",
+        "ru": "Только пять процентов согласились с решением.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15613,9 +15613,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He agreed unwillingly.",
+      "text": "They unwillingly accepted the offer.",
       "translations": {
-        "ru": "Он согласился неохотно.",
+        "ru": "Они приняли предложение без желания.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16965,7 +16965,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She looks through documents.",
+      "text": "She *looks through* documents.",
       "translations": {
         "ru": "Она просматривает документы.",
         "zh": "",
@@ -17225,7 +17225,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He dropped out of school.",
+      "text": "He *dropped out* of school.",
       "translations": {
         "ru": "Он бросил школу.",
         "zh": "",
@@ -17303,7 +17303,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She puts up with noise.",
+      "text": "She *puts up with* noise.",
       "translations": {
         "ru": "Она мирится с шумом.",
         "zh": "",
@@ -17615,9 +17615,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I found banknote on street.",
+      "text": "Different countries have different banknotes.",
       "translations": {
-        "ru": "Я нашёл банкноту на улице.",
+        "ru": "В разных странах разные банкноты.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18083,7 +18083,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She got over illness.",
+      "text": "She *got over* illness.",
       "translations": {
         "ru": "Она оправилась от болезни.",
         "zh": "",
@@ -20475,9 +20475,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Workers are underpaid.",
+      "text": "Don't underpay your workers.",
       "translations": {
-        "ru": "Рабочим недоплачивают.",
+        "ru": "Не недоплачивайте своим работникам.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21099,9 +21099,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He replied with wit and charm.",
+      "text": "I enjoy books full of wit and clever humor.",
       "translations": {
-        "ru": "Он ответил остроумно и обаятельно.",
+        "ru": "Мне нравятся книги, полные остроумия и тонкого юмора.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22763,9 +22763,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Do not assume too much.",
+      "text": "Your conclusion is based on a wrong assumption.",
       "translations": {
-        "ru": "Не делай слишком больших предположений.",
+        "ru": "Твой вывод основан на неверном предположении.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23661,7 +23661,7 @@
   },
   {
     "id": 2911,
-    "word": "bereaucracy",
+    "word": "bureaucracy",
     "transcription": "",
     "translations": {
       "ru": "бюрократия",
@@ -25493,9 +25493,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dissatisfaction grows.",
+      "text": "There was dissatisfaction with the service.",
       "translations": {
-        "ru": "Недовольство растёт.",
+        "ru": "Было недовольство сервисом.",
         "zh": "",
         "es": "",
         "fr": "",
