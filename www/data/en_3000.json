@@ -3705,9 +3705,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He reads quote aloud.",
+      "text": "He quoted Shakespeare.",
       "translations": {
-        "ru": "Он вслух читает цитату.",
+        "ru": "Он процитировал Шекспира.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6539,9 +6539,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Please fasten seatbelt.",
+      "text": "Please fasten your seat belt.",
       "translations": {
-        "ru": "Пожалуйста, пристегните ремень безопасности.",
+        "ru": "Пожалуйста, пристегните ваш ремень безопасности.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6943,7 +6943,7 @@
   },
   {
     "id": 2268,
-    "word": "millionare",
+    "word": "millionaire",
     "transcription": "",
     "translations": {
       "ru": "миллионер",
@@ -7189,9 +7189,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The train departs at six.",
+      "text": "The flight departed on time.",
       "translations": {
-        "ru": "Поезд отправляется в шесть.",
+        "ru": "Рейс вылетел вовремя.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7267,9 +7267,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We eat supper at seven.",
+      "text": "She prepared a simple supper.",
       "translations": {
-        "ru": "Мы ужинаем в семь.",
+        "ru": "Она приготовила лёгкий ужин.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7709,9 +7709,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Reading is my pastime.",
+      "text": "Reading is my favorite pastime.",
       "translations": {
-        "ru": "Чтение — моё хобби.",
+        "ru": "Чтение — моё любимое занятие.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11311,7 +11311,7 @@
   },
   {
     "id": 2436,
-    "word": "metre",
+    "word": "meter",
     "transcription": "",
     "translations": {
       "ru": "метр",
@@ -11323,7 +11323,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The room is five metres wide.",
+      "text": "The room is five meters wide.",
       "translations": {
         "ru": "Комната шириной пять метров.",
         "zh": "",
@@ -11583,9 +11583,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The belt is around waist.",
+      "text": "The belt is tight around my waist.",
       "translations": {
-        "ru": "Ремень на поясе.",
+        "ru": "Ремень туго сидит на моей талии.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13027,7 +13027,7 @@
   },
   {
     "id": 2502,
-    "word": "inividual",
+    "word": "individual",
     "transcription": "",
     "translations": {
       "ru": "индивидуальный",
@@ -14041,7 +14041,7 @@
   },
   {
     "id": 2541,
-    "word": "air conitioning",
+    "word": "air conditioning",
     "transcription": "",
     "translations": {
       "ru": "кондиционер",
@@ -14937,9 +14937,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The team scored high score.",
+      "text": "She scored a great job.",
       "translations": {
-        "ru": "Команда набрала высокий балл.",
+        "ru": "Она получила отличную работу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15445,7 +15445,7 @@
   },
   {
     "id": 2595,
-    "word": "misundersand",
+    "word": "misunderstand",
     "transcription": "",
     "translations": {
       "ru": "неправильно",
@@ -15925,7 +15925,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We went to see off friend.",
+      "text": "We went to see off a friend.",
       "translations": {
         "ru": "Мы пошли провожать друга.",
         "zh": "",
@@ -16159,7 +16159,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I came across old photo.",
+      "text": "I *came across* old photo.",
       "translations": {
         "ru": "Я наткнулся на старую фотографию.",
         "zh": "",
@@ -16653,7 +16653,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He lags behind class.",
+      "text": "He *lags behind* class.",
       "translations": {
         "ru": "Он отстаёт от класса.",
         "zh": "",
@@ -16731,7 +16731,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She takes after mother.",
+      "text": "She *takes after* mother.",
       "translations": {
         "ru": "Она похожа на мать.",
         "zh": "",
@@ -16913,7 +16913,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "What are you getting at?",
+      "text": "What are you *getting at*?",
       "translations": {
         "ru": "Что ты хочешь сказать?",
         "zh": "",
@@ -17173,7 +17173,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He let me down.",
+      "text": "He *let* me *down*.",
       "translations": {
         "ru": "Он меня подвёл.",
         "zh": "",
@@ -17381,7 +17381,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He gets around city by bike.",
+      "text": "He *gets around* city by bike.",
       "translations": {
         "ru": "Он передвигается по городу на велосипеде.",
         "zh": "",
@@ -17537,7 +17537,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The alarm goes off.",
+      "text": "The alarm *goes off*.",
       "translations": {
         "ru": "Будильник сработал.",
         "zh": "",
@@ -18135,9 +18135,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They cut down tree.",
+      "text": "They cut down the old tree.",
       "translations": {
-        "ru": "Они срубили дерево.",
+        "ru": "Они срубили старое дерево.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18542,7 +18542,7 @@
     "word": "dress down",
     "transcription": "",
     "translations": {
-      "ru": "одеваться неформально",
+      "ru": "отчитать, одеваться неформально",
       "zh": "",
       "es": "",
       "fr": "",
@@ -18551,7 +18551,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Teacher dresses down students.",
+      "text": "Teacher *dresses down* students.",
       "translations": {
         "ru": "Учитель делает выговор ученикам.",
         "zh": "",
@@ -19071,9 +19071,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I take back words.",
+      "text": "I take back what I said.",
       "translations": {
-        "ru": "Я беру слова обратно.",
+        "ru": "Я беру свои слова обратно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19903,7 +19903,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Height of building is twenty metres.",
+      "text": "Height of building is twenty meters.",
       "translations": {
         "ru": "Высота здания двадцать метров.",
         "zh": "",
@@ -21099,9 +21099,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He has sharp wit.",
+      "text": "He replied with wit and charm.",
       "translations": {
-        "ru": "У него острый ум.",
+        "ru": "Он ответил остроумно и обаятельно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23699,9 +23699,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The noise will cease.",
+      "text": "The company will cease operations next month.",
       "translations": {
-        "ru": "Шум прекратится.",
+        "ru": "Компания прекратит деятельность в следующем месяце.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -25377,7 +25377,7 @@
   },
   {
     "id": 2977,
-    "word": "thorough",
+    "word": "thoroughly",
     "transcription": "",
     "translations": {
       "ru": "тщательно",
