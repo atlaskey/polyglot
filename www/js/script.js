@@ -338,6 +338,7 @@ class page {
         "best seller": "bestseller",
         "easy going": "easygoing",
         "over time" : "overtime",
+        "5%" : "five percent",
         "15th": "fifteenth",
         "vice to hold the metal": "vise to hold the metal"
       };

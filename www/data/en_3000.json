@@ -9361,7 +9361,7 @@
   },
   {
     "id": 2361,
-    "word": "per cent",
+    "word": "percent",
     "transcription": "",
     "translations": {
       "ru": "проценты",
@@ -21099,9 +21099,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I enjoy books full of wit and clever humor.",
+      "text": "His wit made everyone laugh.",
       "translations": {
-        "ru": "Мне нравятся книги, полные остроумия и тонкого юмора.",
+        "ru": "Его остроумие рассмешило всех.",
         "zh": "",
         "es": "",
         "fr": "",
