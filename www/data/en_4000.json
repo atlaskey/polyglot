@@ -1391,9 +1391,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her popularity grows.",
+      "text": "Your popularity grows.",
       "translations": {
-        "ru": "Ее популярность растет.",
+        "ru": "Твоя популярность растет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8983,9 +8983,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We had merry party.",
+      "text": "I wish you a Merry Christmas.",
       "translations": {
-        "ru": "У нас была веселая вечеринка.",
+        "ru": "Желаю тебе счастливого Рождества.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10803,9 +10803,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She finished fourth.",
+      "text": "Today is the fourth of May.",
       "translations": {
-        "ru": "Она закончила четвертой.",
+        "ru": "Сегодня четвёртое мая.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12545,9 +12545,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Do not nick surface.",
+      "text": "The car was nicked on the side.",
       "translations": {
-        "ru": "Не царапай поверхность.",
+        "ru": "Машину немного поцарапали сбоку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14590,7 +14590,7 @@
     "word": "clamp down",
     "transcription": "",
     "translations": {
-      "ru": "подавить, расправиться с",
+      "ru": "усиливать контроль",
       "zh": "",
       "es": "",
       "fr": "",
@@ -14599,9 +14599,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Police clamp down on crime.",
+      "text": "Police clamped down on crime.",
       "translations": {
-        "ru": "Полиция усиливает контроль за преступностью.",
+        "ru": "Полиция усилила контроль за преступностью.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14616,7 +14616,7 @@
     "word": "crack down",
     "transcription": "",
     "translations": {
-      "ru": "подавить, расправиться с",
+      "ru": "активно бороться",
       "zh": "",
       "es": "",
       "fr": "",
@@ -19435,9 +19435,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She try on dress.",
+      "text": "She tried on her new dress.",
       "translations": {
-        "ru": "Она примеряет платье.",
+        "ru": "Она примерила своё новое платье.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19773,9 +19773,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The frog turn into prince.",
+      "text": "The caterpillar *turned into* a butterfly.",
       "translations": {
-        "ru": "Лягушка превратилась в принца.",
+        "ru": "Гусеница превратилась в бабочку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20359,7 +20359,7 @@
   },
   {
     "id": 3784,
-    "word": "call round",
+    "word": "call around",
     "transcription": "",
     "translations": {
       "ru": "заходить",
@@ -20371,7 +20371,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I will call round later.",
+      "text": "I will call around later.",
       "translations": {
         "ru": "Я загляну позже.",
         "zh": "",
@@ -20995,7 +20995,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Let’s meet up later.",
+      "text": "Let's meet up later.",
       "translations": {
         "ru": "Давайте встретимся позже.",
         "zh": "",
@@ -21099,7 +21099,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We head for station.",
+      "text": "We are *heading for* the station.",
       "translations": {
         "ru": "Мы направляемся к станции.",
         "zh": "",
@@ -21411,7 +21411,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Let’s wind up meeting.",
+      "text": "Let's wind up meeting.",
       "translations": {
         "ru": "Давайте завершим встречу.",
         "zh": "",
@@ -21593,7 +21593,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Let’s move on to next topic.",
+      "text": "Let's move on to next topic.",
       "translations": {
         "ru": "Давайте перейдем к следующей теме.",
         "zh": "",
@@ -22295,9 +22295,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They laze around park.",
+      "text": "He spent the whole day lazing around.",
       "translations": {
-        "ru": "Они ленятся в парке.",
+        "ru": "Он провёл весь день, бездельничая.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23439,9 +23439,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She change into uniform.",
+      "text": "She *changed into* her uniform.",
       "translations": {
-        "ru": "Она переодевается в форму.",
+        "ru": "Она переоделась в свою форму.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24103,7 +24103,7 @@
   },
   {
     "id": 3928,
-    "word": "straightaway",
+    "word": "straight away",
     "transcription": "",
     "translations": {
       "ru": "немедленно",
@@ -24115,9 +24115,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Go there straightaway.",
+      "text": "Go there straight away.",
       "translations": {
-        "ru": "Иди туда прямо.",
+        "ru": "Иди туда немедленно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24909,7 +24909,7 @@
   },
   {
     "id": 3959,
-    "word": "indecively",
+    "word": "indecisively",
     "transcription": "",
     "translations": {
       "ru": "нерешительно",
