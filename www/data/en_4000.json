@@ -1119,7 +1119,7 @@
   },
   {
     "id": 3044,
-    "word": "rediculously",
+    "word": "ridiculously",
     "transcription": "",
     "translations": {
       "ru": "смехотворно",
@@ -1417,9 +1417,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Act sensibly.",
+      "text": "He acted sensibly.",
       "translations": {
-        "ru": "Действуй разумно.",
+        "ru": "Он поступил разумно.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10985,9 +10985,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He finished ninth.",
+      "text": "He finished ninth in the race.",
       "translations": {
-        "ru": "Он закончил девятым.",
+        "ru": "Он пришел девятым в гонке.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18149,7 +18149,7 @@
   },
   {
     "id": 3699,
-    "word": "spilt",
+    "word": "spilled",
     "transcription": "",
     "translations": {
       "ru": "разлитый",
@@ -18161,7 +18161,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The milk is spilt.",
+      "text": "The milk is spilled.",
       "translations": {
         "ru": "Молоко пролилось.",
         "zh": "",
@@ -19513,9 +19513,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He speaks up and speak up.",
+      "text": "I can't hear you. Please speak up.",
       "translations": {
-        "ru": "Он говорит громко.",
+        "ru": "Я тебя не слышу. Пожалуйста, говори громче.",
         "zh": "",
         "es": "",
         "fr": "",

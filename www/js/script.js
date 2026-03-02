@@ -341,6 +341,8 @@ class page {
         "5%" : "five percent",
         "15th": "fifteenth",
         "hair dryer": "hairdryer",
+        "school days": "schooldays",
+        "any time": "anytime",
         "vice to hold the metal": "vise to hold the metal"
       };
       for (const [key, value] of Object.entries(map)) {
