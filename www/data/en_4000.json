@@ -1703,9 +1703,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He has license to drive.",
+      "text": "You need a driving license.",
       "translations": {
-        "ru": "У него есть водительское удостоверение.",
+        "ru": "Тебе нужны водительские права.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2899,9 +2899,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I arrived precisely at five.",
+      "text": "That is precisely what I mean.",
       "translations": {
-        "ru": "Я прибыл точно в пять.",
+        "ru": "Именно это я и имею в виду.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4213,7 +4213,7 @@
   },
   {
     "id": 3163,
-    "word": "enrol",
+    "word": "enroll",
     "transcription": "",
     "translations": {
       "ru": "записаться",
@@ -4225,7 +4225,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She will enrol in class.",
+      "text": "She will enroll in class.",
       "translations": {
         "ru": "Она запишется на курс.",
         "zh": "",
@@ -5811,7 +5811,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They convert room into office.",
+      "text": "They convert a room into office.",
       "translations": {
         "ru": "Они переделали комнату в офис.",
         "zh": "",
@@ -7163,7 +7163,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He pays in ruble.",
+      "text": "He pays in *rubles*.",
       "translations": {
         "ru": "Он платит в рублях.",
         "zh": "",
@@ -7475,9 +7475,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I peel carrot.",
+      "text": "I eat a carrot.",
       "translations": {
-        "ru": "Я очищаю морковь.",
+        "ru": "Я ем морковь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8125,9 +8125,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Athletes compete in race.",
+      "text": "He wants to compete with the best players.",
       "translations": {
-        "ru": "Спортсмены соревнуются в гонке.",
+        "ru": "Он хочет соревноваться с лучшими игроками.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8931,9 +8931,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Inefficiency wastes time.",
+      "text": "The system suffers from inefficiency.",
       "translations": {
-        "ru": "Неэффективность тратит время.",
+        "ru": "Система страдает от неэффективности.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10595,9 +10595,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I yawn when tired.",
+      "text": "She tried not to yawn during the lecture.",
       "translations": {
-        "ru": "Я зеваю, когда устал.",
+        "ru": "Она старалась не зевать на лекции.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10921,7 +10921,7 @@
   },
   {
     "id": 3421,
-    "word": "knell",
+    "word": "kneel",
     "transcription": "",
     "translations": {
       "ru": "опускаться на колени",
@@ -10933,9 +10933,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The knell sounded.",
+      "text": "She *knelt* before him.",
       "translations": {
-        "ru": "Прозвучал звон колокола.",
+        "ru": "Она встала перед ним на колени.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11089,9 +11089,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sad news will sadden us.",
+      "text": "It saddens me to see this.",
       "translations": {
-        "ru": "Печальная новость огорчит нас.",
+        "ru": "Мне грустно это видеть.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11297,9 +11297,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear proper clothing.",
+      "text": "The store sells men's clothing.",
       "translations": {
-        "ru": "Носи подходящую одежду.",
+        "ru": "Магазин продаёт мужскую одежду.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11479,7 +11479,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She exclaim in surprise.",
+      "text": "She *exclaimed* in surprise.",
       "translations": {
         "ru": "Она воскликнула от удивления.",
         "zh": "",
@@ -14599,7 +14599,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Police clamped down on crime.",
+      "text": "Police *clamped down* on crime.",
       "translations": {
         "ru": "Полиция усилила контроль за преступностью.",
         "zh": "",
@@ -15119,9 +15119,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Clothes soak in water.",
+      "text": "Soak beans overnight.",
       "translations": {
-        "ru": "Одежда мокнет в воде.",
+        "ru": "Замочите фасоль на ночь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16797,7 +16797,7 @@
   },
   {
     "id": 3647,
-    "word": "black out",
+    "word": "blackout",
     "transcription": "",
     "translations": {
       "ru": "терять сознание",
@@ -16809,7 +16809,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Power black out occurred.",
+      "text": "Power blackout occurred.",
       "translations": {
         "ru": "Произошло отключение электроэнергии.",
         "zh": "",
@@ -17346,7 +17346,7 @@
     "word": "knock off",
     "transcription": "",
     "translations": {
-      "ru": "заканчивать, прерываться",
+      "ru": "сбить, столкнуть",
       "zh": "",
       "es": "",
       "fr": "",
@@ -17355,9 +17355,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Workers knock off at six.",
+      "text": "The wind *knocked off* the hat.",
       "translations": {
-        "ru": "Рабочие уходят с работы в шесть.",
+        "ru": "Ветер сбил шляпу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18421,7 +18421,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Let him in.",
+      "text": "*Let* him *in*.",
       "translations": {
         "ru": "Пусть войдет.",
         "zh": "",
@@ -18447,9 +18447,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Expenses add up to hundred dollars.",
+      "text": "His mistakes add up to failure.",
       "translations": {
-        "ru": "Расходы составляют сто долларов.",
+        "ru": "Его ошибки приводят к провалу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19917,7 +19917,7 @@
   },
   {
     "id": 3767,
-    "word": "fairy tail",
+    "word": "fairy tale",
     "transcription": "",
     "translations": {
       "ru": "сказка",
@@ -19929,7 +19929,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I like fairy tale.",
+      "text": "I like *fairy tales*.",
       "translations": {
         "ru": "Мне нравятся сказки.",
         "zh": "",
@@ -20813,9 +20813,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The youth plays football.",
+      "text": "He spent his youth in the village.",
       "translations": {
-        "ru": "Молодой человек играет в футбол.",
+        "ru": "Он провёл молодость в деревне.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21645,9 +21645,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He scribble down note.",
+      "text": "He *scribbled down* note.",
       "translations": {
-        "ru": "Он делает заметку.",
+        "ru": "Он наспех записал заметку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21893,7 +21893,7 @@
   },
   {
     "id": 3843,
-    "word": "traveller",
+    "word": "traveler",
     "transcription": "",
     "translations": {
       "ru": "путешественник",
@@ -21905,7 +21905,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The traveller rests.",
+      "text": "The traveler rests.",
       "translations": {
         "ru": "Путешественник отдыхает.",
         "zh": "",
@@ -22295,7 +22295,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He spent the whole day lazing around.",
+      "text": "He spent the whole day *lazing around*.",
       "translations": {
         "ru": "Он провёл весь день, бездельничая.",
         "zh": "",
@@ -24597,7 +24597,7 @@
   },
   {
     "id": 3947,
-    "word": "skilfully",
+    "word": "skillfully",
     "transcription": "",
     "translations": {
       "ru": "искусно",
@@ -24609,7 +24609,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He paints skilfully.",
+      "text": "He paints skillfully.",
       "translations": {
         "ru": "Он рисует умело.",
         "zh": "",

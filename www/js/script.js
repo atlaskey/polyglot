@@ -343,7 +343,11 @@ class page {
         "hair dryer": "hairdryer",
         "school days": "schooldays",
         "any time": "anytime",
-        "vice to hold the metal": "vise to hold the metal"
+        "vice to hold the metal": "vise to hold the metal",
+        "spark of debate" : "spark off debate",
+        "school days" : "schooldays",
+        "19th" : "nineteenth",
+        "seat belt" : "seatbelt"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
