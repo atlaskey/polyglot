@@ -611,9 +611,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The fee is ten dollars.",
+      "text": "You must pay the registration fee.",
       "translations": {
-        "ru": "Плата составляет десять долларов.",
+        "ru": "Вы должны заплатить регистрационный взнос.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": 3094,
-    "word": "prbability",
+    "word": "probability",
     "transcription": "",
     "translations": {
       "ru": "вероятность",
@@ -2483,9 +2483,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "“Yeah,” he said.",
+      "text": "Yeah, I agree.",
       "translations": {
-        "ru": "«Да», — сказал он.",
+        "ru": "Да, я согласен.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3887,9 +3887,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Minus five degrees.",
+      "text": "The temperature is minus five degrees.",
       "translations": {
-        "ru": "Минус пять градусов.",
+        "ru": "Температура минус пять градусов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4745,9 +4745,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear accessory.",
+      "text": "She bought a new fashion accessory.",
       "translations": {
-        "ru": "Носите аксессуар.",
+        "ru": "Она купила новый модный аксессуар.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 3211,
-    "word": "marvellous",
+    "word": "marvelous",
     "transcription": "",
     "translations": {
       "ru": "великолепный",
@@ -5473,7 +5473,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The view is marvellous.",
+      "text": "The view is marvelous.",
       "translations": {
         "ru": "Вид замечательный.",
         "zh": "",
@@ -5577,9 +5577,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "We applaud performance.",
+      "text": "The audience *applauded* after the performance.",
       "translations": {
-        "ru": "Мы аплодируем выступлению.",
+        "ru": "Публика аплодировала после выступления.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5889,9 +5889,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "A dinosaur is extinct.",
+      "text": "*Dinosaurs* are extinct.",
       "translations": {
-        "ru": "Динозавр вымер.",
+        "ru": "Динозавры вымерли.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6019,9 +6019,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The goose flies south.",
+      "text": "The goose flies north.",
       "translations": {
-        "ru": "Гусь летит на юг.",
+        "ru": "Гусь летит на север.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7033,9 +7033,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The minimum is five.",
+      "text": "Try to reach the minimum cost.",
       "translations": {
-        "ru": "Минимум — пять.",
+        "ru": "Постарайтесь снизить расходы до минимума.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7345,9 +7345,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Tears tear face.",
+      "text": "A tear fell from her eye.",
       "translations": {
-        "ru": "Слезы текут по лицу.",
+        "ru": "Слеза упала из её глаза.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10257,9 +10257,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Love motherland.",
+      "text": "He loves his motherland.",
       "translations": {
-        "ru": "Люби родину.",
+        "ru": "Он любит свою родину.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11895,9 +11895,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Athlete shows agility.",
+      "text": "Gymnastics requires high agility.",
       "translations": {
-        "ru": "Спортсмен проявляет ловкость.",
+        "ru": "Гимнастика требует высокой ловкости.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12207,9 +12207,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Athlete has great endurance.",
+      "text": "Running a marathon requires great endurance.",
       "translations": {
-        "ru": "У спортсмена большая выносливость.",
+        "ru": "Бег марафона требует большой выносливости.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12909,9 +12909,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The desert is vast.",
+      "text": "She has a vast amount of experience.",
       "translations": {
-        "ru": "Пустыня огромна.",
+        "ru": "У неё огромный опыт.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13039,7 +13039,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Music can liven up party.",
+      "text": "Music can liven up a party.",
       "translations": {
         "ru": "Музыка может оживить вечеринку.",
         "zh": "",
@@ -13897,7 +13897,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He slogs away at work.",
+      "text": "He *slogs away* at work.",
       "translations": {
         "ru": "Он усердно работает.",
         "zh": "",
@@ -14561,7 +14561,7 @@
   },
   {
     "id": 3561,
-    "word": "run acress",
+    "word": "run across",
     "transcription": "",
     "translations": {
       "ru": "наткнуться на",
@@ -14625,9 +14625,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Authorities crack down on protest.",
+      "text": "Police are cracking down on illegal parking.",
       "translations": {
-        "ru": "Власти жестко подавляют протест.",
+        "ru": "Полиция борется с незаконной парковкой.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15535,9 +15535,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The gang caused trouble.",
+      "text": "He joined a local gang.",
       "translations": {
-        "ru": "Банда причинила проблемы.",
+        "ru": "Он присоединился к местной банде.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16913,9 +16913,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Car had breakdown on road.",
+      "text": "The bus had a breakdown.",
       "translations": {
-        "ru": "Машина сломалась на дороге.",
+        "ru": "Автобус сломался.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17719,9 +17719,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Stand straight.",
+      "text": "She gave a straight answer.",
       "translations": {
-        "ru": "Стойте прямо.",
+        "ru": "Она дала прямой ответ.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18135,9 +18135,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Fasten seatbelt in car.",
+      "text": "Always wear a seatbelt while driving.",
       "translations": {
-        "ru": "Пристегните ремень безопасности в машине.",
+        "ru": "Всегда пристёгивайте ремень во время езды.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18291,7 +18291,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He has aversion to spiders.",
+      "text": "He has an aversion to spiders.",
       "translations": {
         "ru": "У него отвращение к паукам.",
         "zh": "",
@@ -18369,9 +18369,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The sun will dawn soon.",
+      "text": "I woke up at dawn.",
       "translations": {
-        "ru": "Солнце скоро взойдет.",
+        "ru": "Я проснулся на рассвете.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19435,7 +19435,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "She tried on her new dress.",
+      "text": "She *tried on* her new dress.",
       "translations": {
         "ru": "Она примерила своё новое платье.",
         "zh": "",
@@ -19747,7 +19747,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The house burn down.",
+      "text": "The house *burned down*.",
       "translations": {
         "ru": "Дом сгорел.",
         "zh": "",
@@ -23803,9 +23803,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Do not slip up.",
+      "text": "He *slipped up* during the presentation.",
       "translations": {
-        "ru": "Не совершай ошибку.",
+        "ru": "Он допустил ошибку во время презентации.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24583,9 +24583,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They prolong meeting.",
+      "text": "The treatment can prolong life.",
       "translations": {
-        "ru": "Они продлили встречу.",
+        "ru": "Лечение может продлить жизнь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24663,7 +24663,7 @@
     "sentence": {
       "text": "He is an amateur player.",
       "translations": {
-        "ru": "Он любитель.",
+        "ru": "Он игрок любитель.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -25909,7 +25909,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is a talented guitarist..",
+      "text": "He is a talented guitarist.",
       "translations": {
         "ru": "Он талантливый гитарист.",
         "zh": "",

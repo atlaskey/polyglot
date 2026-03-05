@@ -335,19 +335,25 @@ class page {
         " 90 ": " ninety ",
         " 100 ": " one hundred ",
         "copy book": "copybook",
+        "peak pocket": "pickpocket", 
         "best seller": "bestseller",
         "easy going": "easygoing",
         "over time" : "overtime",
+        "time table" : "timetable",
+        "-5 degrees" : "minus five degrees",
+        "5 km" : "five kilometre",
         "5%" : "five percent",
+        "4th" : "fourth",
         "15th": "fifteenth",
         "hair dryer": "hairdryer",
-        "school days": "schooldays",
+        "school Days": "schooldays",
         "any time": "anytime",
         "vice to hold the metal": "vise to hold the metal",
         "spark of debate" : "spark off debate",
-        "school days" : "schooldays",
+        "The lead is helpful": "The lad is helpful",
         "19th" : "nineteenth",
-        "seat belt" : "seatbelt"
+        "seat belt" : "seatbelt",
+        "live and up a party" : "liven up a party"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
