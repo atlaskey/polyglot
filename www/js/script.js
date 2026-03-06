@@ -348,12 +348,18 @@ class page {
         "km away" : " kilometre away",
         "5%" : "five percent",
         "4th" : "fourth",
+        "5th" : "fifth",
+        "10th" : "tenth",
         "15th": "fifteenth",
         "19th" : "nineteenth",
+        "20th century" : "twentieth century",
         "vice to hold the metal": "vise to hold the metal",
         "spark of debate" : "spark off debate",
         "lead is helpful": "lad is helpful",
-        "live and up a party" : "liven up a party"
+        "live and up a party" : "liven up a party",
+        "school children" :"schoolchildren",
+        "does of in class" : "doze off in class",
+        "not of during collection" : "nod off during lecture"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
