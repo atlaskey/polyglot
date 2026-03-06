@@ -18669,8 +18669,8 @@
   },
   {
     "id": 3719,
-    "word": "ad",
-    "transcription": "/æd/",
+    "word": "advertisement",
+    "transcription": "/ədˈvɜrtəsmənt/",
     "translations": {
       "ru": "рекламное объявление",
       "zh": "",
@@ -18681,9 +18681,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I saw ad in newspaper.",
+      "text": "I saw an interesting advertisement on the internet.",
       "translations": {
-        "ru": "Я видел объявление в газете.",
+        "ru": "Я видел интересную рекламу в интернете.",
         "zh": "",
         "es": "",
         "fr": "",
