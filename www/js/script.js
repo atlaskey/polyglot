@@ -359,7 +359,14 @@ class page {
         "live and up a party" : "liven up a party",
         "school children" :"schoolchildren",
         "does of in class" : "doze off in class",
-        "not of during collection" : "nod off during lecture"
+        "not of during collection" : "nod off during lecture",
+        "miss calculate" : "miscalculate",
+        "skilled at serving" : "skilled at sewing",
+        "room is Messi" : "room is messy",
+        "water has the right to vote" : "voter has the right to vote",
+        "results are holy positive" : "results are wholly positive",
+        "spotted from pipe" : "spurted from pipe",
+        "put steak in ground" : "put stake in ground"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);

@@ -1145,7 +1145,7 @@
   },
   {
     "id": 4045,
-    "word": "tranquillity",
+    "word": "tranquility",
     "transcription": "",
     "translations": {
       "ru": "спокойствие",
@@ -1157,7 +1157,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The garden gives tranquillity.",
+      "text": "The garden gives tranquility.",
       "translations": {
         "ru": "Сад дарит спокойствие.",
         "zh": "",
@@ -1613,7 +1613,7 @@
   },
   {
     "id": 4063,
-    "word": "civilisation",
+    "word": "civilization",
     "transcription": "",
     "translations": {
       "ru": "цивилизация",
@@ -1625,7 +1625,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Civilisation has many achievements.",
+      "text": "Civilization has many achievements.",
       "translations": {
         "ru": "Цивилизация имеет много достижений.",
         "zh": "",
@@ -2379,9 +2379,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He earns roughly fifty dollars.",
+      "text": "The trip will take roughly two hours.",
       "translations": {
-        "ru": "Он зарабатывает примерно пятьдесят долларов.",
+        "ru": "Поездка займёт примерно два часа.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4291,7 +4291,7 @@
   },
   {
     "id": 4166,
-    "word": "summarise",
+    "word": "summarize",
     "transcription": "",
     "translations": {
       "ru": "подводить итог",
@@ -4303,7 +4303,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Summarise main points.",
+      "text": "Summarize main points.",
       "translations": {
         "ru": "Суммируй основные моменты.",
         "zh": "",
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 4183,
-    "word": "hunanity",
+    "word": "humanity",
     "transcription": "",
     "translations": {
       "ru": "человечество",
@@ -5005,9 +5005,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I reassure her.",
+      "text": "I tried to reassure the children during the thunderstorm.",
       "translations": {
-        "ru": "Я её успокаиваю.",
+        "ru": "Я пытался успокоить детей во время грозы.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5903,7 +5903,7 @@
   },
   {
     "id": 4228,
-    "word": "irregulary",
+    "word": "irregularly",
     "transcription": "",
     "translations": {
       "ru": "нерегулярно",
@@ -7671,7 +7671,7 @@
   },
   {
     "id": 4296,
-    "word": "likelhood",
+    "word": "likelihood",
     "transcription": "",
     "translations": {
       "ru": "вероятность",
@@ -9087,9 +9087,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I unintentionally broke vase.",
+      "text": "He unintentionally offended her.",
       "translations": {
-        "ru": "Я случайно сломал вазу.",
+        "ru": "Он непреднамеренно её обидел.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14613,7 +14613,7 @@
   },
   {
     "id": 4563,
-    "word": "yoghurt",
+    "word": "yogurt",
     "transcription": "",
     "translations": {
       "ru": "йогурт",
@@ -14625,7 +14625,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I eat yoghurt every morning.",
+      "text": "I eat yogurt every morning.",
       "translations": {
         "ru": "Я ем йогурт каждое утро.",
         "zh": "",
@@ -17433,9 +17433,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They celebrate festival.",
+      "text": "They had a big celebration for her birthday.",
       "translations": {
-        "ru": "Они празднуют фестиваль.",
+        "ru": "Они устроили большое празднование её дня рождения.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19877,9 +19877,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The voter casts ballot.",
+      "text": "Every voter has the right to vote.",
       "translations": {
-        "ru": "Избиратель отдает бюллетень.",
+        "ru": "Каждый избиратель имеет право голосовать.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21671,9 +21671,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The lemon tastes sour.",
+      "text": "The lemon is very sour.",
       "translations": {
-        "ru": "Лимон кислый.",
+        "ru": "Лимон очень кислый.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21879,9 +21879,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The ending of story was sad.",
+      "text": "The movie has a happy ending.",
       "translations": {
-        "ru": "Конец истории был печальный.",
+        "ru": "У фильма счастливый конец.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22711,9 +22711,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear clean pants.",
+      "text": "I bought new pants yesterday.",
       "translations": {
-        "ru": "Носите чистые штаны.",
+        "ru": "Я купил новые брюки вчера.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23427,7 +23427,7 @@
   },
   {
     "id": 4902,
-    "word": "offence",
+    "word": "offense",
     "transcription": "",
     "translations": {
       "ru": "преступление",
@@ -23439,7 +23439,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Stealing is an offence.",
+      "text": "Stealing is an offense.",
       "translations": {
         "ru": "Кража — это преступление.",
         "zh": "",
@@ -24271,9 +24271,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Under circumstances, we agree.",
+      "text": "We had to change our plans because of the circumstances.",
       "translations": {
-        "ru": "При таких обстоятельствах мы согласны.",
+        "ru": "Нам пришлось изменить планы из-за обстоятельств.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24583,7 +24583,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He asked her out.",
+      "text": "He *asked* her *out*.",
       "translations": {
         "ru": "Он пригласил ее на свидание.",
         "zh": "",
@@ -24921,9 +24921,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He possesses great wealth.",
+      "text": "He possesses a large house near the lake.",
       "translations": {
-        "ru": "Он обладает большим богатством.",
+        "ru": "Он владеет большим домом у озера.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -25990,188 +25990,6 @@
       "text": "The narrative is interesting.",
       "translations": {
         "ru": "Сюжет интересный.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5001,
-    "word": "calmly",
-    "transcription": "",
-    "translations": {
-      "ru": "спокойно",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "She answered calmly.",
-      "translations": {
-        "ru": "Она ответила спокойно.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5002,
-    "word": "antedate",
-    "transcription": "",
-    "translations": {
-      "ru": "задним числом",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "Antedate the document.",
-      "translations": {
-        "ru": "Задокументируйте дату раньше.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5003,
-    "word": "recounting",
-    "transcription": "",
-    "translations": {
-      "ru": "пересказ",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "Recounting of story was long.",
-      "translations": {
-        "ru": "Пересказ истории был длинным.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5004,
-    "word": "repetitiveness",
-    "transcription": "",
-    "translations": {
-      "ru": "повторяемость",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "The repetitiveness is annoying.",
-      "translations": {
-        "ru": "Повторяемость раздражает.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5005,
-    "word": "spurt",
-    "transcription": "",
-    "translations": {
-      "ru": "рывок",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "Water spurted from pipe.",
-      "translations": {
-        "ru": "Вода хлынула из трубы.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5006,
-    "word": "probing",
-    "transcription": "",
-    "translations": {
-      "ru": "расследование",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "The detective is probing case.",
-      "translations": {
-        "ru": "Детектив расследует дело.",
-        "zh": "",
-        "es": "",
-        "fr": "",
-        "ar": "",
-        "pt": "",
-        "hi": ""
-      }
-    }
-  },
-  {
-    "id": 5007,
-    "word": "expound",
-    "transcription": "",
-    "translations": {
-      "ru": "излагать",
-      "zh": "",
-      "es": "",
-      "fr": "",
-      "ar": "",
-      "pt": "",
-      "hi": ""
-    },
-    "sentence": {
-      "text": "He will expound idea.",
-      "translations": {
-        "ru": "Он разъяснит идею.",
         "zh": "",
         "es": "",
         "fr": "",
