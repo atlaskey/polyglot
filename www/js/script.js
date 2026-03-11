@@ -366,7 +366,9 @@ class page {
         "water has the right to vote" : "voter has the right to vote",
         "results are holy positive" : "results are wholly positive",
         "spotted from pipe" : "spurted from pipe",
-        "put steak in ground" : "put stake in ground"
+        "put steak in ground" : "put stake in ground",
+        "is widely important" : "is vitally important",
+        "antivirus" : "anti-virus"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);

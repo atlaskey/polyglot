@@ -3823,7 +3823,7 @@
   },
   {
     "id": 4148,
-    "word": "neighbourhood",
+    "word": "neighborhood",
     "transcription": "",
     "translations": {
       "ru": "соседство",
@@ -3835,7 +3835,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The neighbourhood is quiet.",
+      "text": "The neighborhood is quiet.",
       "translations": {
         "ru": "Окрестности тихие.",
         "zh": "",
@@ -5031,9 +5031,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The tree casts shadow.",
+      "text": "I saw my shadow on the wall.",
       "translations": {
-        "ru": "Дерево отбрасывает тень.",
+        "ru": "Я увидел свою тень на стене.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6409,9 +6409,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her ambition is strong.",
+      "text": "She has a strong ambition to become a doctor.",
       "translations": {
-        "ru": "Её амбиции сильны.",
+        "ru": "У неё есть сильное стремление стать врачом.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11739,9 +11739,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The shareholder voted at meeting.",
+      "text": "The company held a meeting for all shareholders.",
       "translations": {
-        "ru": "Акционер голосовал на собрании.",
+        "ru": "Компания провела собрание для всех акционеров.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13871,9 +13871,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear swimsuit at beach.",
+      "text": "She bought a new swimsuit for the beach.",
       "translations": {
-        "ru": "Надень купальник на пляж.",
+        "ru": "Она купила новый купальник для пляжа.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14131,9 +14131,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear costume at party.",
+      "text": "She wore a princess costume to the party.",
       "translations": {
-        "ru": "Надень костюм на вечеринку.",
+        "ru": "Она надела костюм принцессы на вечеринку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14547,9 +14547,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear raincoat in rain.",
+      "text": "She put on a raincoat because it was raining.",
       "translations": {
-        "ru": "Надень дождевик в дождь.",
+        "ru": "Она надела дождевик, потому что шёл дождь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20267,9 +20267,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Open jar of jam.",
+      "text": "She opened a jar of honey.",
       "translations": {
-        "ru": "Откройте банку с джемом.",
+        "ru": "Она открыла банку мёда.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23141,7 +23141,7 @@
   },
   {
     "id": 4891,
-    "word": "defence",
+    "word": "defense",
     "transcription": "",
     "translations": {
       "ru": "защита",
@@ -23153,7 +23153,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The castle has strong defence.",
+      "text": "The castle has strong defense.",
       "translations": {
         "ru": "Замок имеет сильную защиту.",
         "zh": "",
@@ -24054,7 +24054,7 @@
     "word": "saucepan",
     "transcription": "",
     "translations": {
-      "ru": "кастрюля",
+      "ru": "кастрюля с ручкой",
       "zh": "",
       "es": "",
       "fr": "",
@@ -24063,9 +24063,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Heat the saucepan.",
+      "text": "She boiled water in a saucepan.",
       "translations": {
-        "ru": "Разогрейте кастрюлю.",
+        "ru": "Она вскипятила воду в кастрюле с ручкой.",
         "zh": "",
         "es": "",
         "fr": "",
