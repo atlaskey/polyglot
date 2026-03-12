@@ -949,9 +949,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The fireworks were dazzling.",
+      "text": "She wore a dazzling dress to the party.",
       "translations": {
-        "ru": "Фейерверк ослепительный.",
+        "ru": "Она надела ослепительное платье на вечеринку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5161,7 +5161,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Tension rises in room.",
+      "text": "Tension rises in the room.",
       "translations": {
         "ru": "Напряжение растёт в комнате.",
         "zh": "",

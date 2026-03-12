@@ -344,6 +344,7 @@ class page {
         "any time": "anytime",
         "hair dryer": "hairdryer",
         "school Days": "schooldays",
+        "home page": "homepage",
         "-5 degrees" : "minus five degrees",
         "km away" : " kilometre away",
         "5%" : "five percent",
