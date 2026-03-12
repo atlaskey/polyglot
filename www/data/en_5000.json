@@ -4043,9 +4043,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The applicant filled form.",
+      "text": "There are many applicants for this job.",
       "translations": {
-        "ru": "Заявитель заполнил форму.",
+        "ru": "На эту работу много кандидатов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7111,9 +7111,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Broadcasting reaches many people.",
+      "text": "The company is broadcasting the event live.",
       "translations": {
-        "ru": "Вещание охватывает многих людей.",
+        "ru": "Компания ведёт прямую трансляцию события.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8529,7 +8529,7 @@
   },
   {
     "id": 4329,
-    "word": "revolutionise",
+    "word": "revolutionize",
     "transcription": "",
     "translations": {
       "ru": "произвести революцию",
@@ -8541,7 +8541,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The invention will revolutionise industry.",
+      "text": "The invention will revolutionize industry.",
       "translations": {
         "ru": "Изобретение революционизирует промышленность.",
         "zh": "",
@@ -10335,9 +10335,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Innumerable stars fill sky.",
+      "text": "There are innumerable stars in the sky.",
       "translations": {
-        "ru": "Бесчисленные звёзды заполняют небо.",
+        "ru": "В небе бесчисленное количество звёзд.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16745,7 +16745,7 @@
   },
   {
     "id": 4645,
-    "word": "adviser",
+    "word": "advisor",
     "transcription": "",
     "translations": {
       "ru": "консультант, советник",
@@ -16757,7 +16757,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The adviser gave advice.",
+      "text": "The advisor gave advice.",
       "translations": {
         "ru": "Советник дал совет.",
         "zh": "",
@@ -22815,9 +22815,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Pour water from jug.",
+      "text": "The jug is full of water.",
       "translations": {
-        "ru": "Налейте воду из кувшина.",
+        "ru": "Кувшин полный воды.",
         "zh": "",
         "es": "",
         "fr": "",
