@@ -345,6 +345,8 @@ class page {
         "hair dryer": "hairdryer",
         "school Days": "schooldays",
         "home page": "homepage",
+        "antivirus" : "anti-virus",
+        "eBook" : "e-book",
         "-5 degrees" : "minus five degrees",
         "km away" : " kilometre away",
         "5%" : "five percent",
@@ -369,7 +371,7 @@ class page {
         "spotted from pipe" : "spurted from pipe",
         "put steak in ground" : "put stake in ground",
         "is widely important" : "is vitally important",
-        "antivirus" : "anti-virus"
+        "meal you was unfamiliar" : "milieu was unfamiliar"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);

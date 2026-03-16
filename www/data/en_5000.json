@@ -1171,7 +1171,7 @@
   },
   {
     "id": 4046,
-    "word": "trival",
+    "word": "trivial",
     "transcription": "",
     "translations": {
       "ru": "тривиальный",
@@ -2913,7 +2913,7 @@
   },
   {
     "id": 4113,
-    "word": "labour",
+    "word": "labor",
     "transcription": "",
     "translations": {
       "ru": "рабочая сила",
@@ -2925,7 +2925,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Labour is hard work.",
+      "text": "Labor is hard work.",
       "translations": {
         "ru": "Труд — это тяжёлая работа.",
         "zh": "",
@@ -7579,9 +7579,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "A decade passed quickly.",
+      "text": "He lived in London for a decade.",
       "translations": {
-        "ru": "Десятилетие прошло быстро.",
+        "ru": "Он жил в Лондоне десять лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9881,7 +9881,7 @@
   },
   {
     "id": 4381,
-    "word": "unfavourable",
+    "word": "unfavorable",
     "transcription": "",
     "translations": {
       "ru": "неприятный",
@@ -9893,7 +9893,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Weather is unfavourable today.",
+      "text": "Weather is unfavorable today.",
       "translations": {
         "ru": "Сегодня погода неблагоприятная.",
         "zh": "",
@@ -11609,9 +11609,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "I heard a murmur in hall.",
+      "text": "A murmur of surprise ran through the crowd.",
       "translations": {
-        "ru": "Я услышал шепот в зале.",
+        "ru": "По толпе прошёл ропот удивления.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17589,9 +17589,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Buy grocery from store.",
+      "text": "I need to buy *groceries*.",
       "translations": {
-        "ru": "Купи продукты в магазине.",
+        "ru": "Мне нужно купить продукты.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -25675,9 +25675,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Courage is inherent.",
+      "text": "Curiosity is inherent in children.",
       "translations": {
-        "ru": "Мужество врожденное.",
+        "ru": "Любопытство присуще детям.",
         "zh": "",
         "es": "",
         "fr": "",
