@@ -1327,7 +1327,7 @@
   },
   {
     "id": 4052,
-    "word": "hastle",
+    "word": "hassle",
     "transcription": "",
     "translations": {
       "ru": "спешка",
@@ -7735,9 +7735,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Omitting steps causes mistakes.",
+      "text": "He made a mistake by omitting an important detail.",
       "translations": {
-        "ru": "Пропуск шагов вызывает ошибки.",
+        "ru": "Он допустил ошибку, опустив важную деталь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11883,7 +11883,7 @@
   },
   {
     "id": 4458,
-    "word": "unmanageble",
+    "word": "unmanageable",
     "transcription": "",
     "translations": {
       "ru": "неуправляемый",
@@ -12311,7 +12311,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "His behavior was improper.",
+      "text": "His behaviour was improper.",
       "translations": {
         "ru": "Его поведение было неправильным.",
         "zh": "",
@@ -14469,9 +14469,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bothering others is rude.",
+      "text": "Stop bothering me!",
       "translations": {
-        "ru": "Беспокоить других — это грубо.",
+        "ru": "Перестань меня беспокоить!",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21151,9 +21151,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Open your textbook to page ten.",
+      "text": "I forgot my textbook at home.",
       "translations": {
-        "ru": "Откройте учебник на странице десять.",
+        "ru": "Я забыл свой учебник дома.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24597,7 +24597,7 @@
   },
   {
     "id": 4947,
-    "word": "brithen up",
+    "word": "brighten up",
     "transcription": "",
     "translations": {
       "ru": "освещать, делать счастливым",

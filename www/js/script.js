@@ -210,8 +210,6 @@ class page {
     this.currentTestItem = this.testQueue[Math.floor(Math.random() * this.testQueue.length)];
     const nativeLang = $('#nativeLang').val();
     const text = this.currentTestItem.sentence.text;
-    // const regex = new RegExp(`(${this.currentTestItem.word})`, 'gi');
-    // $('#testSentence').html(text.replace(regex, '<span class="highlight-word">$1</span>'));
     $('#testSentence').html(this.highlightSentence(text, this.currentTestItem.word));
     $('#testTranslation').text(this.currentTestItem.sentence.translations[nativeLang]);
     $('#liveTranscript').text('');
@@ -371,7 +369,9 @@ class page {
         "spotted from pipe" : "spurted from pipe",
         "put steak in ground" : "put stake in ground",
         "is widely important" : "is vitally important",
-        "meal you was unfamiliar" : "milieu was unfamiliar"
+        "meal you was unfamiliar" : "milieu was unfamiliar",
+        "not hurdle stones" : "not hurl stones",
+        "an ambitious student" : "unambitious student"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
