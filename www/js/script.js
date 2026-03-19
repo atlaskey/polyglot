@@ -371,7 +371,11 @@ class page {
         "is widely important" : "is vitally important",
         "meal you was unfamiliar" : "milieu was unfamiliar",
         "not hurdle stones" : "not hurl stones",
-        "an ambitious student" : "unambitious student"
+        "an ambitious student" : "unambitious student",
+        "a nurse interesting facts" : "unearth interesting facts",
+        "answered in differently" : "answered indifferently",
+        "Jag is full of water" : "jug is full of water",
+        "Finally I didn't feel nervous" : "Funnily, I didn't feel nervous"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);

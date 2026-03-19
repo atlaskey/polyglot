@@ -4459,9 +4459,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "They unveil new project.",
+      "text": "They unveiled new project.",
       "translations": {
-        "ru": "Они представляют новый проект.",
+        "ru": "Они представили новый проект.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6253,9 +6253,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Archaeologists unearth treasure.",
+      "text": "I often unearth interesting facts while reading.",
       "translations": {
-        "ru": "Археологи раскопали сокровища.",
+        "ru": "Я часто нахожу интересные факты во время чтения.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8931,9 +8931,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Funnily, he arrived late.",
+      "text": "Funnily, I didn't feel nervous at all.",
       "translations": {
-        "ru": "Смешно, но он опоздал.",
+        "ru": "Забавно, я совсем не чувствовал нервозности.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10127,9 +10127,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Cohesion is key in writing.",
+      "text": "Water has strong cohesion.",
       "translations": {
-        "ru": "Связность важна при письме.",
+        "ru": "Вода имеет сильное сцепление.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10167,7 +10167,7 @@
   },
   {
     "id": 4392,
-    "word": "colourless",
+    "word": "colorless",
     "transcription": "",
     "translations": {
       "ru": "бесцветный",
@@ -10179,7 +10179,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The sky is colourless.",
+      "text": "The sky is colorless.",
       "translations": {
         "ru": "Небо бесцветное.",
         "zh": "",
@@ -13897,9 +13897,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "He is deaf in one ear.",
+      "text": "She was born deaf.",
       "translations": {
-        "ru": "Он глух в одном ухе.",
+        "ru": "Она родилась глухой.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14079,9 +14079,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Write on board.",
+      "text": "The teacher drew a diagram on the board.",
       "translations": {
-        "ru": "Пиши на доске.",
+        "ru": "Учитель нарисовал схему на доске.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14365,9 +14365,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The bee is flying.",
+      "text": "I got stung by a bee.",
       "translations": {
-        "ru": "Пчела летит.",
+        "ru": "Меня ужалила пчела.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17771,9 +17771,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Negotiation continues.",
+      "text": "The negotiation lasted for hours.",
       "translations": {
-        "ru": "Переговоры продолжаются.",
+        "ru": "Переговоры длились несколько часов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20137,9 +20137,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Abandon ship immediately.",
+      "text": "They had to abandon the house.",
       "translations": {
-        "ru": "Покиньте корабль немедленно.",
+        "ru": "Им пришлось покинуть дом.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20319,9 +20319,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wear sandals in summer.",
+      "text": "She is wearing sandals.",
       "translations": {
-        "ru": "Носите сандалии летом.",
+        "ru": "На ней сандалии.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24415,7 +24415,7 @@
   },
   {
     "id": 4940,
-    "word": "seteem",
+    "word": "esteem",
     "transcription": "",
     "translations": {
       "ru": "уважение, уважать",
@@ -25909,9 +25909,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "The king is supreme.",
+      "text": "This is the supreme authority in the country.",
       "translations": {
-        "ru": "Король верховный.",
+        "ru": "Это высшая власть в стране.",
         "zh": "",
         "es": "",
         "fr": "",
