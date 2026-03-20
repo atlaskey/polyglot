@@ -376,7 +376,7 @@ class page {
         "a nurse interesting facts" : "unearth interesting facts",
         "answered in differently" : "answered indifferently",
         "Jag is full of water" : "jug is full of water",
-        "Finally I didn" : "Funnily I didn"
+        "finally I didn" : "funnily I didn"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
