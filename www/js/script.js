@@ -344,6 +344,7 @@ class page {
         "school Days": "schooldays",
         "home page": "homepage",
         "antivirus" : "anti-virus",
+        "not withstanding" : "notwithstanding",
         "eBook" : "e-book",
         "-5 degrees" : "minus five degrees",
         "km away" : " kilometre away",
@@ -375,7 +376,7 @@ class page {
         "a nurse interesting facts" : "unearth interesting facts",
         "answered in differently" : "answered indifferently",
         "Jag is full of water" : "jug is full of water",
-        "Finally I didn't feel nervous" : "Funnily, I didn't feel nervous"
+        "Finally I didn" : "Funnily I didn"
       };
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);

@@ -4667,9 +4667,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Use flashcard to learn.",
+      "text": "Use flashcards to learn.",
       "translations": {
-        "ru": "Используй карточку для обучения.",
+        "ru": "Используй карточки для обучения.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10089,7 +10089,7 @@
   },
   {
     "id": 4389,
-    "word": "coherent\r",
+    "word": "coherent",
     "transcription": "",
     "translations": {
       "ru": "последовательный",
@@ -13455,9 +13455,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Pack suitcase for trip.",
+      "text": "My suitcase is too heavy to carry alone.",
       "translations": {
-        "ru": "Собери чемодан для поездки.",
+        "ru": "Мой чемодан слишком тяжёлый, чтобы нести его одному.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17447,7 +17447,7 @@
   },
   {
     "id": 4672,
-    "word": "micture",
+    "word": "mixture",
     "transcription": "",
     "translations": {
       "ru": "смесь",
@@ -25467,9 +25467,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Her outfit is outlandish.",
+      "text": "Your outfit is outlandish.",
       "translations": {
-        "ru": "Ее наряд странный.",
+        "ru": "Твой наряд странный.",
         "zh": "",
         "es": "",
         "fr": "",
