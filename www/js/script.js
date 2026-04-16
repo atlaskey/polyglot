@@ -140,7 +140,6 @@ class page {
     const item = this.playQueue[this.currentIndex];
     
     const regex = new RegExp(`(${item.word})`, 'gi');
-    //$('#playSentence').html(item.sentence.text.replace(regex,'<span class="highlight-word">$1</span>'));
     $('#playSentence').html(this.highlightSentence(item.sentence.text, item.word));
     $('#playTranslation').text(item.sentence.translations[this.nativeLang]);
     
@@ -383,6 +382,43 @@ class page {
         "Jag is full of water" : "jug is full of water",
         "finally I didn" : "funnily I didn"
       };
+      for (const [key, value] of Object.entries(map)) {
+        t = t.replaceAll(key, value);
+      }
+    }
+    
+    if (this.studyLang == "de") {
+      const map = {
+        " 1 ": " eins ",
+        " 2 ": " zwei ",
+        " 3 ": " drei ",
+        " 4 ": " vier ",
+        " 5 ": " fünf ",
+        " 6 ": " sechs ",
+        " 7 ": " sieben ",
+        " 8 ": " acht ",
+        " 9 ": " neun ",
+        " 10 ": " zehn ",
+        " 11 ": " elf ",
+        " 12 ": " zwölf ",
+        " 13 ": " dreizehn ",
+        " 14 ": " vierzehn ",
+        " 15 ": " fünfzehn ",
+        " 16 ": " sechzehn ",
+        " 17 ": " siebzehn ",
+        " 18 ": " achtzehn ",
+        " 19 ": " neunzehn ",
+        " 20 ": " zwanzig ",
+        " 30 ": " dreißig ",
+        " 40 ": " vierzig ",
+        " 50 ": " fünfzig ",
+        " 60 ": " sechzig ",
+        " 70 ": " siebzig ",
+        " 80 ": " achtzig ",
+        " 90 ": " neunzig ",
+        " 100 ": " einhundert "
+      };
+
       for (const [key, value] of Object.entries(map)) {
         t = t.replaceAll(key, value);
       }

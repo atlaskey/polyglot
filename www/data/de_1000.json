@@ -143,9 +143,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Herr *hatte* einen dunklen Anzug *an*.",
+      "text": "Ich *habe* eine Jacke *an*.",
       "translations": {
-        "ru": "Джентльмене носил темный костюм.",
+        "ru": "На мне куртка.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -559,9 +559,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Bild hängt *an* der Wand.",
+      "text": "Das Licht ist *an*.",
       "translations": {
-        "ru": "Картина висит на стене.",
+        "ru": "Свет включён.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -585,9 +585,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er isst gern Leberwurst.",
+      "text": "Er ist müde.",
       "translations": {
-        "ru": "Он любит есть ливерную колбасу.",
+        "ru": "Он устал.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 45,
-    "word": "all",
+    "word": "all, alle, alles",
     "transcription": "",
     "translations": {
       "ru": "весь, все",
@@ -2093,9 +2093,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich *mache* die Aufgabe *heraus*.",
+      "text": "Ich *mache* den Schlüssel aus der Tasche *heraus*.",
       "translations": {
-        "ru": "Я выделяю задачу / решаю задачу.",
+        "ru": "Я достаю ключ из кармана.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2110,7 +2110,7 @@
     "word": "hermachen",
     "transcription": "",
     "translations": {
-      "ru": "производить впечатление (разг.)",
+      "ru": "производить впечатление",
       "zh": "",
       "es": "",
       "fr": "",
@@ -2251,7 +2251,7 @@
     "sentence": {
       "text": "Er will mir etwas weismachen.",
       "translations": {
-        "ru": "Он хочет меня обмануть / убедить в чём-то ложном.",
+        "ru": "Он хочет меня обмануть.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2665,7 +2665,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Postbeamte hat mir ein Telegramm durchgegeben.",
+      "text": "Der Postbeamte hat mir ein Telegramm *durchgegeben*.",
       "translations": {
         "ru": "Почтальон передал мне телеграмму.",
         "zh": "",
@@ -2691,9 +2691,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schwester *gab* dem Kranken eine Medizin *ein*.",
+      "text": "Ich *gebe* das Passwort *ein*.",
       "translations": {
-        "ru": "Медсестра ввела больному лекарство.",
+        "ru": "Я ввожу пароль.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2769,7 +2769,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Buch wurde nach dem Tod des Autors herausgegeben.",
+      "text": "Das Buch wurde nach dem Tod des Autors *herausgegeben*.",
       "translations": {
         "ru": "Книга была издана после смерти автора.",
         "zh": "",
@@ -3575,9 +3575,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Frau des Obervogtes war in der Zwischenzeit mit einem gesunden Kind *niedergekommen*.",
+      "text": "Die Frau ist im Krankenhaus *niedergekommen*.",
       "translations": {
-        "ru": "Тем временем жена губернатора родила здорового ребенка.",
+        "ru": "Женщина родила в больнице.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3627,9 +3627,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir sind mit dem Onkel *übereingekommen*, die Reise zusammen zu machen.",
+      "text": "Wir sind über den Preis *übereingekommen*.",
       "translations": {
-        "ru": "Договорились с дядей, что вместе поедем в путешествие.",
+        "ru": "Мы договорились о цене.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4511,7 +4511,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat mich dauernd hintergangen.",
+      "text": "Er hat mich dauernd *hintergangen*.",
       "translations": {
         "ru": "Он всегда меня предавал.",
         "zh": "",
@@ -4563,9 +4563,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Fußballspiel *geht* um 3 Uhr *los*.",
+      "text": "Das Fußballspiel *geht* um drei Uhr *los*.",
       "translations": {
-        "ru": "Футбольный матч начинается в 3 часа дня.",
+        "ru": "Футбольный матч начинается в три часа дня.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4589,9 +4589,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kind *geht* mit meinem Mann *mit*.",
+      "text": "Willst du mitgehen?",
       "translations": {
-        "ru": "Ребенок собирается с мужем.",
+        "ru": "Хочешь пойти вместе?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5369,7 +5369,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Lehrer hat die Hefte durchgesehen.",
+      "text": "Der Lehrer hat die Hefte *durchgesehen*.",
       "translations": {
         "ru": "Учитель просмотрел тетради.",
         "zh": "",
@@ -5941,7 +5941,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Bremsen an meinem Auto haben nachgelassen.",
+      "text": "Die Bremsen an meinem Auto haben *nachgelassen*.",
       "translations": {
         "ru": "Тормоза моей машины износились.",
         "zh": "",
@@ -6045,9 +6045,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe Berlin am 1 April verlassen.",
+      "text": "Ich habe Berlin verlassen.",
       "translations": {
-        "ru": "Я уехал из Берлина 1 апреля.",
+        "ru": "Я уехал из Берлина.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6097,7 +6097,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Man hat den Studentetn zum Examen *zugelassen*.",
+      "text": "Man hat den Studenten zum Examen *zugelassen*.",
       "translations": {
         "ru": "Студенты допущены к экзамену.",
         "zh": "",
@@ -6409,9 +6409,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma *besteht* seit 50 Jahren.",
+      "text": "Die Firma *besteht* seit fünfzig Jahren.",
       "translations": {
-        "ru": "Компания существует 50 лет.",
+        "ru": "Компания существует пятьдесят лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7007,9 +7007,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wo wohnst du?",
+      "text": "Wo ist der Bahnhof?",
       "translations": {
-        "ru": "Где ты живёшь?",
+        "ru": "Где вокзал?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7440,7 +7440,7 @@
     "word": "abfinden",
     "transcription": "",
     "translations": {
-      "ru": "возмещать убытки",
+      "ru": "смириться с чем-то / возмещать убытки",
       "zh": "",
       "es": "",
       "fr": "",
@@ -7449,9 +7449,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kaufmann *findet* seinen Teilhaber mit einer Geldsumme *ab*.",
+      "text": "Er kann sich mit der Situation nicht abfinden.",
       "translations": {
-        "ru": "Продавец возместил своему партнеру одну сумму денег.",
+        "ru": "Он не может смириться с ситуацией.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -7527,9 +7527,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte *finden* Sie sich um 5 Uhr bei mir *ein*!",
+      "text": "Bitte *finden* Sie sich um fünf Uhr bei mir *ein*!",
       "translations": {
-        "ru": "Пожалуйста явитесь ко мне в 5 часов.",
+        "ru": "Пожалуйста явитесь ко мне в пять часов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8255,9 +8255,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Boxer ist im Kampf unterlegen.",
+      "text": "Er *unterlag* im Finale.",
       "translations": {
-        "ru": "Боксер проигрывает в бою.",
+        "ru": "Он проиграл в финале.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8515,9 +8515,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kind *dachte* sich eine Ausrede *aus*.",
+      "text": "Ich habe mir eine Geschichte *ausgedacht*.",
       "translations": {
-        "ru": "Ребенок сочинил отговорку.",
+        "ru": "Я придумал историю.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9243,9 +9243,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kassierer *entnimmt* der Kasse 300 Mark.",
+      "text": "Der Kassierer *entnimmt* der Kasse neunzig Mark.",
       "translations": {
-        "ru": "Кассир снимает с кассы 300 марок.",
+        "ru": "Кассир снимает с кассы девяносто марок.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9867,7 +9867,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich glaube dir.",
+      "text": "Ich *glaube* dir.",
       "translations": {
         "ru": "Я тебе верю.",
         "zh": "",
@@ -11375,9 +11375,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir *führen* Wasser zu den Feldern *zu*.",
+      "text": "Frische Luft wird dem Raum *zugeführt*.",
       "translations": {
-        "ru": "Мы подводим воду к полям.",
+        "ru": "В помещение подаётся свежий воздух.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12077,9 +12077,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Minister *brachte* einen Gesetzesentwurf *ein*.",
+      "text": "Er *bringt* viele gute Ideen in die Diskussion *ein*.",
       "translations": {
-        "ru": "Министр внес на рассмотрение проект закона.",
+        "ru": "Он вносит много хороших идей в обсуждение.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13235,7 +13235,7 @@
   },
   {
     "id": 510,
-    "word": "wiederfahren",
+    "word": "widerfahren",
     "transcription": "",
     "translations": {
       "ru": "происходить",
@@ -13365,7 +13365,7 @@
   },
   {
     "id": 515,
-    "word": "srät",
+    "word": "spät",
     "transcription": "",
     "translations": {
       "ru": "поздно",
@@ -13455,9 +13455,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Lehrer *fragt* die Vokabeln *ab*.",
+      "text": "Kannst du mich die Grammatik abfragen?",
       "translations": {
-        "ru": "Учитель проверяет словарный запас.",
+        "ru": "Можешь проверить меня по грамматике?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13819,9 +13819,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Man *erkennt* ihn nicht *an*.",
+      "text": "Die Universität hat mein Diplom *anerkannt*.",
       "translations": {
-        "ru": "Вы его не узнаете.",
+        "ru": "Университет признал мой диплом.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -14079,7 +14079,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat Gleiches mit Gleichem vergolten.",
+      "text": "Er hat Gleiches mit Gleichem *vergolten*.",
       "translations": {
         "ru": "Он наградил подобное подобным.",
         "zh": "",
@@ -14547,9 +14547,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich *stelle* den Wecker auf 7 Uhr *ein*.",
+      "text": "Ich *stelle* den Wecker auf sieben Uhr *ein*.",
       "translations": {
-        "ru": "Я завожу будильник на 7 часов.",
+        "ru": "Я завожу будильник на семь часов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15162,7 +15162,7 @@
     "word": "aufspielen",
     "transcription": "",
     "translations": {
-      "ru": "разыгрывать (музыку), изображать",
+      "ru": "ставить / загружать / играть (музыка)",
       "zh": "",
       "es": "",
       "fr": "",
@@ -15171,9 +15171,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der DJ *spielt* neue Musik *auf*.",
+      "text": "Die Band *spielt* ein neues Lied *auf*.",
       "translations": {
-        "ru": "Ди-джей ставит новую музыку.",
+        "ru": "Группа исполняет новую песню.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15353,9 +15353,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Spieler *spielte* den Ball zum Torwart *zu*.",
+      "text": "Er *spielt* den Ball seinem Mitspieler *zu*.",
       "translations": {
-        "ru": "Игрок пасовал мяч вратарю.",
+        "ru": "Он передаёт мяч своему партнёру.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17147,7 +17147,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Termin wurde festgesetzt.",
+      "text": "Der Termin wurde *festgesetzt*.",
       "translations": {
         "ru": "Срок был назначен.",
         "zh": "",
@@ -18317,7 +18317,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der vater hat seinem Sohn die Firma überschrieben.",
+      "text": "Der vater hat seinem Sohn die Firma *überschrieben*.",
       "translations": {
         "ru": "Отец отдал компанию своему сыну.",
         "zh": "",
@@ -18577,9 +18577,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Projekt *läuft* langsam *an*.",
+      "text": "Der Motor *läuft an*.",
       "translations": {
-        "ru": "Проект начинает постепенно набирать ход.",
+        "ru": "Двигатель запускается.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18655,9 +18655,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Rechnung *beläuft* sich auf 200.",
+      "text": "Die Rechnung *beläuft* sich auf einhundert Euro.",
       "translations": {
-        "ru": "Счет - 200.",
+        "ru": "Счет - сто евро.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19071,7 +19071,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das ist ein *politisches* Thema.",
+      "text": "Das ist ein politisches Thema.",
       "translations": {
         "ru": "Это политическая тема.",
         "zh": "",
@@ -19747,9 +19747,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Onkel *bezog* die ganze Familie in die Einladung *ein*.",
+      "text": "Wir müssen alle Faktoren einbeziehen.",
       "translations": {
-        "ru": "Мой дядя включил в приглашение всю семью.",
+        "ru": "Мы должны учесть все факторы.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19877,9 +19877,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Weil man die Ursache der Krankheit nicht fand, *zog* man eine Kapazität *heran*.",
+      "text": "Man muss Statistiken heranziehen.",
       "translations": {
-        "ru": "Поскольку причина заболевания не была обнаружена, была использована емкость.",
+        "ru": "Нужно привлечь статистику.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20009,7 +20009,7 @@
     "sentence": {
       "text": "Am ersten Februar *ziehen* wir *um*.",
       "translations": {
-        "ru": "Мы переезжаем 1 февраля.",
+        "ru": "Мы переезжаем первого февраля.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20501,9 +20501,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schift *schien* durch den dünnen Umschlag *durch*.",
+      "text": "Seine Unsicherheit *scheint durch*.",
       "translations": {
-        "ru": "Письмо просвечивало сквозь тонкий конверт.",
+        "ru": "Его неуверенность проявляется.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20527,7 +20527,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Gestern erschien unangemeldeter Besuch.",
+      "text": "Gestern *erschien* unangemeldeter Besuch.",
       "translations": {
         "ru": "Вчера появились необъявленные посетители.",
         "zh": "",
@@ -20683,9 +20683,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Falls einzelne Dienste ausfallen sollten, werden Sie umgehend per E-Mail benachrichtigt.",
+      "text": "Das Meeting *fällt aus*.",
       "translations": {
-        "ru": "Если один из сервисов упадет, будете вы немедленно по E-Mail проинформированы.",
+        "ru": "Встреча отменяется.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21359,9 +21359,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wann *treffe* ich dich zu Hause *an*?",
+      "text": "Ich habe ihn zu Hause *angetroffen*.",
       "translations": {
-        "ru": "Когда я встречусь с тобой дома?",
+        "ru": "Я застал его дома.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -21387,7 +21387,7 @@
     "sentence": {
       "text": "Ein Unglück hat uns *betroffen*.",
       "translations": {
-        "ru": "Нас попал в аварию.",
+        "ru": "С нами случилось несчастье.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22569,7 +22569,7 @@
   },
   {
     "id": 869,
-    "word": "wiederlegen",
+    "word": "widerlegen",
     "transcription": "",
     "translations": {
       "ru": "опровергать",
@@ -23309,9 +23309,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich *trage* meine Ausgaben in ein Heft *ein*.",
+      "text": "Die Daten wurden ins System *eingetragen*.",
       "translations": {
-        "ru": "Вношу свои расходы в блокнот.",
+        "ru": "Данные были внесены в систему.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23673,9 +23673,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Runde ist rund.",
+      "text": "Der Tisch ist rund.",
       "translations": {
-        "ru": "Круг круглый.",
+        "ru": "Стол круглый.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24141,9 +24141,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der rechtsanwalt wußte den genauen Wortlaut des Gesetzes nicht mehr, er *las* das Gesetz *nach*.",
+      "text": "Ich *lese* das später noch einmal *nach*.",
       "translations": {
-        "ru": "Адвокат больше не знал точной формулировки закона, он читал закон.",
+        "ru": "Я потом ещё раз это проверю.",
         "zh": "",
         "es": "",
         "fr": "",
