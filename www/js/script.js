@@ -178,24 +178,29 @@ class page {
     return text.replace(/\*(.*?)\*/g, '$1');
   }
   
+  removeArticle(word) {
+    return word.replace(/^(der|die|das)\s+/i, '');
+  }
+  
   highlightSentence(sentence, word) {
     if (!sentence || !word) return "";
+    
     const starredWords = [];
     sentence.replace(/\*(.*?)\*/g, (_, p1) => {
       if (p1) starredWords.push(p1);
       return p1;
     });
-
+    
     sentence = this.removeStars(sentence);
-    const highlightWords = new Set([word,...starredWords]);
-
+    const highlightWords = new Set([this.removeArticle(word),...starredWords]);
+    
     const regex = new RegExp(
       Array.from(highlightWords)
         .map(w => this.escapeRegExp(w))
         .join('|'),
       'gi'
     );
-
+    
     return sentence.replace(regex, match =>
         `<span class="highlight-word">${match}</span>`
     );
