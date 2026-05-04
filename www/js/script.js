@@ -155,7 +155,7 @@ class page {
         this.playNext()
       }
     });
-
+    
     this.speak(item.sentence.text);
     if (this.playTimer) clearTimeout(this.playTimer);
     this.playTimer = setTimeout(() => {

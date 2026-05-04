@@ -65,9 +65,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich wohne in Berlin.",
+      "text": "We wohnen in Berlin.",
       "translations": {
-        "ru": "Я живу в Берлине.",
+        "ru": "Мы живем в Берлине.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -209,7 +209,7 @@
   },
   {
     "id": 1009,
-    "word": "meiste",
+    "word": "meisten",
     "transcription": "",
     "translations": {
       "ru": "большинство",
@@ -299,7 +299,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Kellnerin wartet den Gästen auf.",
+      "text": "Die Kellnerin *wartet* den Gästen *auf*.",
       "translations": {
         "ru": "Официантка обслуживает гостей.",
         "zh": "",
@@ -767,7 +767,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Wasserhahn tropft. Dem ist doch leicht abzuhelfen.",
+      "text": "Der Wasserhahn tropft. Dem ist doch leicht *abzuhelfen*.",
       "translations": {
         "ru": "Подтекает кран. Это легко исправить.",
         "zh": "",
@@ -793,7 +793,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Peter hat in der Firma gelegentlich ausgeholfen.",
+      "text": "Peter hat in der Firma gelegentlich *ausgeholfen*.",
       "translations": {
         "ru": "Питер иногда выручал компанию.",
         "zh": "",
@@ -819,7 +819,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Da es keinen Strom gab, behalfen wir uns mit Kerzen.",
+      "text": "Da es keinen Strom gab, *behalfen* wir uns mit Kerzen.",
       "translations": {
         "ru": "Поскольку электричества не было, мы обходились свечами.",
         "zh": "",
@@ -845,7 +845,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ein Bekannter verhalf mir zu einer guten Stellung.",
+      "text": "Ein Bekannter *verhalf* mir zu einer guten Stellung.",
       "translations": {
         "ru": "Знакомство помогло мне получить хорошую должность.",
         "zh": "",
@@ -949,7 +949,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Rentner gewinnt ein Haus.",
+      "text": "Der Rentner *gewinnt* ein Haus.",
       "translations": {
         "ru": "Пенсионер выиграл дом.",
         "zh": "",
@@ -1027,7 +1027,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Schließe die Tür!",
+      "text": "*Schließe* die Tür!",
       "translations": {
         "ru": "Закрой дверь!",
         "zh": "",
@@ -1053,7 +1053,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Verkauf ist abgeschlossen.",
+      "text": "Der Verkauf ist *abgeschlossen*.",
       "translations": {
         "ru": "Продажа завершена.",
         "zh": "",
@@ -1079,7 +1079,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte, schließen Sie mein Telefon an!",
+      "text": "Bitte, *schließen* Sie mein Telefon *an*!",
       "translations": {
         "ru": "Пожалуйста, подключите мой телефон!",
         "zh": "",
@@ -1105,7 +1105,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Schließen Sie den Koffer auf!",
+      "text": "*Schließen* Sie den Koffer *auf*!",
       "translations": {
         "ru": "Разблокируй чемодан!",
         "zh": "",
@@ -1131,7 +1131,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Prüfung durch den Fachmann schließt alle Fehler aus.",
+      "text": "Die Prüfung durch den Fachmann *schließt* alle Fehler *aus*.",
       "translations": {
         "ru": "Осмотр специалиста исключает все ошибки.",
         "zh": "",
@@ -1157,7 +1157,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Bundestag beschließt das Gesetz.",
+      "text": "Der Bundestag *beschließt* das Gesetz.",
       "translations": {
         "ru": "Бундестаг принимает закон.",
         "zh": "",
@@ -1183,7 +1183,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schauspielerin schließt ihren Schmuck ein.",
+      "text": "Die Schauspielerin *schließt* ihren Schmuck *ein*.",
       "translations": {
         "ru": "Актриса включает свои украшения.",
         "zh": "",
@@ -1209,7 +1209,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Vater entschloß sich zum Bau eines Hauses.",
+      "text": "Mein Vater *entschloß* sich zum Bau eines Hauses.",
       "translations": {
         "ru": "Отец решил построить дом.",
         "zh": "",
@@ -1235,7 +1235,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Wirtschaftsminister hat neue Länder für den deutchen Markt erschlossen.",
+      "text": "Der Wirtschaftsminister hat neue Länder für den deutchen Markt *erschlossen*.",
       "translations": {
         "ru": "Министр экономики открыл новые страны для немецкого рынка.",
         "zh": "",
@@ -1261,7 +1261,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Wasser umschließt die Insel.",
+      "text": "Das Wasser *umschließt* die Insel.",
       "translations": {
         "ru": "Вода окружает остров.",
         "zh": "",
@@ -1287,7 +1287,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat sich den Bitten des Kindes verschlossen.",
+      "text": "Er hat sich den Bitten des Kindes *verschlossen*.",
       "translations": {
         "ru": "Он закрылся для просьб ребенка.",
         "zh": "",
@@ -1313,7 +1313,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Student schließt seinen Koffer zu.",
+      "text": "Der Student *schließt* seinen Koffer *zu*.",
       "translations": {
         "ru": "Студент запирает чемодан.",
         "zh": "",
@@ -1495,7 +1495,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich fühle den Stoff.",
+      "text": "Ich *fühle* den Stoff.",
       "translations": {
         "ru": "Я трогаю ткань.",
         "zh": "",
@@ -1521,7 +1521,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich fühle das Material ab.",
+      "text": "Ich *fühle* das Material *ab*.",
       "translations": {
         "ru": "Я ощупываю материал.",
         "zh": "",
@@ -1547,7 +1547,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kleid fühlt sich weich an.",
+      "text": "Das Kleid *fühlt* sich weich *an*.",
       "translations": {
         "ru": "Платье ощущается мягким.",
         "zh": "",
@@ -1573,7 +1573,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich befühle das Objekt vorsichtig.",
+      "text": "Ich *befühle* das Objekt vorsichtig.",
       "translations": {
         "ru": "Я осторожно ощупываю предмет.",
         "zh": "",
@@ -1599,7 +1599,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kann mich gut in ihn einfühlen.",
+      "text": "Ich kann mich gut in ihn *einfühlen*.",
       "translations": {
         "ru": "Я могу хорошо его понять / войти в его положение.",
         "zh": "",
@@ -1625,7 +1625,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich fühle mit dir mit.",
+      "text": "Ich *fühle* mit dir *mit*.",
       "translations": {
         "ru": "Я сочувствую тебе.",
         "zh": "",
@@ -1677,7 +1677,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er fühlt vorsichtig vor.",
+      "text": "Er *fühlt* vorsichtig *vor*.",
       "translations": {
         "ru": "Он осторожно ощупывает.",
         "zh": "",
@@ -1729,7 +1729,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Käufer bot 2000 Mark für das Motorrad.",
+      "text": "Der Käufer *bot* 2000 Mark für das Motorrad.",
       "translations": {
         "ru": "Покупатель предложил 2000 марок за мотоцикл.",
         "zh": "",
@@ -1755,7 +1755,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kaufmann bietet Kartoffeln an.",
+      "text": "Der Kaufmann *bietet* Kartoffeln *an*.",
       "translations": {
         "ru": "Продавец угощает картофелем.",
         "zh": "",
@@ -1781,7 +1781,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Fabrikant bietet alle seine Kräfte auf, um die Konkurenz auszuschalten.",
+      "text": "Der Fabrikant *bietet* alle seine Kräfte *auf*, um die Konkurenz auszuschalten.",
       "translations": {
         "ru": "Хозяин фабрики прилагает все свои силы, чтобы избежать конкуренции.",
         "zh": "",
@@ -1807,7 +1807,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der General entbot seine Offiziere zu sich.",
+      "text": "Der General *entbot* seine Offiziere zu sich.",
       "translations": {
         "ru": "Генерал призвал своих офицеров к себе.",
         "zh": "",
@@ -1833,7 +1833,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Von der Sängerin wurde ein Lied dargeboten.",
+      "text": "Von der Sängerin wurde ein Lied *dargeboten*.",
       "translations": {
         "ru": "Певицей была песня исполнена.",
         "zh": "",
@@ -1859,7 +1859,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er erbot sich, der alten Frau den Koffer zu tragen.",
+      "text": "Er *erbot* sich, der alten Frau den Koffer zu tragen.",
       "translations": {
         "ru": "Он вызвался, старой женьщине чемодан поднести.",
         "zh": "",
@@ -1885,7 +1885,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Springer hat den Rekord überboten.",
+      "text": "Der Springer hat den Rekord *überboten*.",
       "translations": {
         "ru": "Прыгун превысил рекорд.",
         "zh": "",
@@ -1911,7 +1911,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die neue Firma unterbot die Preise der anderen.",
+      "text": "Die neue Firma *unterbot* die Preise der anderen.",
       "translations": {
         "ru": "Новая фирма сбивала цены другим.",
         "zh": "",
@@ -1937,7 +1937,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Stadtverwaltung verbietet das Betreten des Rasens.",
+      "text": "Die Stadtverwaltung *verbietet* das Betreten des Rasens.",
       "translations": {
         "ru": "Городские власти запрещают ходить по газонам.",
         "zh": "",
@@ -1963,7 +1963,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Thema interessiert mich.",
+      "text": "Das Thema *interessiert* mich.",
       "translations": {
         "ru": "Эта тема меня интересует.",
         "zh": "",
@@ -2015,7 +2015,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich erinnere mich an den Urlaub.",
+      "text": "Ich *erinnere* mich an den Urlaub.",
       "translations": {
         "ru": "Я помню отпуск.",
         "zh": "",
@@ -2275,7 +2275,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich studiere in Deutschland.",
+      "text": "Ich *studiere* in Deutschland.",
       "translations": {
         "ru": "Я учусь в Германии.",
         "zh": "",
@@ -2431,7 +2431,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich verbinde die Kabel.",
+      "text": "Ich *verbinde* die Kabel.",
       "translations": {
         "ru": "Я соединяю провода.",
         "zh": "",
@@ -2509,7 +2509,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mir fehlt das Geld.",
+      "text": "Mir *fehlt* das Geld.",
       "translations": {
         "ru": "Мне не хватает денег.",
         "zh": "",
@@ -2535,7 +2535,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er verfehlt das Ziel.",
+      "text": "Er *verfehlt* das Ziel.",
       "translations": {
         "ru": "Он промахивается в цель.",
         "zh": "",
@@ -2639,7 +2639,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das bedeutet viel.",
+      "text": "Das *bedeutet* viel.",
       "translations": {
         "ru": "Это много значит.",
         "zh": "",
@@ -2795,7 +2795,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Maler steigt auf die Leiter.",
+      "text": "Der Maler *steigt* auf die Leiter.",
       "translations": {
         "ru": "Художник поднимается по лестнице.",
         "zh": "",
@@ -2821,9 +2821,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Bote steigt vom Fahrrad.",
+      "text": "Ich *steige* vom Fahrrad *ab*.",
       "translations": {
-        "ru": "Посыльный слезает с велосипеда.",
+        "ru": "Я слезаю с велосипеда.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2847,7 +2847,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Weg stieg langsam an.",
+      "text": "Der Weg *stieg* langsam *an*.",
       "translations": {
         "ru": "Путь медленно поднимался.",
         "zh": "",
@@ -2873,7 +2873,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Nebel steigt auf.",
+      "text": "Der Nebel *steigt auf*.",
       "translations": {
         "ru": "Поднимается туман.",
         "zh": "",
@@ -2899,7 +2899,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bin aus dem Geschäft ausgestiegen.",
+      "text": "Ich bin aus dem Geschäft *ausgestiegen*.",
       "translations": {
         "ru": "Я ушел из бизнеса.",
         "zh": "",
@@ -2925,9 +2925,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Urlauber beseigen die Berge.",
+      "text": "Er *besteigt* den Berg.",
       "translations": {
-        "ru": "Отдыхающие наслаждаются горами.",
+        "ru": "Он взбирается на гору.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2977,7 +2977,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Rauch steigt empor.",
+      "text": "Der Rauch *steigt empor*.",
       "translations": {
         "ru": "Поднимается дым.",
         "zh": "",
@@ -3055,7 +3055,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Schaffner fragt: \"Wer ist zugestiegen?\"",
+      "text": "Der Schaffner fragt: \"Wer ist *zugestiegen*?\"",
       "translations": {
         "ru": "Дирижер спрашивает: «Кто сел?»",
         "zh": "",
@@ -3419,7 +3419,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich schaue jeden Abend Nachrichten.",
+      "text": "Ich *schaue* jeden Abend Nachrichten.",
       "translations": {
         "ru": "Я каждый вечер смотрю новости.",
         "zh": "",
@@ -3445,7 +3445,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir schauen uns den neuen Film an.",
+      "text": "Wir *schauen* uns den neuen Film *an*.",
       "translations": {
         "ru": "Мы смотрим новый фильм.",
         "zh": "",
@@ -3471,7 +3471,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Kinder schauen zum Lehrer auf.",
+      "text": "Die Kinder *schauen* zum Lehrer *auf*.",
       "translations": {
         "ru": "Дети смотрят на учителя.",
         "zh": "",
@@ -3497,7 +3497,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Es schaut nach Regen aus.",
+      "text": "Es *schaut* nach Regen *aus*.",
       "translations": {
         "ru": "Похоже, будет дождь.",
         "zh": "",
@@ -3523,7 +3523,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er beschaut die Stadt vom Hügel aus.",
+      "text": "Er *beschaut* die Stadt vom Hügel *aus*.",
       "translations": {
         "ru": "Он осматривает город с холма.",
         "zh": "",
@@ -3549,7 +3549,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich durchschaue seine Pläne.",
+      "text": "Ich *durchschaue* seine Pläne.",
       "translations": {
         "ru": "Я понимаю его планы.",
         "zh": "",
@@ -3575,7 +3575,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Warum schaust du so drein?",
+      "text": "Warum *schaust* du so *drein*?",
       "translations": {
         "ru": "Почему у тебя такое выражение лица?",
         "zh": "",
@@ -3653,7 +3653,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie schaut sich im Zimmer um.",
+      "text": "Sie *schaut* sich im Zimmer *um*.",
       "translations": {
         "ru": "Она осматривается в комнате.",
         "zh": "",
@@ -3679,7 +3679,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich schaue dir beim Kochen zu.",
+      "text": "Ich *schaue* dir beim Kochen *zu*.",
       "translations": {
         "ru": "Я наблюдаю за тобой, пока ты готовишь.",
         "zh": "",
@@ -3861,7 +3861,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich ändere den Plan.",
+      "text": "Ich *ändere* den Plan.",
       "translations": {
         "ru": "Я меняю план.",
         "zh": "",
@@ -3887,7 +3887,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir ändern den Vertrag ab.",
+      "text": "Wir *ändern* den Vertrag *ab*.",
       "translations": {
         "ru": "Мы изменяем договор.",
         "zh": "",
@@ -3913,7 +3913,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Stadt hat sich stark verändert.",
+      "text": "Die Stadt hat sich stark *verändert*.",
       "translations": {
         "ru": "Город сильно изменился.",
         "zh": "",
@@ -4017,7 +4017,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der neu gepflanzte Baum ist angewachsen.",
+      "text": "Der neu gepflanzte Baum ist *angewachsen*.",
       "translations": {
         "ru": "Недавно посаженное дерево выросло.",
         "zh": "",
@@ -4043,7 +4043,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Mädchen ist in einer Kleinstadt aufgewachsen.",
+      "text": "Das Mädchen ist in einer Kleinstadt *aufgewachsen*.",
       "translations": {
         "ru": "Девушка выросла в небольшом городке.",
         "zh": "",
@@ -4069,7 +4069,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Vorgang hat sich zu einem Skandal ausgewachsen.",
+      "text": "Der Vorgang hat sich zu einem Skandal *ausgewachsen*.",
       "translations": {
         "ru": "Процесс перерос в скандал.",
         "zh": "",
@@ -4147,7 +4147,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Aus diesen Maßnahmen erwuchsen der Firma große Nachteile.",
+      "text": "Aus diesen Maßnahmen *erwuchsen* der Firma große Nachteile.",
       "translations": {
         "ru": "В результате этих мер компания понесла серьезные убытки.",
         "zh": "",
@@ -4173,7 +4173,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Kinder wachsen heran.",
+      "text": "Die Kinder *wachsen heran*.",
       "translations": {
         "ru": "Дети растут.",
         "zh": "",
@@ -4277,9 +4277,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er ist 20-jährig.",
+      "text": "Er ist zwanzig-jährig.",
       "translations": {
-        "ru": "Ему 20 лет.",
+        "ru": "Ему двадцать лет.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4537,7 +4537,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kriege die Tür nicht auf.",
+      "text": "Ich *kriege* die Tür nicht *auf*.",
       "translations": {
         "ru": "Я не могу открыть дверь.",
         "zh": "",
@@ -4563,7 +4563,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er kriegt ihn schnell herum.",
+      "text": "Er *kriegt* ihn schnell *herum*.",
       "translations": {
         "ru": "Он быстро его уговаривает.",
         "zh": "",
@@ -4615,7 +4615,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kriege das Problem klein.",
+      "text": "Ich *kriege* das Problem *klein*.",
       "translations": {
         "ru": "Я справлюсь с проблемой.",
         "zh": "",
@@ -4745,7 +4745,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Medizin wirkt schnell.",
+      "text": "Die Medizin *wirkt* schnell.",
       "translations": {
         "ru": "Лекарство действует быстро.",
         "zh": "",
@@ -4771,7 +4771,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das schlechte Wetter wirkte sich auf die Ernte aus.",
+      "text": "Das schlechte Wetter *wirkte* sich auf die Ernte *aus*.",
       "translations": {
         "ru": "Плохая погода сказалась на урожае.",
         "zh": "",
@@ -4797,7 +4797,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Diese Maßnahme bewirkte eine Verbesserung.",
+      "text": "Diese Maßnahme *bewirkte* eine Verbesserung.",
       "translations": {
         "ru": "Эта мера вызвала улучшение.",
         "zh": "",
@@ -4849,7 +4849,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie erwirkte eine Entschädigung vor Gericht.",
+      "text": "Sie *erwirkte* eine Entschädigung vor Gericht.",
       "translations": {
         "ru": "Она добилась компенсации в суде.",
         "zh": "",
@@ -4875,7 +4875,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Viele Kollegen wirken an diesem Projekt mit.",
+      "text": "Viele Kollegen *wirken* an diesem Projekt *mit*.",
       "translations": {
         "ru": "Многие коллеги участвуют в этом проекте.",
         "zh": "",
@@ -4901,7 +4901,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Krankheit wirkte noch lange nach.",
+      "text": "Die Krankheit *wirkte* noch lange *nach*.",
       "translations": {
         "ru": "Болезнь ещё долго сказывалась.",
         "zh": "",
@@ -5265,7 +5265,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Was ist gestern passiert?",
+      "text": "Was ist gestern *passiert*?",
       "translations": {
         "ru": "Что произошло вчера?",
         "zh": "",
@@ -5525,7 +5525,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kuckuck ruft.",
+      "text": "Der Kuckuck *ruft*.",
       "translations": {
         "ru": "Кукушка кричит.",
         "zh": "",
@@ -5577,7 +5577,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Bahnbeamte ruft die Züge ab.",
+      "text": "Der Bahnbeamte *ruft* die Züge *ab*.",
       "translations": {
         "ru": "Железнодорожник вызывает поезда.",
         "zh": "",
@@ -5603,7 +5603,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe das Krankenhaus angerufen.",
+      "text": "Ich habe das Krankenhaus *angerufen*.",
       "translations": {
         "ru": "Я позвонил в больницу.",
         "zh": "",
@@ -5629,7 +5629,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Lehrer hat den Schüler aufgerufen.",
+      "text": "Der Lehrer hat den Schüler *aufgerufen*.",
       "translations": {
         "ru": "Учитель позвонил ученику.",
         "zh": "",
@@ -5655,7 +5655,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Im Warenhaus wird ein Kind ausgerufen.",
+      "text": "Im Warenhaus wird ein Kind *ausgerufen*.",
       "translations": {
         "ru": "В универмаг вызывают ребенка.",
         "zh": "",
@@ -5733,7 +5733,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Krankheit wurde durch falsche Ernährung hervorgerufen.",
+      "text": "Die Krankheit wurde durch falsche Ernährung *hervorgerufen*.",
       "translations": {
         "ru": "Заболевание было вызвано неправильным питанием.",
         "zh": "",
@@ -5941,7 +5941,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Arbeit fordert viel Energie.",
+      "text": "Die Arbeit *fordert* viel Energie.",
       "translations": {
         "ru": "Работа требует много энергии.",
         "zh": "",
@@ -5967,7 +5967,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma befördert ihn zum Manager.",
+      "text": "Die Firma *befördert* ihn zum Manager.",
       "translations": {
         "ru": "Компания продвигает его до менеджера.",
         "zh": "",
@@ -5993,7 +5993,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich fordere Informationen beim Amt an.",
+      "text": "Ich *fordere* Informationen beim Amt *an*.",
       "translations": {
         "ru": "Я запрашиваю информацию в ведомстве.",
         "zh": "",
@@ -6019,7 +6019,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er fordert mich zum Tanz auf.",
+      "text": "Er *fordert* mich zum Tanz *auf*.",
       "translations": {
         "ru": "Он приглашает меня на танец.",
         "zh": "",
@@ -6045,7 +6045,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er fordert mich zu einem Wettkampf heraus.",
+      "text": "Er *fordert* mich zu einem Wettkampf *heraus*.",
       "translations": {
         "ru": "Он вызывает меня на соревнование.",
         "zh": "",
@@ -6071,7 +6071,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Aufgabe überfordert ihn.",
+      "text": "Die Aufgabe *überfordert* ihn.",
       "translations": {
         "ru": "Задача его перегружает.",
         "zh": "",
@@ -6123,7 +6123,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich öffne das Fenster, weil es warm ist.",
+      "text": "Ich *öffne* das Fenster, weil es warm ist.",
       "translations": {
         "ru": "Я открываю окно, потому что тепло.",
         "zh": "",
@@ -6149,7 +6149,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Bank eröffnet nächste Woche eine neue Filiale.",
+      "text": "Die Bank *eröffnet* nächste Woche eine neue Filiale.",
       "translations": {
         "ru": "Банк открывает новую филию на следующей неделе.",
         "zh": "",
@@ -6175,7 +6175,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er schlug mit dem Hammer den Nagel in die Wand.",
+      "text": "Er *schlug* mit dem Hammer den Nagel in die Wand.",
       "translations": {
         "ru": "Он ударил молотком по стене.",
         "zh": "",
@@ -6201,7 +6201,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Bäume werden abgeschlagen.",
+      "text": "Die Bäume werden *abgeschlagen*.",
       "translations": {
         "ru": "Деревья срублены.",
         "zh": "",
@@ -6227,7 +6227,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dir Kur hat angeschlagen.",
+      "text": "Dir Kur hat *angeschlagen*.",
       "translations": {
         "ru": "Лекарство подействовало.",
         "zh": "",
@@ -6253,7 +6253,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Mädchen schug die Augen auf.",
+      "text": "Das Mädchen *schug* die Augen *auf*.",
       "translations": {
         "ru": "Девушка открыла глаза.",
         "zh": "",
@@ -6279,7 +6279,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Pferd schlug aus.",
+      "text": "Das Pferd *schlug aus*.",
       "translations": {
         "ru": "Лошадь выгнала.",
         "zh": "",
@@ -6357,7 +6357,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Kugel durchschlug die Wand.",
+      "text": "Die Kugel *durchschlug* die Wand.",
       "translations": {
         "ru": "Пуля попала в стену.",
         "zh": "",
@@ -6383,7 +6383,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Blitz hat in das Haus eingeschlagen.",
+      "text": "Der Blitz hat in das Haus *eingeschlagen*.",
       "translations": {
         "ru": "В дом ударила молния.",
         "zh": "",
@@ -6409,7 +6409,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Beim Öffnen der Tür schlug uns Stimmengewirr entgegen.",
+      "text": "Beim Öffnen der Tür *schlug* uns Stimmengewirr *entgegen*.",
       "translations": {
         "ru": "Когда дверь открылась, мы услышали лепет голосов.",
         "zh": "",
@@ -6435,7 +6435,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der stürzende Baum erschlug den Holzfäller.",
+      "text": "Der stürzende Baum *erschlug* den Holzfäller.",
       "translations": {
         "ru": "Падающее дерево убило дровосека.",
         "zh": "",
@@ -6461,7 +6461,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Flammen schlugen aus dem brennenden haus heraus.",
+      "text": "Die Flammen *schlugen* aus dem brennenden haus *heraus*.",
       "translations": {
         "ru": "Пламя вышло из горящего дома.",
         "zh": "",
@@ -6487,7 +6487,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat wie wild auf ihn losgeschlagen.",
+      "text": "Er hat wie wild auf ihn *losgeschlagen*.",
       "translations": {
         "ru": "Он ударил его как сумасшедший.",
         "zh": "",
@@ -6513,7 +6513,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Junge schlägt dem Großvater nach.",
+      "text": "Der Junge *schlägt* dem Großvater *nach*.",
       "translations": {
         "ru": "Мальчик смотрит на деда.",
         "zh": "",
@@ -6565,7 +6565,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die reiche Dame schägt die Zeit tot.",
+      "text": "Die reiche Dame *schägt* die Zeit *tot*.",
       "translations": {
         "ru": "Богатая дама убивает время.",
         "zh": "",
@@ -6591,7 +6591,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich überschlage eine Buchseite.",
+      "text": "Ich *überschlage* eine Buchseite.",
       "translations": {
         "ru": "Я переворачиваю страницу книги.",
         "zh": "",
@@ -6617,7 +6617,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schüler haben beim Lesen die Seite umgeschlagen.",
+      "text": "Die Schüler haben beim Lesen die Seite *umgeschlagen*.",
       "translations": {
         "ru": "Студенты переворачивали страницы во время чтения.",
         "zh": "",
@@ -6695,7 +6695,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Herr Schmidt wurde für diesen Posten vorgeschlagen.",
+      "text": "Herr Schmidt wurde für diesen Posten *vorgeschlagen*.",
       "translations": {
         "ru": "Г-н Шмидт был предложен на этот пост.",
         "zh": "",
@@ -6747,7 +6747,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Betrunkene schlug alle zusammen.",
+      "text": "Der Betrunkene *schlug* alle *zusammen*.",
       "translations": {
         "ru": "Пьяный всех избил.",
         "zh": "",
@@ -6773,7 +6773,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er schlug mit der Frau zu.",
+      "text": "Er *schlug* mit der Frau *zu*.",
       "translations": {
         "ru": "Он ударил женщину.",
         "zh": "",
@@ -6955,7 +6955,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Tritt dir bitte die Schuhe ab, bevor du hereinkommst!",
+      "text": "*Tritt* dir bitte die Schuhe *ab*, bevor du hereinkommst!",
       "translations": {
         "ru": "Пожалуйста, снимите обувь перед тем, как войти!",
         "zh": "",
@@ -6981,7 +6981,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Herr Berger tritt sein Amt als Buchhalter an.",
+      "text": "Herr Berger *tritt* sein Amt als Buchhalter *an*.",
       "translations": {
         "ru": "Г-н Бергер становится бухгалтером.",
         "zh": "",
@@ -7007,7 +7007,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Polizisten traten die Tür auf.",
+      "text": "Die Polizisten *traten* die Tür *auf*.",
       "translations": {
         "ru": "Полиция распахнула дверь ногой.",
         "zh": "",
@@ -7033,7 +7033,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Förster trat das Feuer aus.",
+      "text": "Der Förster *trat* das Feuer *aus*.",
       "translations": {
         "ru": "Лесник потушил пожар.",
         "zh": "",
@@ -7059,7 +7059,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Vater trat einer Partei bei.",
+      "text": "Mein Vater *trat* einer Partei *bei*.",
       "translations": {
         "ru": "Мой отец присоединился к вечеринке.",
         "zh": "",
@@ -7111,7 +7111,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "In der Unterhaltung trat eine Pause ein.",
+      "text": "In der Unterhaltung *trat* eine Pause *ein*.",
       "translations": {
         "ru": "В разговоре была пауза.",
         "zh": "",
@@ -7163,7 +7163,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Dichter ist zum katholischen Glauben übergetreten.",
+      "text": "Der Dichter ist zum katholischen Glauben *übergetreten*.",
       "translations": {
         "ru": "Поэт принял католическую веру.",
         "zh": "",
@@ -7189,7 +7189,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Herr Schmidt vertritt die Firma Beyer.",
+      "text": "Herr Schmidt *vertritt* die Firma Beyer.",
       "translations": {
         "ru": "Г-н Шмидт представляет компанию Beyer.",
         "zh": "",
@@ -7215,7 +7215,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Spaziergänger zertrat einen Käfer.",
+      "text": "Der Spaziergänger *zertrat* einen Käfer.",
       "translations": {
         "ru": "Ходунок затоптал жука.",
         "zh": "",
@@ -7241,7 +7241,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Minister ist nicht zurückgetreten.",
+      "text": "Der Minister ist nicht *zurückgetreten*.",
       "translations": {
         "ru": "Министр не подал в отставку.",
         "zh": "",
@@ -7267,7 +7267,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Am Montag tritt der Bundestag zusammen.",
+      "text": "Am Montag *tritt* der Bundestag *zusammen*.",
       "translations": {
         "ru": "Бундестаг собирается в понедельник.",
         "zh": "",
@@ -7631,7 +7631,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie lächelt ihn freundlich an.",
+      "text": "Sie *lächelt* ihn freundlich *an*.",
       "translations": {
         "ru": "Она дружелюбно ему улыбается.",
         "zh": "",
@@ -7657,7 +7657,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er lacht plötzlich auf.",
+      "text": "Er *lacht* plötzlich *auf*.",
       "translations": {
         "ru": "Он вдруг расхохотался.",
         "zh": "",
@@ -7683,7 +7683,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schüler lachen den Jungen aus.",
+      "text": "Die Schüler *lachen* den Jungen *aus*.",
       "translations": {
         "ru": "Ученики высмеивают мальчика.",
         "zh": "",
@@ -7709,7 +7709,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er verlacht meine Idee.",
+      "text": "Er *verlacht* meine Idee.",
       "translations": {
         "ru": "Он насмехается над моей идеей.",
         "zh": "",
@@ -7865,7 +7865,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie wählte ein schönes Kleid aus.",
+      "text": "Sie *wählte* ein schönes Kleid *aus*.",
       "translations": {
         "ru": "Она выбрала красивое платье.",
         "zh": "",
@@ -7891,7 +7891,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er wurde zum Vorsitzenden erwählt.",
+      "text": "Er wurde zum Vorsitzenden *erwählt*.",
       "translations": {
         "ru": "Его избрали председателем.",
         "zh": "",
@@ -7917,7 +7917,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe mich verwählt.",
+      "text": "Ich habe mich *verwählt*.",
       "translations": {
         "ru": "Я ошибся номером.",
         "zh": "",
@@ -8021,7 +8021,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Lieferung erfolgt morgen.",
+      "text": "Die Lieferung *erfolgt* morgen.",
       "translations": {
         "ru": "Доставка состоится завтра.",
         "zh": "",
@@ -8255,7 +8255,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kuchen ist gelungen.",
+      "text": "Der Kuchen ist *gelungen*.",
       "translations": {
         "ru": "Торт удался.",
         "zh": "",
@@ -8333,7 +8333,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kaufe ein Auto.",
+      "text": "Ich *kaufe* ein Auto.",
       "translations": {
         "ru": "Я покупаю машину.",
         "zh": "",
@@ -8359,7 +8359,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kaufe ihm das Auto ab.",
+      "text": "Ich *kaufe* ihm das Auto *ab*.",
       "translations": {
         "ru": "Я покупаю у него машину.",
         "zh": "",
@@ -8385,7 +8385,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma kauft alte Möbel an.",
+      "text": "Die Firma *kauft* alte Möbel *an*.",
       "translations": {
         "ru": "Фирма скупает старую мебель.",
         "zh": "",
@@ -8411,7 +8411,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma kauft alle Aktien auf.",
+      "text": "Die Firma *kauft* alle Aktien *auf*.",
       "translations": {
         "ru": "Фирма скупает все акции.",
         "zh": "",
@@ -8437,7 +8437,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich kaufe im Supermarkt ein.",
+      "text": "Ich *kaufe* im Supermarkt *ein*.",
       "translations": {
         "ru": "Я делаю покупки в супермаркете.",
         "zh": "",
@@ -8463,7 +8463,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er verkauft sein Haus.",
+      "text": "Er *verkauft* sein Haus.",
       "translations": {
         "ru": "Он продаёт свой дом.",
         "zh": "",
@@ -8801,7 +8801,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Vergiß mich nich!",
+      "text": "*Vergiß* mich nich!",
       "translations": {
         "ru": "Не забывай меня!",
         "zh": "",
@@ -9061,7 +9061,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Katze scheint verschwunden zu sein.",
+      "text": "Die Katze scheint *verschwunden* zu sein.",
       "translations": {
         "ru": "Кажется, что кошка исчезла.",
         "zh": "",
@@ -9087,7 +9087,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dieses Buch dient der Forschung.",
+      "text": "Dieses Buch *dient* der Forschung.",
       "translations": {
         "ru": "Эта книга служит исследованию.",
         "zh": "",
@@ -9113,7 +9113,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bediene die Maschine.",
+      "text": "Ich *bediene* die Maschine.",
       "translations": {
         "ru": "Я управляю машиной.",
         "zh": "",
@@ -9139,7 +9139,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich verdiene genug Geld.",
+      "text": "Ich *verdiene* genug Geld.",
       "translations": {
         "ru": "Я зарабатываю достаточно денег.",
         "zh": "",
@@ -9165,7 +9165,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kind trinkt Milch.",
+      "text": "Das Kind *trinkt* Milch.",
       "translations": {
         "ru": "Ребенок пьет молоко.",
         "zh": "",
@@ -9191,7 +9191,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Säugling hat seine Flasche ausgetrunken.",
+      "text": "Der Säugling hat seine Flasche *ausgetrunken*.",
       "translations": {
         "ru": "Младенец допил бутылочку.",
         "zh": "",
@@ -9217,7 +9217,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Mann hat sich betrunken.",
+      "text": "Der Mann hat sich *betrunken*.",
       "translations": {
         "ru": "Мужчина напился.",
         "zh": "",
@@ -9243,7 +9243,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bei dem Schiffsuntergang sind zehn Matrosen ertrunken.",
+      "text": "Bei dem Schiffsuntergang sind zehn Matrosen *ertrunken*.",
       "translations": {
         "ru": "Десять моряков утонули, когда корабль затонул.",
         "zh": "",
@@ -9269,7 +9269,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Arbeiter hat seinen Lohn vertrunken.",
+      "text": "Der Arbeiter hat seinen Lohn *vertrunken*.",
       "translations": {
         "ru": "Рабочий выпил свою зарплату.",
         "zh": "",
@@ -9295,7 +9295,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Hausherr trinkt seinen Gästen zu.",
+      "text": "Der Hausherr *trinkt* seinen Gästen *zu*.",
       "translations": {
         "ru": "Хозяин пьет за своих гостей.",
         "zh": "",
@@ -9685,7 +9685,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir stimmen über den neuen Plan ab.",
+      "text": "Wir *stimmen* über den neuen Plan *ab*.",
       "translations": {
         "ru": "Мы голосуем за новый план.",
         "zh": "",
@@ -9711,7 +9711,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Sängerin stimmte das Lied an.",
+      "text": "Die Sängerin *stimmte* das Lied *an*.",
       "translations": {
         "ru": "Певица начала петь песню.",
         "zh": "",
@@ -9737,7 +9737,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Alle stimmten dem Vorschlag bei.",
+      "text": "Alle *stimmten* dem Vorschlag *bei*.",
       "translations": {
         "ru": "Все согласились с предложением.",
         "zh": "",
@@ -9763,7 +9763,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir stimmen uns auf das Konzert ein.",
+      "text": "Wir *stimmen* uns auf das Konzert *ein*.",
       "translations": {
         "ru": "Мы настраиваемся на концерт.",
         "zh": "",
@@ -9789,7 +9789,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Ergebnisse stimmen mit den Erwartungen überein.",
+      "text": "Die Ergebnisse *stimmen* mit den Erwartungen *überein*.",
       "translations": {
         "ru": "Результаты соответствуют ожиданиям.",
         "zh": "",
@@ -9815,7 +9815,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Mehrheit überstimmte die Minderheit.",
+      "text": "Die Mehrheit *überstimmte* die Minderheit.",
       "translations": {
         "ru": "Большинство пересилило меньшинство.",
         "zh": "",
@@ -9893,7 +9893,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich stimme deinem Plan zu.",
+      "text": "Ich *stimme* deinem Plan *zu*.",
       "translations": {
         "ru": "Я согласен с твоим планом.",
         "zh": "",
@@ -10075,7 +10075,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir rechnen die Kosten am Ende des Monats ab.",
+      "text": "Wir *rechnen* die Kosten am Ende des Monats *ab*.",
       "translations": {
         "ru": "Мы рассчитываемся по расходам в конце месяца.",
         "zh": "",
@@ -10101,7 +10101,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Erfahrung wird auf die Ausbildung angerechnet.",
+      "text": "Die Erfahrung wird auf die Ausbildung *angerechnet*.",
       "translations": {
         "ru": "Опыт засчитывается в обучение.",
         "zh": "",
@@ -10179,7 +10179,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Architekt berechnet die Kosten für das Projekt.",
+      "text": "Der Architekt *berechnet* die Kosten für das Projekt.",
       "translations": {
         "ru": "Архитектор рассчитывает стоимость проекта.",
         "zh": "",
@@ -10205,7 +10205,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte rechnest du die Lieferkosten ein?",
+      "text": "Bitte *rechnest* du die Lieferkosten *ein*?",
       "translations": {
         "ru": "Пожалуйста, включи расходы на доставку.",
         "zh": "",
@@ -10231,7 +10231,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Computer errechnet die Ergebnisse automatisch.",
+      "text": "Der Computer *errechnet* die Ergebnisse automatisch.",
       "translations": {
         "ru": "Компьютер автоматически вычисляет результаты.",
         "zh": "",
@@ -10309,7 +10309,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Fehler wurden bei der Abrechnung verrechnet.",
+      "text": "Die Fehler wurden bei der Abrechnung *verrechnet*.",
       "translations": {
         "ru": "Ошибки были учтены при расчёте.",
         "zh": "",
@@ -10335,7 +10335,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Lehrer rechnet die Aufgabe den Schülern vor.",
+      "text": "Der Lehrer *rechnet* die Aufgabe den Schülern *vor*.",
       "translations": {
         "ru": "Учитель показывает ученикам решение задачи.",
         "zh": "",
@@ -10361,7 +10361,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir rechnen alle Ausgaben zusammen.",
+      "text": "Wir *rechnen* alle Ausgaben *zusammen*.",
       "translations": {
         "ru": "Мы складываем все расходы вместе.",
         "zh": "",
@@ -10569,7 +10569,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hole Brot.",
+      "text": "Ich *hole* Brot.",
       "translations": {
         "ru": "Я принесу хлеб.",
         "zh": "",
@@ -10595,7 +10595,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hole dich vom Bahnhof ab.",
+      "text": "Ich *hole* dich vom Bahnhof *ab*.",
       "translations": {
         "ru": "Я заберу тебя с вокзала.",
         "zh": "",
@@ -10621,7 +10621,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er holt die Zeit auf.",
+      "text": "Er *holt* die Zeit *auf*.",
       "translations": {
         "ru": "Он наверстывает время.",
         "zh": "",
@@ -10647,7 +10647,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er holt zum Schlag aus.",
+      "text": "Er *holt* zum Schlag *aus*.",
       "translations": {
         "ru": "Он размахивается для удара.",
         "zh": "",
@@ -10673,7 +10673,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hole dich bald ein.",
+      "text": "Ich *hole* dich bald *ein*.",
       "translations": {
         "ru": "Я скоро тебя догоню.",
         "zh": "",
@@ -10699,7 +10699,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich erhole mich im Urlaub.",
+      "text": "Ich *erhole* mich im Urlaub.",
       "translations": {
         "ru": "Я восстанавливаюсь в отпуске.",
         "zh": "",
@@ -10725,7 +10725,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er holt das Buch aus der Tasche heraus.",
+      "text": "Er *holt* das Buch aus der Tasche *heraus*.",
       "translations": {
         "ru": "Он достаёт книгу из сумки.",
         "zh": "",
@@ -10751,7 +10751,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hole die Arbeit nach.",
+      "text": "Ich *hole* die Arbeit *nach*.",
       "translations": {
         "ru": "Я наверстываю работу.",
         "zh": "",
@@ -10777,7 +10777,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich überhole das Auto.",
+      "text": "Ich *überhole* das Auto.",
       "translations": {
         "ru": "Я обгоняю машину.",
         "zh": "",
@@ -10803,7 +10803,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich wiederhole die Regel.",
+      "text": "Ich *wiederhole* die Regel.",
       "translations": {
         "ru": "Я повторяю правило.",
         "zh": "",
@@ -11193,7 +11193,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Hier isst man gut.",
+      "text": "Hier *isst* man gut.",
       "translations": {
         "ru": "Здесь можно хорошо поесть.",
         "zh": "",
@@ -11297,9 +11297,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Geld reicht für den Einkauf nicht.",
+      "text": "Das Geld *reicht aus*.",
       "translations": {
-        "ru": "Денег не хватает на покупки.",
+        "ru": "Денег хватает.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11323,7 +11323,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie reichte ihre Bewerbung ein.",
+      "text": "Sie *reichte* ihre Bewerbung *ein*.",
       "translations": {
         "ru": "Она подала своё заявление.",
         "zh": "",
@@ -11349,7 +11349,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte reichen Sie die fehlenden Unterlagen nach.",
+      "text": "Bitte *reichen* Sie die fehlenden Unterlagen *nach*.",
       "translations": {
         "ru": "Пожалуйста, предоставьте недостающие документы позже.",
         "zh": "",
@@ -11375,7 +11375,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er reichte mir die Bücher heran.",
+      "text": "Er *reichte* mir die Bücher *heran*.",
       "translations": {
         "ru": "Он протянул мне книги.",
         "zh": "",
@@ -11401,7 +11401,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Präsident überreichte den Preis dem Gewinner.",
+      "text": "Der Präsident *überreichte* den Preis dem Gewinner.",
       "translations": {
         "ru": "Президент вручил приз победителю.",
         "zh": "",
@@ -11427,7 +11427,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Arzt verabreichte dem Patienten das Medikament.",
+      "text": "Der Arzt *verabreichte* dem Patienten das Medikament.",
       "translations": {
         "ru": "Врач дал пациенту лекарство.",
         "zh": "",
@@ -11453,7 +11453,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Früher starben viele Menschen an der Pest.",
+      "text": "Früher *starben* viele Menschen an der Pest.",
       "translations": {
         "ru": "В прошлом многие люди умирали от чумы.",
         "zh": "",
@@ -11479,7 +11479,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dieser Ast ist abgestorben.",
+      "text": "Dieser Ast ist *abgestorben*.",
       "translations": {
         "ru": "Эта ветка умерла.",
         "zh": "",
@@ -11505,7 +11505,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Viele Tiere sind längst ausgestorben.",
+      "text": "Viele Tiere sind längst *ausgestorben*.",
       "translations": {
         "ru": "Многие животные давно вымерли.",
         "zh": "",
@@ -11531,7 +11531,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie ist vor Ehrfurcht erstorben.",
+      "text": "Sie ist vor Ehrfurcht *erstorben*.",
       "translations": {
         "ru": "Она умерла от страха.",
         "zh": "",
@@ -11687,7 +11687,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich leiste meinen Beitrag zur Arbeit.",
+      "text": "Ich *leiste* meinen Beitrag zur Arbeit.",
       "translations": {
         "ru": "Я вношу свой вклад в работу.",
         "zh": "",
@@ -11895,7 +11895,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Knabe wirft einen Stein.",
+      "text": "Der Knabe *wirft* einen Stein.",
       "translations": {
         "ru": "Мальчик бросает камень.",
         "zh": "",
@@ -11921,7 +11921,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Pferd warf seinen Reiter ab.",
+      "text": "Das Pferd *warf* seinen Reiter *ab*.",
       "translations": {
         "ru": "Лошадь скинула всадника.",
         "zh": "",
@@ -11947,7 +11947,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Arbeiter werfen einen Damm auf.",
+      "text": "Die Arbeiter *werfen* einen Damm *auf*.",
       "translations": {
         "ru": "Рабочие возводят дамбу.",
         "zh": "",
@@ -11973,7 +11973,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Bauer wirft einen Graben aus.",
+      "text": "Der Bauer *wirft* einen Graben *aus*.",
       "translations": {
         "ru": "Фермер роет канаву.",
         "zh": "",
@@ -11999,7 +11999,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Man hat das Haus beworfen.",
+      "text": "Man hat das Haus *beworfen*.",
       "translations": {
         "ru": "В дом бросили.",
         "zh": "",
@@ -12025,7 +12025,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Werfen Sie bitte den Brief ein.",
+      "text": "*Werfen* Sie bitte den Brief *ein*.",
       "translations": {
         "ru": "Пожалуйста, бросьте письмо.",
         "zh": "",
@@ -12051,7 +12051,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Architekt entwirft den Plan des Hauses.",
+      "text": "Der Architekt *entwirft* den Plan des Hauses.",
       "translations": {
         "ru": "Архитектор составляет план дома.",
         "zh": "",
@@ -12077,7 +12077,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Geschäft wirft einem die Ware nach.",
+      "text": "Das Geschäft *wirft* einem die Ware *nach*.",
       "translations": {
         "ru": "Бизнес бросает в вас товар.",
         "zh": "",
@@ -12103,7 +12103,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Frau warf sich einen Mantel über.",
+      "text": "Die Frau *warf* sich einen Mantel *über*.",
       "translations": {
         "ru": "Женщина накинула пальто.",
         "zh": "",
@@ -12129,7 +12129,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Gast hat ein Glas umgeworfen.",
+      "text": "Der Gast hat ein Glas *umgeworfen*.",
       "translations": {
         "ru": "Гость опрокинул стакан.",
         "zh": "",
@@ -12155,7 +12155,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das besiegte Volk wird von den Siegern unterworfen.",
+      "text": "Das besiegte Volk wird von den Siegern *unterworfen*.",
       "translations": {
         "ru": "Побежденный народ порабощен победителями.",
         "zh": "",
@@ -12181,7 +12181,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich verwerfe meine früheren Pläne.",
+      "text": "Ich *verwerfe* meine früheren Pläne.",
       "translations": {
         "ru": "Я отказываюсь от своих предыдущих планов.",
         "zh": "",
@@ -12207,7 +12207,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Knecht wirft dem Pferd Hafer vor.",
+      "text": "Der Knecht *wirft* dem Pferd Hafer *vor*.",
       "translations": {
         "ru": "Батрак бросает в лошадь овес.",
         "zh": "",
@@ -12233,7 +12233,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Spiegel wirft das Licht zurück.",
+      "text": "Der Spiegel *wirft* das Licht *zurück*.",
       "translations": {
         "ru": "Зеркало отражает свет.",
         "zh": "",
@@ -12259,7 +12259,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wirf mir bitte den Ball zu!",
+      "text": "*Wirf* mir bitte den Ball *zu*!",
       "translations": {
         "ru": "Бросьте мне мяч, пожалуйста!",
         "zh": "",
@@ -12441,7 +12441,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich zähle das Geld ab.",
+      "text": "Ich *zähle* das Geld *ab*.",
       "translations": {
         "ru": "Я пересчитываю деньги.",
         "zh": "",
@@ -12467,7 +12467,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte zähle die Aufgaben auf.",
+      "text": "Bitte *zähle* die Aufgaben *auf*.",
       "translations": {
         "ru": "Пожалуйста, перечисли задания.",
         "zh": "",
@@ -12545,7 +12545,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat sich beim Zählen verzählt.",
+      "text": "Er hat sich beim Zählen *verzählt*.",
       "translations": {
         "ru": "Он ошибся при подсчёте.",
         "zh": "",
@@ -12649,7 +12649,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich wünsche dir alles Gute zum Geburtstag.",
+      "text": "Ich *wünsche* dir alles Gute zum Geburtstag.",
       "translations": {
         "ru": "Я желаю тебе всего наилучшего с днём рождения.",
         "zh": "",
@@ -12675,7 +12675,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir beglückwünschten ihn zu seiner Beförderung.",
+      "text": "Wir *beglückwünschten* ihn zu seiner Beförderung.",
       "translations": {
         "ru": "Мы поздравили его с повышением.",
         "zh": "",
@@ -12701,7 +12701,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Hexe verwünschte das Dorf.",
+      "text": "Die Hexe *verwünschte* das Dorf.",
       "translations": {
         "ru": "Ведьма наложила проклятие на деревню.",
         "zh": "",
@@ -12753,7 +12753,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich baue ein Haus.",
+      "text": "Ich *baue* ein Haus.",
       "translations": {
         "ru": "Я строю дом.",
         "zh": "",
@@ -12779,7 +12779,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir bauen das Zelt ab.",
+      "text": "Wir *bauen* das Zelt *ab*.",
       "translations": {
         "ru": "Мы разбираем палатку.",
         "zh": "",
@@ -12805,7 +12805,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er baut einen Balkon an.",
+      "text": "Er *baut* einen Balkon *an*.",
       "translations": {
         "ru": "Он пристраивает балкон.",
         "zh": "",
@@ -12831,7 +12831,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir bauen ein neues System auf.",
+      "text": "Wir *bauen* ein neues System *auf*.",
       "translations": {
         "ru": "Мы создаём новую систему.",
         "zh": "",
@@ -12857,7 +12857,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie bauen die Straße aus.",
+      "text": "Sie *bauen* die Straße *aus*.",
       "translations": {
         "ru": "Они расширяют дорогу.",
         "zh": "",
@@ -12909,7 +12909,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich baue die Küche ein.",
+      "text": "Ich *baue* die Küche *ein*.",
       "translations": {
         "ru": "Я устанавливаю кухню.",
         "zh": "",
@@ -12935,7 +12935,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Kirche wurde im 18. Jahrhundert erbaut.",
+      "text": "Die Kirche wurde im 18. Jahrhundert *erbaut*.",
       "translations": {
         "ru": "Церковь была построена в XVIII веке.",
         "zh": "",
@@ -12961,7 +12961,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir bauen das Haus um.",
+      "text": "Wir *bauen* das Haus *um*.",
       "translations": {
         "ru": "Мы перестраиваем дом.",
         "zh": "",
@@ -12987,7 +12987,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er verbaut das ganze Geld.",
+      "text": "Er *verbaut* das ganze Geld.",
       "translations": {
         "ru": "Он растрачивает все деньги.",
         "zh": "",
@@ -13013,7 +13013,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie bauen eine Mauer vor das Haus.",
+      "text": "Sie *bauen* eine Mauer *vor* das Haus.",
       "translations": {
         "ru": "Они строят стену перед домом.",
         "zh": "",
@@ -13065,7 +13065,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Bild hing an dem Nagel.",
+      "text": "Das Bild *hing* an dem Nagel.",
       "translations": {
         "ru": "Картина висела на стене.",
         "zh": "",
@@ -13091,7 +13091,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Chauffeur hängte den Anhänger ab.",
+      "text": "Der Chauffeur *hängte* den Anhänger *ab*.",
       "translations": {
         "ru": "Шофер отцепил прицеп.",
         "zh": "",
@@ -13117,7 +13117,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Bilder der Sängerin hingen bei dem Photographen aus.",
+      "text": "Die Bilder der Sängerin *hingen* bei dem Photographen *aus*.",
       "translations": {
         "ru": "Фотографии певца была вывешена на пороге фотографа.",
         "zh": "",
@@ -13143,7 +13143,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Sohn behängte die Wände seines Zimmers mit Bildern.",
+      "text": "Mein Sohn *behängte* die Wände seines Zimmers mit Bildern.",
       "translations": {
         "ru": "Мой сын развешивал картины на стенах своей комнаты.",
         "zh": "",
@@ -13169,7 +13169,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hängte einfach ein.",
+      "text": "Ich *hängte* einfach *ein*.",
       "translations": {
         "ru": "Я просто повесил трубку.",
         "zh": "",
@@ -13195,7 +13195,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Fahne hängt zum Dachfenster heraus.",
+      "text": "Die Fahne *hängt* zum Dachfenster *heraus*.",
       "translations": {
         "ru": "Флаг свешивается из светового люка.",
         "zh": "",
@@ -13221,7 +13221,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hoffe auf gutes Wetter.",
+      "text": "Ich *hoffe* auf gutes Wetter.",
       "translations": {
         "ru": "Я надеюсь на хорошую погоду.",
         "zh": "",
@@ -13247,7 +13247,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich erhoffe mir Hilfe.",
+      "text": "Ich *erhoffe* mir Hilfe.",
       "translations": {
         "ru": "Я надеюсь получить помощь.",
         "zh": "",
@@ -13325,7 +13325,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich freue mich auf das Wochenende.",
+      "text": "Ich *freue* mich auf das Wochenende.",
       "translations": {
         "ru": "Я радуюсь выходным.",
         "zh": "",
@@ -13351,7 +13351,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Nachricht erfreut mich.",
+      "text": "Die Nachricht *erfreut* mich.",
       "translations": {
         "ru": "Новость радует меня.",
         "zh": "",
@@ -13403,7 +13403,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Raum wurde in zwei Bereiche abgeteilt.",
+      "text": "Der Raum wurde in zwei Bereiche *abgeteilt*.",
       "translations": {
         "ru": "Комната была разделена на две части.",
         "zh": "",
@@ -13429,7 +13429,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir haben die Aufgaben aufgeteilt.",
+      "text": "Wir haben die Aufgaben *aufgeteilt*.",
       "translations": {
         "ru": "Мы разделили задания.",
         "zh": "",
@@ -13455,7 +13455,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Lehrer teilt die Arbeitsblätter aus.",
+      "text": "Der Lehrer *teilt* die Arbeitsblätter *aus*.",
       "translations": {
         "ru": "Учитель раздает рабочие листы.",
         "zh": "",
@@ -13507,7 +13507,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Behörde erteilte die Genehmigung.",
+      "text": "Die Behörde *erteilte* die Genehmigung.",
       "translations": {
         "ru": "Власти выдали разрешение.",
         "zh": "",
@@ -13533,7 +13533,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er teilte uns die Neuigkeiten mit.",
+      "text": "Er *teilte* uns die Neuigkeiten *mit*.",
       "translations": {
         "ru": "Он сообщил нам новости.",
         "zh": "",
@@ -13585,7 +13585,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Jedem Schüler wird ein Platz zugeteilt.",
+      "text": "Jedem Schüler wird ein Platz *zugeteilt*.",
       "translations": {
         "ru": "Каждому ученику назначается место.",
         "zh": "",
@@ -13663,7 +13663,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Reise dauert drei Stunden.",
+      "text": "Die Reise *dauert* drei Stunden.",
       "translations": {
         "ru": "Поездка длится три часа.",
         "zh": "",
@@ -13689,7 +13689,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Streit dauert noch lange an.",
+      "text": "Der Streit *dauert* noch lange *an*.",
       "translations": {
         "ru": "Ссора ещё долго продолжается.",
         "zh": "",
@@ -13715,7 +13715,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bedauere deinen Verlust.",
+      "text": "Ich *bedauere* deinen Verlust.",
       "translations": {
         "ru": "Мне жаль твою потерю.",
         "zh": "",
@@ -13741,7 +13741,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dieses Gebäude hat Jahrhunderte überdauert.",
+      "text": "Dieses Gebäude hat Jahrhunderte *überdauert*.",
       "translations": {
         "ru": "Это здание пережило века.",
         "zh": "",
@@ -13793,9 +13793,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mathematik ist mein Lieblingsfach.",
+      "text": "Welches Fach hast du morgen?",
       "translations": {
-        "ru": "Математика - мой любимый предмет.",
+        "ru": "Какой предмет у тебя завтра?",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13897,7 +13897,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich stecke den Schlüssel in die Tasche.",
+      "text": "Ich *stecke* den Schlüssel in die Tasche.",
       "translations": {
         "ru": "Я кладу ключ в сумку.",
         "zh": "",
@@ -14001,7 +14001,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat hohe Ansprüche an seine Arbeit.",
+      "text": "Er hat hohe *Ansprüche* an seine Arbeit.",
       "translations": {
         "ru": "У него высокие требования к своей работе.",
         "zh": "",
@@ -14053,7 +14053,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bitte dich sehr.",
+      "text": "Ich *bitte* dich sehr.",
       "translations": {
         "ru": "Я прошу тебя очень.",
         "zh": "",
@@ -14079,7 +14079,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe dir vieles abzubitten.",
+      "text": "Ich habe dir vieles *abzubitten*.",
       "translations": {
         "ru": "Я перед тобой очень извинился.",
         "zh": "",
@@ -14105,7 +14105,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bitte mir Ruhe aus!",
+      "text": "Ich *bitte* mir Ruhe *aus*!",
       "translations": {
         "ru": "Я требую тишины!",
         "zh": "",
@@ -14131,7 +14131,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich erbat mir Bedenkzeit.",
+      "text": "Ich *erbat* mir Bedenkzeit.",
       "translations": {
         "ru": "Я выпросил время подумать.",
         "zh": "",
@@ -14157,7 +14157,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitten Sie Herrn Berger herein!",
+      "text": "*Bitten* Sie Herrn Berger *herein*!",
       "translations": {
         "ru": "Попросите господина Бергера войти!",
         "zh": "",
@@ -14183,7 +14183,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich verbitte mir diesen Ton!",
+      "text": "Ich *verbitte* mir diesen Ton!",
       "translations": {
         "ru": "Прошу не говорить со мной таким тоном!",
         "zh": "",
@@ -14209,7 +14209,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er sorgt gut für seine Familie.",
+      "text": "Er *sorgt* gut für seine Familie.",
       "translations": {
         "ru": "Он хорошо заботится о своей семье.",
         "zh": "",
@@ -14235,7 +14235,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Organisation sorgt für die Bedürftigen aus.",
+      "text": "Die Organisation *sorgt* für die Bedürftigen *aus*.",
       "translations": {
         "ru": "Организация заботится о нуждающихся.",
         "zh": "",
@@ -14261,7 +14261,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich besorge das Abendessen.",
+      "text": "Ich *besorge* das Abendessen.",
       "translations": {
         "ru": "Я позабочусь о ужине.",
         "zh": "",
@@ -14287,7 +14287,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie umsorgt ihre kranke Mutter liebevoll.",
+      "text": "Sie *umsorgt* ihre kranke Mutter liebevoll.",
       "translations": {
         "ru": "Она заботливо ухаживает за своей больной матерью.",
         "zh": "",
@@ -14469,7 +14469,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich spüre den Wind auf meiner Haut.",
+      "text": "Ich *spüre* den Wind auf meiner Haut.",
       "translations": {
         "ru": "Я чувствую ветер на коже.",
         "zh": "",
@@ -14495,7 +14495,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Hund spürte die verlorene Katze auf.",
+      "text": "Der Hund *spürte* die verlorene Katze *auf*.",
       "translations": {
         "ru": "Собака выследила пропавшую кошку.",
         "zh": "",
@@ -14521,7 +14521,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich spüre der Ursache des Problems nach.",
+      "text": "Ich *spüre* der Ursache des Problems *nach*.",
       "translations": {
         "ru": "Я пытаюсь обнаружить причину проблемы.",
         "zh": "",
@@ -14547,7 +14547,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich verspüre ein leichtes Unwohlsein.",
+      "text": "Ich *verspüre* ein leichtes Unwohlsein.",
       "translations": {
         "ru": "Я ощущаю лёгкое недомогание.",
         "zh": "",
@@ -15067,9 +15067,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich melde mich bei der Rezeption an.",
+      "text": "Er *meldet* einen Fehler.",
       "translations": {
-        "ru": "Я регистрируюсь на ресепшене.",
+        "ru": "Он сообщает об ошибке.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15093,7 +15093,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich melde mich vom Kurs ab.",
+      "text": "Ich *melde* mich vom Kurs *ab*.",
       "translations": {
         "ru": "Я отписываюсь с курса.",
         "zh": "",
@@ -15951,7 +15951,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich merke mir die wichtigsten Punkte.",
+      "text": "Ich *merke* mir die wichtigsten Punkte.",
       "translations": {
         "ru": "Я запоминаю самые важные моменты.",
         "zh": "",
@@ -15977,7 +15977,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich merke an, dass du Recht hast.",
+      "text": "Ich *merke an*, dass du Recht hast.",
       "translations": {
         "ru": "Я отмечаю, что ты прав.",
         "zh": "",
@@ -16029,7 +16029,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe sofort bemerkt, dass etwas nicht stimmt.",
+      "text": "Ich habe sofort *bemerkt*, dass etwas nicht stimmt.",
       "translations": {
         "ru": "Я сразу заметил, что что-то не так.",
         "zh": "",
@@ -16055,7 +16055,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich vermerke den Termin im Kalender.",
+      "text": "Ich *vermerke* den Termin im Kalender.",
       "translations": {
         "ru": "Я отмечаю встречу в календаре.",
         "zh": "",
@@ -16159,7 +16159,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Hemd passt mir gut.",
+      "text": "Das Hemd *passt* mir gut.",
       "translations": {
         "ru": "Рубашка мне хорошо подходит.",
         "zh": "",
@@ -16185,7 +16185,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er passte den richtigen Moment ab, um zu fragen.",
+      "text": "Er passte den *richtigen* Moment *ab*, um zu fragen.",
       "translations": {
         "ru": "Он выждал подходящий момент, чтобы спросить.",
         "zh": "",
@@ -16211,7 +16211,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich passe die Kleidung meiner Größe an.",
+      "text": "Ich *passe* die Kleidung meiner Größe *an*.",
       "translations": {
         "ru": "Я подгоняю одежду под свой размер.",
         "zh": "",
@@ -16237,7 +16237,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Pass auf die Kinder auf!",
+      "text": "*Pass* auf die Kinder *auf*!",
       "translations": {
         "ru": "Присмотри за детьми!",
         "zh": "",
@@ -16263,7 +16263,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe den Bus verpasst.",
+      "text": "Ich habe den Bus *verpasst*.",
       "translations": {
         "ru": "Я пропустил автобус.",
         "zh": "",
@@ -16289,7 +16289,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Möbel passen gut zusammen.",
+      "text": "Die Möbel *passen* gut *zusammen*.",
       "translations": {
         "ru": "Мебель хорошо сочетается друг с другом.",
         "zh": "",
@@ -16419,7 +16419,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dieses Buch eignet sich für Anfänger.",
+      "text": "Dieses Buch *eignet* sich für Anfänger.",
       "translations": {
         "ru": "Эта книга подходит для начинающих.",
         "zh": "",
@@ -16471,7 +16471,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Schneider richtet das Kleid.",
+      "text": "Der Schneider *richtet* das Kleid.",
       "translations": {
         "ru": "Портной подгоняет платье.",
         "zh": "",
@@ -16497,7 +16497,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Hund wurde gut abgerichtet.",
+      "text": "Der Hund wurde gut *abgerichtet*.",
       "translations": {
         "ru": "Собаку хорошо натренировали.",
         "zh": "",
@@ -16523,7 +16523,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er richtete großen Schaden an.",
+      "text": "Er *richtete* großen Schaden *an*.",
       "translations": {
         "ru": "Он причинил большой ущерб.",
         "zh": "",
@@ -16549,7 +16549,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie richtete den Stuhl wieder auf.",
+      "text": "Sie *richtete* den Stuhl wieder *auf*.",
       "translations": {
         "ru": "Она снова поставила стул прямо.",
         "zh": "",
@@ -16601,7 +16601,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir richten das neue Büro ein.",
+      "text": "Wir *richten* das neue Büro *ein*.",
       "translations": {
         "ru": "Мы обустраиваем новый офис.",
         "zh": "",
@@ -16627,7 +16627,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Steuer muss fristgerecht entrichtet werden.",
+      "text": "Die Steuer muss fristgerecht *entrichtet* werden.",
       "translations": {
         "ru": "Налог должен быть уплачен в срок.",
         "zh": "",
@@ -16653,7 +16653,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie errichteten ein Denkmal im Park.",
+      "text": "Sie *errichteten* ein Denkmal im Park.",
       "translations": {
         "ru": "Они воздвигли памятник в парке.",
         "zh": "",
@@ -16679,7 +16679,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er richtete die Wohnung für die Gäste her.",
+      "text": "Er *richtete* die Wohnung für die Gäste *her*.",
       "translations": {
         "ru": "Он приготовил квартиру для гостей.",
         "zh": "",
@@ -16705,7 +16705,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Verbrecher wurde hingerichtet.",
+      "text": "Der Verbrecher wurde *hingerichtet*.",
       "translations": {
         "ru": "Преступник был казнён.",
         "zh": "",
@@ -16731,7 +16731,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Lehrerin unterrichtet Mathematik.",
+      "text": "Die Lehrerin *unterrichtet* Mathematik.",
       "translations": {
         "ru": "Учительница преподаёт математику.",
         "zh": "",
@@ -16783,9 +16783,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er richtet den Raum für das Fest her.",
+      "text": "Das Essen wird *zugerichtet*.",
       "translations": {
-        "ru": "Он готовит комнату к празднику.",
+        "ru": "Еда готовится.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -16809,7 +16809,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Projekt umfasst mehrere Bereiche.",
+      "text": "Das Projekt *umfasst* mehrere Bereiche.",
       "translations": {
         "ru": "Проект охватывает несколько направлений.",
         "zh": "",
@@ -16913,7 +16913,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Schlaf gut!",
+      "text": "*Schlaf* gut!",
       "translations": {
         "ru": "Спокойной ночи!",
         "zh": "",
@@ -16965,7 +16965,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ein gesundes Kind schläft nachts durch.",
+      "text": "Ein gesundes Kind *schläft* nachts *durch*.",
       "translations": {
         "ru": "Здоровый ребенок всю ночь спит.",
         "zh": "",
@@ -16991,9 +16991,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er schläft immer gleich ain.",
+      "text": "Das Gespräch ist *eingeschlafen*.",
       "translations": {
-        "ru": "Он всегда спит одинаково.",
+        "ru": "Разговор затих.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17017,7 +17017,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Überschlafe die Sache!",
+      "text": "*Überschlafe* die Sache!",
       "translations": {
         "ru": "Проспать дело!",
         "zh": "",
@@ -17381,7 +17381,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich beschäftige mich mit Deutsch.",
+      "text": "Ich *beschäftige* mich mit Deutsch.",
       "translations": {
         "ru": "Я занимаюсь немецким.",
         "zh": "",
@@ -17433,7 +17433,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich löse das Problem.",
+      "text": "Ich *löse* das Problem.",
       "translations": {
         "ru": "Я решаю проблему.",
         "zh": "",
@@ -17459,7 +17459,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Scheibe löst sich ab.",
+      "text": "Die Scheibe *löst* sich *ab*.",
       "translations": {
         "ru": "Стекло отходит / отклеивается.",
         "zh": "",
@@ -17485,7 +17485,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Verein löst sich auf.",
+      "text": "Der Verein *löst* sich *auf*.",
       "translations": {
         "ru": "Клуб распускается.",
         "zh": "",
@@ -17511,7 +17511,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Knopfdruck löst den Alarm aus.",
+      "text": "Der Knopfdruck *löst* den Alarm *aus*.",
       "translations": {
         "ru": "Нажатие кнопки вызывает сигнал тревоги.",
         "zh": "",
@@ -17537,7 +17537,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich löse den Gutschein ein.",
+      "text": "Ich *löse* den Gutschein *ein*.",
       "translations": {
         "ru": "Я обмениваю купон.",
         "zh": "",
@@ -17563,7 +17563,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Verkauf erlöst viel Geld.",
+      "text": "Der Verkauf *erlöst* viel Geld.",
       "translations": {
         "ru": "Продажа приносит много денег.",
         "zh": "",
@@ -17641,7 +17641,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich antworte dir morgen.",
+      "text": "Ich *antworte* dir morgen.",
       "translations": {
         "ru": "Я отвечу тебе завтра.",
         "zh": "",
@@ -17667,7 +17667,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich beantworte die Frage.",
+      "text": "Ich *beantworte* die Frage.",
       "translations": {
         "ru": "Я отвечаю на вопрос.",
         "zh": "",
@@ -17693,7 +17693,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er überantwortet den Gefangenen der Polizei.",
+      "text": "Er *überantwortet* den Gefangenen der Polizei.",
       "translations": {
         "ru": "Он передаёт заключённого полиции.",
         "zh": "",
@@ -17901,7 +17901,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Arzt trennte die verletzte Stelle ab.",
+      "text": "Der Arzt *trennte* die verletzte Stelle *ab*.",
       "translations": {
         "ru": "Врач отделил поврежденное место.",
         "zh": "",
@@ -18083,7 +18083,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich liebe Schokolade.",
+      "text": "Ich *liebe* Schokolade.",
       "translations": {
         "ru": "Я люблю шоколад.",
         "zh": "",
@@ -18135,7 +18135,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie hat sich in ihn verliebt.",
+      "text": "Sie hat sich in ihn *verliebt*.",
       "translations": {
         "ru": "Она влюбилась в него.",
         "zh": "",
@@ -18473,7 +18473,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Arzt hat meinen Termin bestätigt.",
+      "text": "Der Arzt hat meinen Termin *bestätigt*.",
       "translations": {
         "ru": "Врач подтвердил мою запись.",
         "zh": "",
@@ -18889,7 +18889,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich blicke nach draußen.",
+      "text": "Ich *blicke* nach draußen.",
       "translations": {
         "ru": "Я смотрю наружу.",
         "zh": "",
@@ -18915,7 +18915,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er blickt mich erstaunt an.",
+      "text": "Er *blickt* mich erstaunt *an*.",
       "translations": {
         "ru": "Он смотрит на меня удивлённо.",
         "zh": "",
@@ -18941,7 +18941,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich blicke zu ihm auf.",
+      "text": "Ich *blicke* zu ihm *auf*.",
       "translations": {
         "ru": "Я смотрю на него с восхищением.",
         "zh": "",
@@ -18993,7 +18993,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich erblicke den Berg am Horizont.",
+      "text": "Ich *erblicke* den Berg am Horizont.",
       "translations": {
         "ru": "Я замечаю гору на горизонте.",
         "zh": "",
@@ -19019,7 +19019,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich durchblicke das Problem.",
+      "text": "Ich *durchblicke* das Problem.",
       "translations": {
         "ru": "Я понимаю проблему.",
         "zh": "",
@@ -19045,7 +19045,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich überblicke die ganze Stadt.",
+      "text": "Ich *überblicke* die ganze Stadt.",
       "translations": {
         "ru": "Я обозреваю весь город.",
         "zh": "",
@@ -19097,7 +19097,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drücke die Taste.",
+      "text": "Ich *drücke* die Taste.",
       "translations": {
         "ru": "Я нажимаю кнопку.",
         "zh": "",
@@ -19123,7 +19123,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drücke den Auslöser ab.",
+      "text": "Ich *drücke* den Auslöser *ab*.",
       "translations": {
         "ru": "Я нажимаю на спусковой крючок.",
         "zh": "",
@@ -19149,7 +19149,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Drück die Tür auf.",
+      "text": "*Drück* die Tür *auf*.",
       "translations": {
         "ru": "Толкни дверь.",
         "zh": "",
@@ -19175,7 +19175,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drücke die Zitrone aus.",
+      "text": "Ich *drücke* die Zitrone *aus*.",
       "translations": {
         "ru": "Я выжимаю лимон.",
         "zh": "",
@@ -19201,7 +19201,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Wetter bedrückt mich.",
+      "text": "Das Wetter *bedrückt* mich.",
       "translations": {
         "ru": "Погода угнетает меня.",
         "zh": "",
@@ -19227,7 +19227,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er drückt seinen Willen durch.",
+      "text": "Er *drückt* seinen Willen *durch*.",
       "translations": {
         "ru": "Он навязывает свою волю.",
         "zh": "",
@@ -19253,7 +19253,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drücke die Dose ein.",
+      "text": "Ich *drücke* die Dose *ein*.",
       "translations": {
         "ru": "Я вдавливаю банку.",
         "zh": "",
@@ -19279,7 +19279,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Ast erdrückt die Blume.",
+      "text": "Der Ast *erdrückt* die Blume.",
       "translations": {
         "ru": "Ветка раздавливает цветок.",
         "zh": "",
@@ -19305,7 +19305,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er unterdrückt seine Gefühle.",
+      "text": "Er *unterdrückt* seine Gefühle.",
       "translations": {
         "ru": "Он подавляет свои чувства.",
         "zh": "",
@@ -19331,7 +19331,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er verdrückt das Sandwich schnell.",
+      "text": "Er *verdrückt* das Sandwich schnell.",
       "translations": {
         "ru": "Он быстро съедает сэндвич.",
         "zh": "",
@@ -19357,7 +19357,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kind zerdrückt die Tomate.",
+      "text": "Das Kind *zerdrückt* die Tomate.",
       "translations": {
         "ru": "Ребёнок раздавливает помидор.",
         "zh": "",
@@ -19383,7 +19383,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Drück das Buch zu.",
+      "text": "*Drück* das Buch *zu*.",
       "translations": {
         "ru": "Закрой книгу.",
         "zh": "",
@@ -19773,7 +19773,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Schiff treibt auf dem Wasser.",
+      "text": "Das Schiff *treibt* auf dem Wasser.",
       "translations": {
         "ru": "Корабль плывет по воде.",
         "zh": "",
@@ -19799,7 +19799,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Motor treibt den Wagen an.",
+      "text": "Der Motor *treibt* den Wagen *an*.",
       "translations": {
         "ru": "Двигатель ведет машину.",
         "zh": "",
@@ -19825,7 +19825,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe das Buch noch in einem ganz kleinen Laden aufgetrieben.",
+      "text": "Ich habe das Buch noch in einem ganz kleinen Laden *aufgetrieben*.",
       "translations": {
         "ru": "Я купил книгу в очень маленьком магазине.",
         "zh": "",
@@ -19851,7 +19851,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Knecht treibt das Vieh aus.",
+      "text": "Der Knecht *treibt* das Vieh *aus*.",
       "translations": {
         "ru": "Слуга гонит скот.",
         "zh": "",
@@ -19903,7 +19903,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Finanzamt treibt die Steuern ein.",
+      "text": "Das Finanzamt *treibt* die Steuern *ein*.",
       "translations": {
         "ru": "Налоговая служба собирает налоги.",
         "zh": "",
@@ -19929,7 +19929,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Junge trieb sich stundenlang im Hafen herum.",
+      "text": "Der Junge *trieb* sich stundenlang im Hafen *herum*.",
       "translations": {
         "ru": "Мальчик часами слонялся по гавани.",
         "zh": "",
@@ -19981,7 +19981,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Partner treibt gern quer.",
+      "text": "Mein Partner *treibt* gern *quer*.",
       "translations": {
         "ru": "Мой партнер любит водить машину по доске.",
         "zh": "",
@@ -20007,7 +20007,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Geschäftsführer übertrieb seine Höflichkeit.",
+      "text": "Der Geschäftsführer *übertrieb* seine Höflichkeit.",
       "translations": {
         "ru": "Управляющий преувеличил свою вежливость.",
         "zh": "",
@@ -20059,7 +20059,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Bauherr trieb die Arbeit mit großem Eifer voran.",
+      "text": "Der Bauherr *trieb* die Arbeit mit großem Eifer *voran*.",
       "translations": {
         "ru": "Заказчик с энтузиазмом продвигал работу.",
         "zh": "",
@@ -20137,7 +20137,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich benutze meinen Computer jeden Tag.",
+      "text": "Ich *benutze* meinen Computer jeden Tag.",
       "translations": {
         "ru": "Я пользуюсь своим компьютером каждый день.",
         "zh": "",
@@ -20163,7 +20163,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Sturm droht.",
+      "text": "Der Sturm *droht*.",
       "translations": {
         "ru": "Надвигается шторм.",
         "zh": "",
@@ -20189,7 +20189,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er droht mir mit Strafe.",
+      "text": "Er *droht* mir Strafe *an*.",
       "translations": {
         "ru": "Он угрожает мне наказанием.",
         "zh": "",
@@ -20215,7 +20215,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Hund bedroht die Katze.",
+      "text": "Der Hund *bedroht* die Katze.",
       "translations": {
         "ru": "Собака угрожает кошке.",
         "zh": "",
@@ -20475,7 +20475,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir haben ein neues Café entdeckt.",
+      "text": "Wir haben ein neues Cafe *entdeckt*.",
       "translations": {
         "ru": "Мы открыли новое кафе.",
         "zh": "",
@@ -20553,7 +20553,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Fieber kligt ab.",
+      "text": "Das Fieber *kligt ab*.",
       "translations": {
         "ru": "Лихорадка спадает.",
         "zh": "",
@@ -20579,7 +20579,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Diese Melodie klingt an eine andere an.",
+      "text": "Diese Melodie *klingt* an eine andere *an*.",
       "translations": {
         "ru": "Эта мелодия напоминает другую.",
         "zh": "",
@@ -20605,7 +20605,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bei diesem Gespräch hat seine Verstimmung durchgeklungen.",
+      "text": "Bei diesem Gespräch hat seine Verstimmung *durchgeklungen*.",
       "translations": {
         "ru": "Во время этого разговора его негодование было заметно.",
         "zh": "",
@@ -20631,7 +20631,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ein Lied erklingt.",
+      "text": "Ein Lied *erklingt*.",
       "translations": {
         "ru": "Звучит песня.",
         "zh": "",
@@ -20657,7 +20657,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Allmählich verklang das Läuten der Glocken.",
+      "text": "Allmählich *verklang* das Läuten der Glocken.",
       "translations": {
         "ru": "Постепенно колокольный звон стих.",
         "zh": "",
@@ -20683,7 +20683,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie reagierte schnell auf die Nachricht.",
+      "text": "Sie *reagierte* schnell auf die Nachricht.",
       "translations": {
         "ru": "Она быстро отреагировала на новость.",
         "zh": "",
@@ -20865,7 +20865,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das kostet viel Geld.",
+      "text": "Das *kostet* viel Geld.",
       "translations": {
         "ru": "Это стоит много денег.",
         "zh": "",
@@ -20891,7 +20891,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er kostet den Urlaub aus.",
+      "text": "Er *kostet* den Urlaub *aus*.",
       "translations": {
         "ru": "Он наслаждается отпуском сполна.",
         "zh": "",
@@ -21125,7 +21125,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drehe den Schlüssel im Schloss.",
+      "text": "Ich *drehe* den Schlüssel im Schloss.",
       "translations": {
         "ru": "Я поворачиваю ключ в замке.",
         "zh": "",
@@ -21151,7 +21151,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dreh den Wasserhahn ab.",
+      "text": "*Dreh* den Wasserhahn *ab*.",
       "translations": {
         "ru": "Закрой кран.",
         "zh": "",
@@ -21203,7 +21203,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drehe das Licht auf.",
+      "text": "Ich *drehe* das Licht *auf*.",
       "translations": {
         "ru": "Я включаю свет.",
         "zh": "",
@@ -21229,7 +21229,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er dreht die Flasche aus.",
+      "text": "Er *dreht* die Flasche *aus*.",
       "translations": {
         "ru": "Он откручивает бутылку.",
         "zh": "",
@@ -21255,7 +21255,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Maschine dreht durch.",
+      "text": "Die Maschine *dreht durch*.",
       "translations": {
         "ru": "Машина выходит из строя / «сходит с ума».",
         "zh": "",
@@ -21281,7 +21281,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich drehe die Schraube ein.",
+      "text": "Ich *drehe* die Schraube *ein*.",
       "translations": {
         "ru": "Я ввинчиваю винт.",
         "zh": "",
@@ -21307,7 +21307,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dreh die Schraube nicht zu fest, sonst überdrehst du sie.",
+      "text": "Dreh die Schraube nicht zu fest, sonst *überdrehst* du sie.",
       "translations": {
         "ru": "Не закручивай винт слишком сильно, иначе сорвёшь его.",
         "zh": "",
@@ -21333,7 +21333,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dreh das Blatt um.",
+      "text": "*Dreh* das Blatt *um*.",
       "translations": {
         "ru": "Переверни лист.",
         "zh": "",
@@ -21359,7 +21359,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat das Seil verdreht.",
+      "text": "Er hat das Seil *verdreht*.",
       "translations": {
         "ru": "Он перекрутил верёвку.",
         "zh": "",
@@ -21385,7 +21385,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dreh das Ventil zu.",
+      "text": "*Dreh* das Ventil *zu*.",
       "translations": {
         "ru": "Закрой вентиль.",
         "zh": "",
@@ -21541,7 +21541,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Liebe und Hass sind Gegensätze.",
+      "text": "Liebe und Hass sind *Gegensätze*.",
       "translations": {
         "ru": "Любовь и ненависть — противоположности.",
         "zh": "",
@@ -21905,7 +21905,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Nachricht hat mich überrascht.",
+      "text": "Die Nachricht hat mich *überrascht*.",
       "translations": {
         "ru": "Новость меня удивила.",
         "zh": "",
@@ -22035,7 +22035,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bin nach Holland geflogen.",
+      "text": "Ich bin nach Holland *geflogen*.",
       "translations": {
         "ru": "Я улетел в Голландию.",
         "zh": "",
@@ -22061,7 +22061,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Flugzeug ist pünktlich abgeflogen.",
+      "text": "Das Flugzeug ist pünktlich *abgeflogen*.",
       "translations": {
         "ru": "Самолет улетел вовремя.",
         "zh": "",
@@ -22087,7 +22087,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir fliegen Frankfurt an.",
+      "text": "Wir *fliegen* Frankfurt *an*.",
       "translations": {
         "ru": "Мы прилетели во Франкфурт.",
         "zh": "",
@@ -22113,7 +22113,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Tauben fliegen auf.",
+      "text": "Die Tauben *fliegen auf*.",
       "translations": {
         "ru": "Голуби взлетели.",
         "zh": "",
@@ -22139,7 +22139,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die ganze Familie ist ausgeflogen.",
+      "text": "Die ganze Familie ist *ausgeflogen*.",
       "translations": {
         "ru": "Вся семья ушла из дома.",
         "zh": "",
@@ -22165,7 +22165,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Fluggesellschaft befliegt die Strecke Paris - New York.",
+      "text": "Die Fluggesellschaft *befliegt* die Strecke Paris - New York.",
       "translations": {
         "ru": "Авиакомпания летает по маршруту Париж - Нью Йорк.",
         "zh": "",
@@ -22191,7 +22191,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Maschine hat die Wolkendecke durchflogen.",
+      "text": "Die Maschine hat die Wolkendecke *durchflogen*.",
       "translations": {
         "ru": "Машина (самолет) пролетела слой облаков.",
         "zh": "",
@@ -22217,7 +22217,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Vogel ist entflogen.",
+      "text": "Der Vogel ist *entflogen*.",
       "translations": {
         "ru": "Птица улетела.",
         "zh": "",
@@ -22243,7 +22243,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Flugzeug überfliegt die Stadt.",
+      "text": "Das Flugzeug *überfliegt* die Stadt.",
       "translations": {
         "ru": "Самолет облетает город.",
         "zh": "",
@@ -22269,7 +22269,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Nebel verflog.",
+      "text": "Der Nebel *verflog*.",
       "translations": {
         "ru": "Туман рассеялся.",
         "zh": "",
@@ -22295,7 +22295,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ein Vogel fliegt vorbei.",
+      "text": "Ein Vogel *fliegt vorbei*.",
       "translations": {
         "ru": "Птица пролетает мимо.",
         "zh": "",
@@ -22321,7 +22321,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Tür flog zu.",
+      "text": "Die Tür *flog zu*.",
       "translations": {
         "ru": "Дверь быстро захлопнулась.",
         "zh": "",
@@ -22347,7 +22347,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Mutter hob das Kind in den Kinderwagen.",
+      "text": "Die Mutter *hob* das Kind in den Kinderwagen.",
       "translations": {
         "ru": "Мать подняла ребенка в коляску.",
         "zh": "",
@@ -22399,7 +22399,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Produktion von Stahlwaren wurde leicht angehoben.",
+      "text": "Die Produktion von Stahlwaren wurde leicht *angehoben*.",
       "translations": {
         "ru": "Незначительно увеличилось производство металлопродукции.",
         "zh": "",
@@ -22425,7 +22425,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich hebe alle Ansichtskarten auf, die ich bekomme.",
+      "text": "Ich *hebe* alle Ansichtskarten *auf*, die ich bekomme.",
       "translations": {
         "ru": "Я храню все полученные открытки.",
         "zh": "",
@@ -22451,7 +22451,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Polizei hob eine Verbrecherbande aus.",
+      "text": "Die Polizei *hob* eine Verbrecherbande *aus*.",
       "translations": {
         "ru": "Полиция обнаружила банду преступников.",
         "zh": "",
@@ -22477,7 +22477,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Handwerker behob den Schaden.",
+      "text": "Der Handwerker *behob* den Schaden.",
       "translations": {
         "ru": "Мастер устранил повреждение.",
         "zh": "",
@@ -22503,7 +22503,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Regierungsrat wurde seines Amtes enthoben.",
+      "text": "Der Regierungsrat wurde seines Amtes *enthoben*.",
       "translations": {
         "ru": "Правительственный совет был отстранен от должности.",
         "zh": "",
@@ -22529,7 +22529,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Dichter wurde in den Adelsstand erhoben.",
+      "text": "Der Dichter wurde in den Adelsstand *erhoben*.",
       "translations": {
         "ru": "Поэт был возведен в дворянство.",
         "zh": "",
@@ -22555,7 +22555,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Zu Ende seiner Rede hob der Redner die wichtigsten Punkte noch ein mal hervor.",
+      "text": "Zu Ende seiner Rede *hob* der Redner die wichtigsten Punkte noch ein mal *hervor*.",
       "translations": {
         "ru": "В конце своего выступления спикер еще раз подчеркнул самые важные моменты.",
         "zh": "",
@@ -22685,7 +22685,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Seine barsche Art hat mich abgestoßen.",
+      "text": "Seine barsche Art hat mich *abgestoßen*.",
       "translations": {
         "ru": "Его грубые манеры оттолкнули меня.",
         "zh": "",
@@ -22711,7 +22711,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Junge stößt mit der Zunge an.",
+      "text": "Der Junge *stößt* mit der Zunge *an*.",
       "translations": {
         "ru": "Мальчик подталкивает языком.",
         "zh": "",
@@ -22737,7 +22737,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Fußballspieler wurde aus seinem Verein ausgestoßen.",
+      "text": "Der Fußballspieler wurde aus seinem Verein *ausgestoßen*.",
       "translations": {
         "ru": "Футболиста выгнали из клуба.",
         "zh": "",
@@ -22763,7 +22763,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Feind durchstieß die Front.",
+      "text": "Der Feind *durchstieß* die Front.",
       "translations": {
         "ru": "Противник пробил фронт.",
         "zh": "",
@@ -22841,7 +22841,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Expedition stieß in unbekannte Gebiete vor.",
+      "text": "Die Expedition *stieß* in unbekannte Gebiete *vor*.",
       "translations": {
         "ru": "Экспедиция продвинулась в неизведанные районы.",
         "zh": "",
@@ -22867,7 +22867,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Freund stieß die Hand der Versöhnung zurück.",
+      "text": "Mein Freund *stieß* die Hand der Versöhnung *zurück*.",
       "translations": {
         "ru": "Мой друг убрал руку примирения.",
         "zh": "",
@@ -22893,7 +22893,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "An der Ecke stieß ein Auto mit einer Straßenbahn zusammen.",
+      "text": "An der Ecke *stieß* ein Auto mit einer Straßenbahn *zusammen*.",
       "translations": {
         "ru": "На углу машина врезалась в трамвай.",
         "zh": "",
@@ -22919,7 +22919,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Junge stieß die Tür zu.",
+      "text": "Der Junge *stieß* die Tür *zu*.",
       "translations": {
         "ru": "Мальчик хлопнул дверью.",
         "zh": "",
@@ -23075,7 +23075,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Projekt ermöglicht neue Chancen.",
+      "text": "Das Projekt *ermöglicht* neue Chancen.",
       "translations": {
         "ru": "Проект открывает новые возможности.",
         "zh": "",
@@ -23231,7 +23231,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kranke leidet großen Durst.",
+      "text": "Der Kranke *leidet* großen Durst.",
       "translations": {
         "ru": "Пациент очень хочет пить.",
         "zh": "",
@@ -23257,7 +23257,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der geschäftsmann hat einen Schaden erlitten.",
+      "text": "Der geschäftsmann hat einen Schaden *erlitten*.",
       "translations": {
         "ru": "Предпринимателю нанесен ущерб.",
         "zh": "",
@@ -23283,7 +23283,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Brief verleidet mir die Freude an der Reise.",
+      "text": "Der Brief *verleidet* mir die Freude an der Reise.",
       "translations": {
         "ru": "Письмо портит мне радость в пути.",
         "zh": "",
@@ -23335,7 +23335,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich schicke dir die Unterlagen per E-Mail.",
+      "text": "Ich *schicke* dir die Unterlagen per E-Mail.",
       "translations": {
         "ru": "Я отправляю тебе документы по электронной почте.",
         "zh": "",
@@ -23361,7 +23361,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte schicke den Brief noch heute ab.",
+      "text": "Bitte *schicke* den Brief noch heute *ab*.",
       "translations": {
         "ru": "Пожалуйста, отправь письмо ещё сегодня.",
         "zh": "",
@@ -23387,7 +23387,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma schickt die Pakete weltweit aus.",
+      "text": "Die Firma *schickt* die Pakete weltweit *aus*.",
       "translations": {
         "ru": "Компания отправляет посылки по всему миру.",
         "zh": "",
@@ -23413,7 +23413,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe den Aufsatz zur Korrektur eingeschickt.",
+      "text": "Ich habe den Aufsatz zur Korrektur *eingeschickt*.",
       "translations": {
         "ru": "Я отправил эссе на проверку.",
         "zh": "",
@@ -23439,7 +23439,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie verschickt die Einladungen rechtzeitig.",
+      "text": "Sie *verschickt* die Einladungen rechtzeitig.",
       "translations": {
         "ru": "Она рассылает приглашения вовремя.",
         "zh": "",
@@ -23465,7 +23465,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kurier wurde vorausgeschickt, um die Pakete zu liefern.",
+      "text": "Der Kurier wurde *vorausgeschickt*, um die Pakete zu liefern.",
       "translations": {
         "ru": "Курьер был отправлен вперёд, чтобы доставить посылки.",
         "zh": "",
@@ -23569,7 +23569,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Unter diesen Umständen ist es schwierig.",
+      "text": "Unter diesen *Umständen* ist es schwierig.",
       "translations": {
         "ru": "При таких обстоятельствах это трудно.",
         "zh": "",
@@ -23621,7 +23621,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich wechsle die Schuhe.",
+      "text": "Ich *wechsle* die Schuhe.",
       "translations": {
         "ru": "Я переобуваюсь.",
         "zh": "",
@@ -23647,7 +23647,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie wechseln sich bei der Arbeit ab.",
+      "text": "Sie *wechseln* sich bei der Arbeit *ab*.",
       "translations": {
         "ru": "Они сменяют друг друга на работе.",
         "zh": "",
@@ -23673,7 +23673,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er hat die Glühbirne ausgewechselt.",
+      "text": "Er hat die Glühbirne *ausgewechselt*.",
       "translations": {
         "ru": "Он заменил лампочку.",
         "zh": "",
@@ -23699,7 +23699,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Trainer wechselte einen neuen Spieler ein.",
+      "text": "Der Trainer *wechselte* einen neuen Spieler *ein*.",
       "translations": {
         "ru": "Тренер выпустил нового игрока.",
         "zh": "",
@@ -23725,7 +23725,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Spieler wechselte in eine andere Mannschaft über.",
+      "text": "Der Spieler *wechselte* in eine andere Mannschaft *über*.",
       "translations": {
         "ru": "Игрок перешёл в другую команду.",
         "zh": "",
@@ -23777,7 +23777,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich habe die beiden Zwillinge verwechselt.",
+      "text": "Ich habe die beiden Zwillinge *verwechselt*.",
       "translations": {
         "ru": "Я перепутал двух близнецов.",
         "zh": "",
@@ -23907,7 +23907,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Firma liefert die Ware pünktlich.",
+      "text": "Die Firma *liefert* die Ware pünktlich.",
       "translations": {
         "ru": "Фирма доставляет товар вовремя.",
         "zh": "",
@@ -23933,7 +23933,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kurier liefert das Paket ab.",
+      "text": "Der Kurier *liefert* das Paket *ab*.",
       "translations": {
         "ru": "Курьер доставляет посылку.",
         "zh": "",
@@ -23959,7 +23959,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Land lieferte den Verbrecher aus.",
+      "text": "Das Land *lieferte* den Verbrecher *aus*.",
       "translations": {
         "ru": "Страна выдала преступника.",
         "zh": "",
@@ -23985,7 +23985,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Supermarkt beliefert die Filialen täglich.",
+      "text": "Der Supermarkt *beliefert* die Filialen täglich.",
       "translations": {
         "ru": "Супермаркет снабжает филиалы ежедневно.",
         "zh": "",
@@ -24011,7 +24011,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Patient wurde ins Krankenhaus eingeliefert.",
+      "text": "Der Patient wurde ins Krankenhaus *eingeliefert*.",
       "translations": {
         "ru": "Пациент был доставлен в больницу.",
         "zh": "",
@@ -24037,7 +24037,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Geschichte wird von Generation zu Generation überliefert.",
+      "text": "Die Geschichte wird von Generation zu Generation *überliefert*.",
       "translations": {
         "ru": "История передаётся из поколения в поколение.",
         "zh": "",
@@ -24141,7 +24141,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich zahle die Rechnung.",
+      "text": "Ich *zahle* die Rechnung.",
       "translations": {
         "ru": "Я оплачиваю счёт.",
         "zh": "",
@@ -24167,7 +24167,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er zahlt das Darlehen in Raten ab.",
+      "text": "Er *zahlt* das Darlehen in Raten *ab*.",
       "translations": {
         "ru": "Он выплачивает кредит частями.",
         "zh": "",
@@ -24193,9 +24193,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir haben eine Anzahlung für das Auto geleistet.",
+      "text": "Ich *zahle* das Auto *an*.",
       "translations": {
-        "ru": "Мы внесли аванс за машину.",
+        "ru": "Я вношу предоплату за машину.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24219,7 +24219,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Bank zahlt das Geld aus.",
+      "text": "Die Bank *zahlt* das Geld *aus*.",
       "translations": {
         "ru": "Банк выплачивает деньги.",
         "zh": "",
@@ -24271,7 +24271,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich zahle jeden Monat auf mein Sparbuch ein.",
+      "text": "Ich *zahle* jeden Monat auf mein Sparbuch *ein*.",
       "translations": {
         "ru": "Я ежемесячно вношу деньги на сберкнижку.",
         "zh": "",
@@ -24453,7 +24453,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er stammt aus Berlin.",
+      "text": "Er *stammt* aus Berlin.",
       "translations": {
         "ru": "Он родом из Берлина.",
         "zh": "",
@@ -24479,7 +24479,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Familie stammt von alten Adligen ab.",
+      "text": "Die Familie *stammt* von alten Adligen *ab*.",
       "translations": {
         "ru": "Семья происходит от старых аристократов.",
         "zh": "",
@@ -24661,7 +24661,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich reise gern nach Italien.",
+      "text": "Ich *reise* gern nach Italien.",
       "translations": {
         "ru": "Я люблю путешествовать в Италию.",
         "zh": "",
@@ -24687,7 +24687,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Chef hat das Loblied seiner Sekretärin gesungen.",
+      "text": "Der Chef hat das Loblied seiner Sekretärin *gesungen*.",
       "translations": {
         "ru": "Начальник воспевал свою секретаршу.",
         "zh": "",
@@ -24713,7 +24713,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Lied besingt den Frühling.",
+      "text": "Das Lied *besingt* den Frühling.",
       "translations": {
         "ru": "Песня поет о весне.",
         "zh": "",
@@ -24739,7 +24739,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das kleine Mädchen singt der Tante ein Lied vor.",
+      "text": "Das kleine Mädchen *singt* der Tante ein Lied *vor*.",
       "translations": {
         "ru": "Маленькая девочка поет песню для своей тети.",
         "zh": "",
@@ -24869,7 +24869,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der alte Herr greift nach seinem Hut.",
+      "text": "Der alte Herr *greift* nach seinem Hut.",
       "translations": {
         "ru": "Старый мужчина схватил свою шляпу.",
         "zh": "",
@@ -24895,7 +24895,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der feind greift an.",
+      "text": "Der feind *greift an*.",
       "translations": {
         "ru": "Враг атакует.",
         "zh": "",
@@ -24947,7 +24947,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Schüler begreift die Regel nicht.",
+      "text": "Der Schüler *begreift* die Regel nicht.",
       "translations": {
         "ru": "Студент не понимает правила.",
         "zh": "",
@@ -24973,7 +24973,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Polizei hat durchgegriffen.",
+      "text": "Die Polizei hat *durchgegriffen*.",
       "translations": {
         "ru": "Полиция приняла меры.",
         "zh": "",
@@ -24999,7 +24999,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Chef der Firma greift ein.",
+      "text": "Der Chef der Firma *greift ein*.",
       "translations": {
         "ru": "Вмешивается босс компании.",
         "zh": "",
@@ -25025,7 +25025,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Polizist hat sein Notizbuch ergriffen.",
+      "text": "Der Polizist hat sein Notizbuch *ergriffen*.",
       "translations": {
         "ru": "Полицейский схватил свой блокнот.",
         "zh": "",
@@ -25051,7 +25051,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Streik greift auf weitere Fabriken über.",
+      "text": "Der Streik *greift* auf weitere Fabriken *über*.",
       "translations": {
         "ru": "Забастовка распространяется и на другие предприятия.",
         "zh": "",
@@ -25077,7 +25077,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Gitarrist hat sich mehrmals vergriffen.",
+      "text": "Der Gitarrist hat sich mehrmals *vergriffen*.",
       "translations": {
         "ru": "Гитарист проиграл много фальшивых нот.",
         "zh": "",
@@ -25103,7 +25103,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bitte, greifen Sie nicht vor.",
+      "text": "Bitte, *greifen* Sie nicht *vor*.",
       "translations": {
         "ru": "Пожалуйста, не опережайте время.",
         "zh": "",
@@ -25129,7 +25129,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Greifen Sie zu!",
+      "text": "*Greifen* Sie *zu*!",
       "translations": {
         "ru": "Возьми это!",
         "zh": "",
@@ -25597,7 +25597,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich koche Suppe.",
+      "text": "Ich *koche* Suppe.",
       "translations": {
         "ru": "Я варю суп.",
         "zh": "",
@@ -25649,7 +25649,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie kocht die Wäsche aus.",
+      "text": "Sie *kocht* die Wäsche *aus*.",
       "translations": {
         "ru": "Она вываривает бельё.",
         "zh": "",
@@ -25675,7 +25675,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie kocht Obst ein.",
+      "text": "Sie *kocht* Obst *ein*.",
       "translations": {
         "ru": "Она делает консервы из фруктов.",
         "zh": "",
@@ -25701,7 +25701,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Milch kocht über.",
+      "text": "Die Milch *kocht über*.",
       "translations": {
         "ru": "Молоко убегает.",
         "zh": "",
@@ -25727,7 +25727,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie verkocht das ganze Geld.",
+      "text": "Sie *verkocht* das ganze Geld.",
       "translations": {
         "ru": "Она тратит все деньги на еду.",
         "zh": "",
