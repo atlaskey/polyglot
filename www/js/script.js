@@ -123,8 +123,8 @@ class page {
       const item = this.currentData?.find(e => e.sentence.text === text);
       
       if (item) {
-        const fname = item => String(item.id).padStart(4, '0');
-        const audioUrl = `/audio/${this.studyLang}/${fname}.mp3`;
+        const fname = (obj) => String(obj.id).padStart(4, '0');
+        const audioUrl = `/audio/${this.studyLang}/${fname(item)}.mp3`;
         const response = await fetch(audioUrl, { method: 'HEAD' });
         
         if (response.ok) {
