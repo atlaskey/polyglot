@@ -103,15 +103,6 @@ class page {
     this.renderTable();
   }
   
-  /*
-  speak(text) {
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(this.removeStars(text));
-    utterance.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
-    window.speechSynthesis.speak(utterance);
-  }
-  */
-  
   async speak(text) {
     window.speechSynthesis.cancel();
     if (this.currentAudio) {
