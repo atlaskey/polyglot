@@ -12,6 +12,8 @@ class page {
   recognition = null
   isRecording = false
   isConnected = false
+
+  currentAudio = null;
   
   async setLevel(value, element) {
     this.currentLevel = value;
@@ -101,12 +103,49 @@ class page {
     this.renderTable();
   }
   
+  /*
   speak(text) {
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(this.removeStars(text));
     utterance.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
     window.speechSynthesis.speak(utterance);
   }
+  */
+  
+  async speak(text) {
+    window.speechSynthesis.cancel();
+    if (this.currentAudio) {
+      this.currentAudio.pause();
+      this.currentAudio.currentTime = 0;
+    }
+    
+    try {
+      const item = this.currentData?.find(e => e.sentence.text === text);
+      
+      if (item) {
+        const fname = item => String(item.id).padStart(4, '0');
+        const audioUrl = `/audio/${this.studyLang}/${fname}.mp3`;
+        const response = await fetch(audioUrl, { method: 'HEAD' });
+        
+        if (response.ok) {
+          this.currentAudio = new Audio(audioUrl);
+          await this.currentAudio.play();
+          return;
+        }
+      }
+      this.synthSpeech(text);
+    } catch (error) {
+      this.synthSpeech(text);
+    }
+  }
+  
+  synthSpeech(text) {
+    const cleanText = this.removeStars(text);
+    const utterance = new SpeechSynthesisUtterance(cleanText);
+    utterance.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
+    window.speechSynthesis.speak(utterance);
+  }
+
   
   startPlay() {
     this.playQueue = this.currentData.filter(item => !item.learned);
