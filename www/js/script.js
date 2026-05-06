@@ -136,7 +136,6 @@ class page {
     utterance.lang = this.studyLang === 'en' ? 'en-US' : 'de-DE';
     window.speechSynthesis.speak(utterance);
   }
-
   
   startPlay() {
     this.playQueue = this.currentData.filter(item => !item.learned);
