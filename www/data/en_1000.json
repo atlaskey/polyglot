@@ -273,7 +273,7 @@
       "hi": "पढ़ना"
     },
     "sentence": {
-      "text": "I studied biology before going into medicine.",
+      "text": "I *studied* biology before going into medicine.",
       "translations": {
         "ru": "Я изучал биологию перед тем, как поступить в медицину.",
         "zh": "我在学医学之前学过生物。",
