@@ -149,6 +149,8 @@ class page {
   
   stopPlay() {
     this.isPlaying = false;
+    this.isPaused = false;
+    $('#pauseIcon').text('pause');
     clearTimeout(this.playTimer);
     $('#playModal').modal('hide');
   }
@@ -171,8 +173,10 @@ class page {
     const regex = new RegExp(`(${item.word})`, 'gi');
     $('#playSentence').html(this.highlightSentence(item.sentence.text, item.word));
     $('#playTranslation').text(item.sentence.translations[this.nativeLang]);
+    $('#markLearnedBtn').removeClass('btn-outline-success').addClass('btn-outline-danger');
     
     $('#markLearnedBtn').off('click').on('click', () => {
+      $('#markLearnedBtn').removeClass('btn-outline-danger').addClass('btn-outline-success');
       if (this.playTimer) clearTimeout(this.playTimer);
       item.learned = true;
       this.saveLearned(item.id,true)
