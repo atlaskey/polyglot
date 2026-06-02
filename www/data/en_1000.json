@@ -4383,7 +4383,7 @@
     "sentence": {
       "text": "Swimming is my favorite sport.",
       "translations": {
-        "ru": "Плавание — мой любимый спорт.",
+        "ru": "Плавание - мой любимый спорт.",
         "zh": "游泳是我最喜欢的运动。",
         "es": "Nadar es mi deporte favorito.",
         "fr": "La natation est mon sport préféré.",
@@ -4461,7 +4461,7 @@
     "sentence": {
       "text": "Your father is a businessman.",
       "translations": {
-        "ru": "Тво отец — бизнесмен.",
+        "ru": "Тво отец - бизнесмен.",
         "zh": "你父亲是商人。",
         "es": "Tu padre es un empresario.",
         "fr": "Ton père est un homme d’affaires.",
@@ -7711,7 +7711,7 @@
     "sentence": {
       "text": "Cooking is my hobby.",
       "translations": {
-        "ru": "Готовка — моё хобби.",
+        "ru": "Готовка - моё хобби.",
         "zh": "做饭是我的爱好。",
         "es": "Cocinar es mi hobby.",
         "fr": "Cuisiner est mon hobby.",
@@ -7945,7 +7945,7 @@
     "sentence": {
       "text": "The cat is my pet.",
       "translations": {
-        "ru": "Кот — мой питомец.",
+        "ru": "Кот - мой питомец.",
         "zh": "猫是我的宠物。",
         "es": "El gato es mi mascota.",
         "fr": "Le chat est mon animal de compagnie.",
@@ -7971,7 +7971,7 @@
     "sentence": {
       "text": "Teaching is her profession.",
       "translations": {
-        "ru": "Преподавание — её профессия.",
+        "ru": "Преподавание - её профессия.",
         "zh": "教学是她的职业。",
         "es": "La enseñanza es su profesión.",
         "fr": "L’enseignement est sa profession.",
@@ -14743,8 +14743,8 @@
   },
   {
     "id": 568,
-    "word": "opprtunity",
-    "transcription": "/ˌɒpərˈtjuːnɪti/",
+    "word": "opportunity",
+    "transcription": "/ˌɑːpərˈtuːnəti/",
     "translations": {
       "ru": "возможность",
       "zh": "机会",
@@ -15407,7 +15407,7 @@
     "sentence": {
       "text": "Friday is my favorite day.",
       "translations": {
-        "ru": "Пятница — мой любимый день.",
+        "ru": "Пятница - мой любимый день.",
         "zh": "星期五是我最喜欢的日子。",
         "es": "El viernes es mi día favorito.",
         "fr": "Vendredi est mon jour préféré.",
@@ -15549,8 +15549,8 @@
   },
   {
     "id": 599,
-    "word": "Saterday",
-    "transcription": "/ˈsætərdeɪ/",
+    "word": "Saturday",
+    "transcription": "/ˈsætədeɪ/",
     "translations": {
       "ru": "суббота",
       "zh": "星期六",
@@ -15615,7 +15615,7 @@
     "sentence": {
       "text": "Sunday is for rest.",
       "translations": {
-        "ru": "Воскресенье — день отдыха.",
+        "ru": "Воскресенье - день отдыха.",
         "zh": "星期日是休息日。",
         "es": "El domingo es para descansar.",
         "fr": "Le dimanche est pour se reposer.",
@@ -15641,7 +15641,7 @@
     "sentence": {
       "text": "Thursday is a busy day.",
       "translations": {
-        "ru": "Четверг — занятой день.",
+        "ru": "Четверг - занятой день.",
         "zh": "星期四是忙碌的一天。",
         "es": "El jueves es un día ocupado.",
         "fr": "Jeudi est une journée chargée.",
@@ -15693,7 +15693,7 @@
     "sentence": {
       "text": "Wednesday is the middle of the week.",
       "translations": {
-        "ru": "Среда — середина недели.",
+        "ru": "Среда - середина недели.",
         "zh": "星期三是一周的中间。",
         "es": "El miércoles es la mitad de la semana.",
         "fr": "Mercredi est le milieu de la semaine.",
@@ -16759,7 +16759,7 @@
     "sentence": {
       "text": "My aim is to learn English.",
       "translations": {
-        "ru": "Моя цель — изучать английский.",
+        "ru": "Моя цель - изучать английский.",
         "zh": "我的目标是学英语。",
         "es": "Mi objetivo es aprender inglés.",
         "fr": "Mon but est d’apprendre l’anglais.",
@@ -17123,7 +17123,7 @@
     "sentence": {
       "text": "Blue is my favorite color.",
       "translations": {
-        "ru": "Синий — мой любимый цвет.",
+        "ru": "Синий - мой любимый цвет.",
         "zh": "蓝色是我最喜欢的颜色。",
         "es": "El azul es mi color favorito.",
         "fr": "Le bleu est ma couleur préférée.",
@@ -17591,7 +17591,7 @@
     "sentence": {
       "text": "India is a large country.",
       "translations": {
-        "ru": "Индия — большая страна.",
+        "ru": "Индия - большая страна.",
         "zh": "印度是一个大国。",
         "es": "India es un país grande.",
         "fr": "L’Inde est un grand pays.",
@@ -17643,7 +17643,7 @@
     "sentence": {
       "text": "My brother is a lawyer.",
       "translations": {
-        "ru": "Мой брат — юрист.",
+        "ru": "Мой брат - юрист.",
         "zh": "我哥哥是律师。",
         "es": "Mi hermano es abogado.",
         "fr": "Mon frère est avocat.",
@@ -19541,7 +19541,7 @@
     "sentence": {
       "text": "Hard work is a factor in success.",
       "translations": {
-        "ru": "Усердная работа — фактор успеха.",
+        "ru": "Усердная работа - фактор успеха.",
         "zh": "努力工作是成功的因素。",
         "es": "El trabajo duro es un factor de éxito.",
         "fr": "Le travail acharné est un facteur de succès.",
@@ -20347,7 +20347,7 @@
     "sentence": {
       "text": "Knowledge is power.",
       "translations": {
-        "ru": "Знание — сила.",
+        "ru": "Знание - сила.",
         "zh": "知识就是力量。",
         "es": "El conocimiento es poder.",
         "fr": "Le savoir est le pouvoir.",
@@ -23623,7 +23623,7 @@
     "sentence": {
       "text": "Reading is my hobby.",
       "translations": {
-        "ru": "Чтение — моё хобби.",
+        "ru": "Чтение - моё хобби.",
         "zh": "阅读是我的爱好。",
         "es": "Leer es mi pasatiempo.",
         "fr": "Lire est mon hobby.",
@@ -23727,7 +23727,7 @@
     "sentence": {
       "text": "Learning is fun.",
       "translations": {
-        "ru": "Учёба — это весело.",
+        "ru": "Учёба - это весело.",
         "zh": "学习很有趣。",
         "es": "Aprender es divertido.",
         "fr": "Apprendre est amusant.",
@@ -24169,7 +24169,7 @@
     "sentence": {
       "text": "Earth is our planet.",
       "translations": {
-        "ru": "Земля — наша планета.",
+        "ru": "Земля - наша планета.",
         "zh": "地球是我们的星球。",
         "es": "La Tierra es nuestro planeta.",
         "fr": "La Terre est notre planète.",
@@ -24897,7 +24897,7 @@
     "sentence": {
       "text": "Healthy eating is a good lifestyle.",
       "translations": {
-        "ru": "Правильное питание — хороший образ жизни.",
+        "ru": "Правильное питание - хороший образ жизни.",
         "zh": "健康饮食是良好的生活方式。",
         "es": "Comer saludable es un buen estilo de vida.",
         "fr": "Manger sainement est un bon mode de vie.",
@@ -25313,7 +25313,7 @@
     "sentence": {
       "text": "Sugar is an ingredient in this cake.",
       "translations": {
-        "ru": "Сахар — ингредиент этого пирога.",
+        "ru": "Сахар - ингредиент этого пирога.",
         "zh": "糖是这块蛋糕的原料。",
         "es": "El azúcar es un ingrediente en este pastel.",
         "fr": "Le sucre est un ingrédient dans ce gâteau.",
