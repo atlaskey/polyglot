@@ -8645,7 +8645,7 @@
       "hi": "उड़ान"
     },
     "sentence": {
-      "text": "Our flight was delayed because of heavy snow at airport.",
+      "text": "Our flight was delayed because of heavy snow at the airport.",
       "translations": {
         "ru": "Наш рейс задержали из-за сильного снегопада в аэропорту.",
         "zh": "由于机场大雪，我们的航班延误了。",
@@ -9647,7 +9647,7 @@
   },
   {
     "id": 1372,
-    "word": "the authorities",
+    "word": "authorities",
     "transcription": "/ði ɔːˈθɔːrətiz/",
     "translations": {
       "ru": "власти",
