@@ -11401,15 +11401,15 @@
       "hi": "मनाना"
     },
     "sentence": {
-      "text": "I will convince him.",
+      "text": "I will try to convince him.",
       "translations": {
-        "ru": "Я убедю его.",
-        "zh": "我会说服他。",
-        "es": "Lo convenceré.",
-        "fr": "Je vais le convaincre.",
-        "ar": "سوف أقنعه.",
-        "pt": "Eu vou convencer ele.",
-        "hi": "मैं उसे मनाऊँगा।"
+        "ru": "Я постараюсь его убедить.",
+        "zh": "我會試著說服他。",
+        "es": "Intentaré convencerlo.",
+        "fr": "Je vais essayer de le convaincre.",
+        "ar": "سأحاول إقناعه.",
+        "pt": "Vou tentar convencê-lo.",
+        "hi": "मैं उसे मनाने की कोशिश करूंगा।"
       }
     }
   },
