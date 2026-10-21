@@ -2717,9 +2717,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Fünf und vier *ergibt* neun.",
+      "text": "Zwei plus zwei *ergibt* vier.",
       "translations": {
-        "ru": "Пять и четыре равняются девяти.",
+        "ru": "Два плюс два равно четырем.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6071,9 +6071,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Man *zerläßt* die Butter in der Pfanne.",
+      "text": "Zerlassen Sie die Butter in einer Pfanne bei mittlerer Hitze.",
       "translations": {
-        "ru": "Растопите масло на сковороде.",
+        "ru": "Растопите масло в сковороде на среднем огне.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9297,7 +9297,7 @@
     "sentence": {
       "text": "*Nimm* den Anzug aus dem Schrank *heraus*!",
       "translations": {
-        "ru": "Достань костюм из туалета!",
+        "ru": "Достань костюм из шкафа!",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12016,7 +12016,7 @@
     "word": "darbringen",
     "transcription": "",
     "translations": {
-      "ru": "приподнести",
+      "ru": "приподнести, выразить (благодарность)",
       "zh": "",
       "es": "",
       "fr": "",
@@ -12025,9 +12025,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Minister *brachte* dem hohen Gast ein Geschenk *dar*.",
+      "text": "Sie haben dem König den Dank *dargebracht*.",
       "translations": {
-        "ru": "Министр преподнес высокому гостю подарок.",
+        "ru": "Они выразили королю свою благодарность.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12311,9 +12311,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Zimmerleute *vollbrachen*, was unmöglich erschein.",
+      "text": "Der Arzt hat ein wahres Wunder *vollbracht*.",
       "translations": {
-        "ru": "Плотники совершили, что невозможным кажется.",
+        "ru": "Врач совершил настоящее чудо.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13160,7 +13160,7 @@
     "word": "umfahren",
     "transcription": "",
     "translations": {
-      "ru": "объезжать",
+      "ru": "сбить (на машине), объезжать",
       "zh": "",
       "es": "",
       "fr": "",
@@ -13169,9 +13169,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Schiff *umfuhr* die Insel.",
+      "text": "Der Autofahrer *fährt* das Schild *um*.",
       "translations": {
-        "ru": "Корабль объехал остров.",
+        "ru": "Водитель сбивает дорожный знак.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -15197,9 +15197,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie *spielte* ihre Karten klug *aus*.",
+      "text": "Wir können diesen Vorteil im Gespräch ausspielen.",
       "translations": {
-        "ru": "Она умело разыграла свои карты.",
+        "ru": "Мы можем использовать это преимущество в разговоре.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18187,9 +18187,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Beschreiben Sie mr bitte den Weg!",
+      "text": "Beschreiben Sie mir bitte den Weg.",
       "translations": {
-        "ru": "Опишите, пожалуйста, путь к господину!",
+        "ru": "Подскажите мне, пожалуйста, как пройти.",
         "zh": "",
         "es": "",
         "fr": "",

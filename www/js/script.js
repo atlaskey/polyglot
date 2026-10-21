@@ -449,7 +449,10 @@ class page {
         " 70 ": " siebzig ",
         " 80 ": " achtzig ",
         " 90 ": " neunzig ",
-        " 100 ": " einhundert "
+        " 100 ": " einhundert ",
+        "an Heim": "anheim",
+        "Lehrerin überlass" : "Lehrerin überlas",
+        "€": "Euro"
       };
 
       for (const [key, value] of Object.entries(map)) {
