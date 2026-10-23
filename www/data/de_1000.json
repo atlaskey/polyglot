@@ -4433,7 +4433,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Es sollen alle hinausgehen. ich will allein sein.",
+      "text": "Es sollen alle hinausgehen. Ich will allein sein.",
       "translations": {
         "ru": "Пускай все выйдут. Я хочу побыть один.",
         "zh": "",
@@ -5057,9 +5057,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Noch ein *Mal*, bitte.",
+      "text": "Warte *mal*.",
       "translations": {
-        "ru": "Ещё раз, пожалуйста.",
+        "ru": "Подожди-ка. / Минутку.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5811,7 +5811,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "*Laß* dich nicht mit diesem Menschen *ein*!",
+      "text": "*Lass* dich nicht mit diesem Menschen *ein*!",
       "translations": {
         "ru": "Не связывайся с этим человеком!",
         "zh": "",
@@ -6539,7 +6539,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Es *steht fest*, daß ich nach Hamburg fahre.",
+      "text": "Es *steht fest*, dass ich nach Hamburg fahre.",
       "translations": {
         "ru": "Я уверен, что еду в Гамбург.",
         "zh": "",
@@ -8179,7 +8179,7 @@
     "sentence": {
       "text": "Er *liegt* krank *darnieder*.",
       "translations": {
-        "ru": "Он тяжело болен (буквально: лежит без сил).",
+        "ru": "Болезнь свалила его с ног.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8619,9 +8619,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Errungenschaften der Technik sind nicht mehr *fortzudenken*.",
+      "text": "Musik ist aus meinem Leben nicht *fortzudenken*.",
       "translations": {
-        "ru": "От достижений технологий больше нельзя отказаться.",
+        "ru": "Музыку невозможно вычеркнуть из моей жизни.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9581,9 +9581,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Weil sie viel Schlagsahne aß, *nahm* Frau Berger *zu*.",
+      "text": "Ich habe im Urlaub drei Kilo *zugenommen*.",
       "translations": {
-        "ru": "Из-за того, что она ела много взбитых сливок, фрау Бергер поправилась.",
+        "ru": "В отпуске я набрал три килограмма.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -10075,7 +10075,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Du mußt durchhalten!",
+      "text": "Du musst durchhalten!",
       "translations": {
         "ru": "Вы должны продержаться!",
         "zh": "",
@@ -16341,9 +16341,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schule beginnt um acht.",
+      "text": "Die Schule beginnt um acht Uhr.",
       "translations": {
-        "ru": "Школа начинается в восемь.",
+        "ru": "Школа начинается в восемь часов.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19721,7 +19721,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Duft der Blumen *durzieht* das ganze Haus.",
+      "text": "Der Duft der Blumen *durchzieht* das ganze Haus.",
       "translations": {
         "ru": "Аромат цветов пронизывает весь дом.",
         "zh": "",
@@ -20085,9 +20085,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Paßkontrolle *vollzog* sich reibungslos.",
+      "text": "Das Urteil wurde *vollzogen*.",
       "translations": {
-        "ru": "Паспортный контроль прошел гладко.",
+        "ru": "Приговор был приведён в исполнение.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20813,7 +20813,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Es *gefällt* mir nicht, daß er so unpünktlich ist.",
+      "text": "Es *gefällt* mir nicht, dass er so unpünktlich ist.",
       "translations": {
         "ru": "Мне не нравится, что он такой не пунктуальный.",
         "zh": "",
@@ -23439,7 +23439,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kunstler hat ein Gedicht *vorgetragen*.",
+      "text": "Der Künstler hat ein Gedicht *vorgetragen*.",
       "translations": {
         "ru": "Художник прочитал стихотворение.",
         "zh": "",

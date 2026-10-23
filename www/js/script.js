@@ -452,7 +452,8 @@ class page {
         " 100 ": " einhundert ",
         "an Heim": "anheim",
         "Lehrerin überlass" : "Lehrerin überlas",
-        "€": "Euro"
+        "€": "Euro",
+        "da nieder": "darnieder"
       };
 
       for (const [key, value] of Object.entries(map)) {
