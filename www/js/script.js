@@ -453,7 +453,11 @@ class page {
         "an Heim": "anheim",
         "Lehrerin überlass" : "Lehrerin überlas",
         "€": "Euro",
-        "da nieder": "darnieder"
+        "da nieder": "darnieder",
+        "gut geschrieben": "gutgeschrieben",
+        "weiß machen": "weismachen",
+        "unter blieb": "unterblieb",
+        "abhanden gekommen": "abhandengekommen"
       };
 
       for (const [key, value] of Object.entries(map)) {

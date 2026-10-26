@@ -10257,7 +10257,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er kann mi seinem Geld nicht haushalten.",
+      "text": "Er kann mit seinem Geld nicht haushalten.",
       "translations": {
         "ru": "Он не может распоряжаться своими деньгами.",
         "zh": "",
@@ -11583,7 +11583,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Schüler haben mit dem Lehrer das Drame *durchgesprochen*.",
+      "text": "Die Schüler haben mit dem Lehrer das Drama *durchgesprochen*.",
       "translations": {
         "ru": "Студенты обсудили драму с педагогом.",
         "zh": "",
@@ -11713,7 +11713,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Tochter *verspricht* der Mutter, nicht so spät nach Haus zu kommen.",
+      "text": "Die Tochter *verspricht* der Mutter, nicht so spät nach Hause zu kommen.",
       "translations": {
         "ru": "Дочь обещает матери, что так поздно не вернется.",
         "zh": "",
@@ -20787,9 +20787,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Teekanne *entfiel* ihren Händen.",
+      "text": "Ihr Name ist mir im Moment entfallen.",
       "translations": {
-        "ru": "Чайник выпал из его рук.",
+        "ru": "Её имя сейчас вылетело у меня из головы.",
         "zh": "",
         "es": "",
         "fr": "",
