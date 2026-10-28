@@ -457,7 +457,10 @@ class page {
         "gut geschrieben": "gutgeschrieben",
         "weiß machen": "weismachen",
         "unter blieb": "unterblieb",
-        "abhanden gekommen": "abhandengekommen"
+        "abhanden gekommen": "abhandengekommen",
+        "Stand gehalten": "standgehalten",
+        "er legt einen Hirsch": "erlegt einen Hirsch",
+        "lass den Brief durch": "las den Brief durch"
       };
 
       for (const [key, value] of Object.entries(map)) {

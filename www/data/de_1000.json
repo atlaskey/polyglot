@@ -3887,7 +3887,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Leider ist keine Einigung *zustandegekommen*.",
+      "text": "Leider ist keine Einigung *zustande gekommen*.",
       "translations": {
         "ru": "К сожалению, никакого соглашения достигнуто не было.",
         "zh": "",
@@ -5603,9 +5603,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mein Vater *versah* mich mit ausreichend Geld.",
+      "text": "Wir versehen das Paket mit einer Adresse.",
       "translations": {
-        "ru": "Мой отец дал мне достаточно денег.",
+        "ru": "Мы снабжаем посылку адресом.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5681,7 +5681,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Autofahrer *läßt* den Wagen *an*.",
+      "text": "Der Autofahrer *lässt* den Wagen *an*.",
       "translations": {
         "ru": "Водитель заводит машину.",
         "zh": "",
@@ -6591,7 +6591,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er *gesteht*, daß er einen Fehler gemacht hat.",
+      "text": "Er *gesteht*, dass er einen Fehler gemacht hat.",
       "translations": {
         "ru": "Он признает, что совершил ошибку.",
         "zh": "",
@@ -7501,7 +7501,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Viele Americaner befinden sich zur Zeit in Deutschland.",
+      "text": "Viele Amerikaner befinden sich zurzeit in Deutschland.",
       "translations": {
         "ru": "Многие американцы в настоящее время в Германии.",
         "zh": "",
@@ -7657,9 +7657,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Seine Frau reist ihm nach und *findet* ihren Mann verändert *vor*.",
+      "text": "Wir haben eine gute Situation *vorgefunden*.",
       "translations": {
-        "ru": "Его жена поехала за ним и нашла своего мужа измевшимся.",
+        "ru": "Мы застали хорошую ситуацию.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8151,9 +8151,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Dem Brief *liegt* ein Scheck *bei*.",
+      "text": "Meiner Bewerbung habe ich ein Foto *beigelegt*.",
       "translations": {
-        "ru": "К письму прилагается чек.",
+        "ru": "К своему резюме я приложил фотографию.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11765,7 +11765,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Sohn *wiederspricht* dem Vater.",
+      "text": "Der Sohn *widerspricht* dem Vater.",
       "translations": {
         "ru": "Сын противоречит отцу.",
         "zh": "",
@@ -13117,9 +13117,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Wagen *fuhr* sich im Schlamm *fest*.",
+      "text": "Die Verhandlungen sind *festgefahren*.",
       "translations": {
-        "ru": "Автомобиль застрял в грязи.",
+        "ru": "Переговоры зашли в тупик.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -17615,9 +17615,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir *setzten* die Teile wieder *zusammen*.",
+      "text": "Wir *setzen* die Teile wieder *zusammen*.",
       "translations": {
-        "ru": "Мы снова собрали детали вместе.",
+        "ru": "Мы снова собираем детали вместе.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18317,7 +18317,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der vater hat seinem Sohn die Firma *überschrieben*.",
+      "text": "Der Vater hat seinem Sohn die Firma *überschrieben*.",
       "translations": {
         "ru": "Отец отдал компанию своему сыну.",
         "zh": "",
