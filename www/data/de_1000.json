@@ -11115,9 +11115,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir *führen* ein neues System *ein*.",
+      "text": "Meine Kollegin wird mich morgen in die neuen Aufgaben einführen.",
       "translations": {
-        "ru": "Мы вводим новую систему.",
+        "ru": "Моя коллега завтра введет меня в курс новых задач.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11921,7 +11921,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Er läßt sich von seinem Plan nicht abbringen.",
+      "text": "Er lässt sich von seinem Plan nicht abbringen.",
       "translations": {
         "ru": "Он не стал от своего плана отвлекаться.",
         "zh": "",
@@ -17268,7 +17268,7 @@
     "word": "hintansetzen",
     "transcription": "",
     "translations": {
-      "ru": "ставить сзади",
+      "ru": "пренебрегать",
       "zh": "",
       "es": "",
       "fr": "",
@@ -17277,9 +17277,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir *setzten* die Pflanze *hintan*.",
+      "text": "Sie hat ihre Karriere wegen der Familie *hintangesetzt*.",
       "translations": {
-        "ru": "Мы поставили растение сзади.",
+        "ru": "Она отодвинула карьеру на задний план ради семьи.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19409,7 +19409,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Karl muß eine Stunde nachsitzen.",
+      "text": "Karl muss eine Stunde nachsitzen.",
       "translations": {
         "ru": "Карла нужно задержать на час.",
         "zh": "",
@@ -20917,9 +20917,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Seine Art mit den Kunden zu reden *mißfiel* mir.",
+      "text": "Die Entscheidung des Richters *mißfiel* dem Publikum.",
       "translations": {
-        "ru": "Его манера говорить с клиентами не нравится мне.",
+        "ru": "Решение судьи не пришлось публике по душе.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22165,9 +22165,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Sie *legt* das Geld in die Kasse *ein*.",
+      "text": "Ich muss noch neue Batterien in die Fernbedienung einlegen.",
       "translations": {
-        "ru": "Она кладёт деньги в кассу.",
+        "ru": "Мне еще нужно вставить новые батарейки в пульт.",
         "zh": "",
         "es": "",
         "fr": "",

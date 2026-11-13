@@ -460,7 +460,10 @@ class page {
         "abhanden gekommen": "abhandengekommen",
         "Stand gehalten": "standgehalten",
         "er legt einen Hirsch": "erlegt einen Hirsch",
-        "lass den Brief durch": "las den Brief durch"
+        "lass den Brief durch": "las den Brief durch",
+        "nach sitzen": "nachsitzen",
+        "des Richters mit viel": "des Richters mißfiel",
+        "Heim suchte das Dorf": "heimsuchte das Dorf"
       };
 
       for (const [key, value] of Object.entries(map)) {
