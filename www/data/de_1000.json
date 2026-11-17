@@ -1027,9 +1027,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Habt ich noch Fragen?",
+      "text": "Ich bin noch zu Hause.",
       "translations": {
-        "ru": "Есть ли ещё вопросы?",
+        "ru": "Я всё ещё дома.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -2717,9 +2717,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Zwei plus zwei *ergibt* vier.",
+      "text": "Das *ergibt* zusammen fünfzig Euro.",
       "translations": {
-        "ru": "Два плюс два равно четырем.",
+        "ru": "Вместе это составляет пятьдесят евро.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -3237,7 +3237,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Mutter *kommt* schnell *dahinter*, daß das Kind lügt.",
+      "text": "Die Mutter *kommt* schnell *dahinter*, dass das Kind lügt.",
       "translations": {
         "ru": "Мать быстро узнает, что ребенок лжет.",
         "zh": "",
@@ -5785,7 +5785,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Mantel *läßt* den Regen *durch*.",
+      "text": "Der Mantel *lässt* den Regen *durch*.",
       "translations": {
         "ru": "Пальто пропускает дождь.",
         "zh": "",
@@ -6253,7 +6253,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "ich mußte stehen, weil kein Stuhl frei war.",
+      "text": "Ich musste stehen, weil kein Stuhl frei war.",
       "translations": {
         "ru": "Пришлось встать, потому что свободного стула не было.",
         "zh": "",
@@ -6695,9 +6695,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Menschen *umstanden* den Verunglückten.",
+      "text": "Die Kinder umstehen den Tisch.",
       "translations": {
-        "ru": "Люди стояли вокруг жертвы.",
+        "ru": "Дети стоят вокруг стола.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19305,9 +19305,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich bin dem Burschen *aufgesessen*.",
+      "text": "Der Reiter *sitzt auf*.",
       "translations": {
-        "ru": "Я съел этого парня.",
+        "ru": "Всадник садится на лошадь.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -19669,7 +19669,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Mann kann den Tisch ausziehen.",
+      "text": "Man kann den Tisch ausziehen.",
       "translations": {
         "ru": "Вы можете вытащить стол.",
         "zh": "",

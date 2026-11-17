@@ -1,4 +1,4 @@
-class page {  
+class page {
   currentData = []
   studyLang = "en"
   currentLevel = 1000
@@ -12,7 +12,7 @@ class page {
   recognition = null
   isRecording = false
   isConnected = false
-
+  
   currentAudio = null;
   
   async setLevel(value, element) {
@@ -463,7 +463,14 @@ class page {
         "lass den Brief durch": "las den Brief durch",
         "nach sitzen": "nachsitzen",
         "des Richters mit viel": "des Richters mißfiel",
-        "Heim suchte das Dorf": "heimsuchte das Dorf"
+        "Heim suchte das Dorf": "heimsuchte das Dorf",
+        "ordentlich zu reden": "ordentlich zureden",
+        "kg abgenommen": "Kilo abgenommen",
+        "Dichter er dachte": "Dichter erdachte",
+        "der Familie Hintern gesetzt": "der Familie hintangesetzt",
+        "für tot gesagt": "für totgesagt",
+        "Argumente klar da": "Argumente klar dar",
+        "Leben nicht vorzudenken": "Leben nicht fortzudenken"
       };
 
       for (const [key, value] of Object.entries(map)) {
@@ -554,7 +561,7 @@ class page {
     
     if (action === 'Cancel') {
       activeForm[0].reset();
-      $modal.modal('hide'); // jQuery-плагин, без [0]
+      $modal.modal('hide');
       return;
     }
     
@@ -629,7 +636,7 @@ class my_websocket {
   constructor() {
     this.init()
   }
-
+  
   init() {
     const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     const host = window.location.host;
@@ -661,11 +668,11 @@ class my_websocket {
       }
     }
   }
-
+  
   ws_send(data) {
     if (this.ws.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify(data));
   }
-
+  
   decodeIds(str) {
     if (!str) return [];
     const result = [];
@@ -698,12 +705,12 @@ class my_websocket {
       P.alert('Sign In Error', msg.error || 'Sign in failed.');
     }
   }
-
+  
   resetDone(msg) {
     if (msg.resetDone) P.alert('Progress Reset', msg.message);
     else P.alert('Error', msg.message);
   }
-
+  
   statsLoad(msg) {
     const data = msg.data;
     
