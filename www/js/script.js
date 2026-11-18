@@ -470,7 +470,14 @@ class page {
         "der Familie Hintern gesetzt": "der Familie hintangesetzt",
         "für tot gesagt": "für totgesagt",
         "Argumente klar da": "Argumente klar dar",
-        "Leben nicht vorzudenken": "Leben nicht fortzudenken"
+        "Leben nicht vorzudenken": "Leben nicht fortzudenken",
+        "Gespräch reinreden": "Gespräch hereinreden",
+        "10%": "zehn Prozent",
+        "mir nach zu reden": "mir nachzureden",
+        "Erfolgt seinem": "Er folgt seinem",
+        "Fehler gut machen": "Fehler gutmachen",
+        "zur Zeit in Deutschland": "zurzeit in Deutschland",
+        "stenograf": "Stenograph"
       };
 
       for (const [key, value] of Object.entries(map)) {

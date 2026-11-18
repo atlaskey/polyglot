@@ -247,7 +247,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Mann *hat* das geld für ein Haus *zusammen*.",
+      "text": "Der Mann *hat* das Geld für ein Haus *zusammen*.",
       "translations": {
         "ru": "Мужчины собрал деньги на дом.",
         "zh": "",
@@ -8229,7 +8229,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Es *liegt nahe*, daß er den Ring gestohlen hat.",
+      "text": "Es *liegt nahe*, dass er den Ring gestohlen hat.",
       "translations": {
         "ru": "Понятно, что он украл кольцо.",
         "zh": "",
@@ -8593,9 +8593,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Dichter *erdachte* sich eine Geschichte, um seine Zuhörer zu unterhalten.",
+      "text": "Wir müssen schnell einen neuen Plan erdenken.",
       "translations": {
-        "ru": "Поэт придумал историю, чтобы своим слушателям рассказать.",
+        "ru": "Нам нужно быстро придумать новый план.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -8619,9 +8619,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Musik ist aus meinem Leben nicht *fortzudenken*.",
+      "text": "Kaffee ist aus meinem Morgen nicht *fortzudenken*.",
       "translations": {
-        "ru": "Музыку невозможно вычеркнуть из моей жизни.",
+        "ru": "Моё утро невозможно представить без кофе.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9191,7 +9191,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der kaufmann hat viel *eingenommen*.",
+      "text": "Der Kaufmann hat viel *eingenommen*.",
       "translations": {
         "ru": "У бизнесмена много ушло.",
         "zh": "",
@@ -9555,9 +9555,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Rechtsanwalt *nimmt* meine Interessen *wahr*.",
+      "text": "Ich habe ein leises Geräusch *wahrgenommen*.",
       "translations": {
-        "ru": "Юрист заботится о моих интересах.",
+        "ru": "Я услышал тихий шум.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -9607,7 +9607,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der kaufmann hat die schadhafte Ware wieder *zurückgenommen*.",
+      "text": "Der Kaufmann hat die schadhafte Ware wieder *zurückgenommen*.",
       "translations": {
         "ru": "Купец забрал бракованный товар.",
         "zh": "",
@@ -11557,9 +11557,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Wir besprechen die Sache noch!",
+      "text": "Wir besprechen die Sachen noch!",
       "translations": {
-        "ru": "Мы все еще обсуждаем этот вопрос!",
+        "ru": "Мы все еще обсуждаем эти вопросы!",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12883,9 +12883,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Kaufmann *fuhr* die Ware selbst *aus*.",
+      "text": "Wir sind am Sonntag ins Grüne *ausgefahren*.",
       "translations": {
-        "ru": "Продавец вывез товары сам.",
+        "ru": "В воскресенье мы выехали на природу.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12987,7 +12987,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Kaum waren ihm die Wörte entfahren, da bereute er sie.",
+      "text": "Kaum waren ihm die Worte entfahren, da bereute er sie.",
       "translations": {
         "ru": "Как только из него вырвались эти слова, он пожалел об этом.",
         "zh": "",
@@ -16965,9 +16965,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Studenten *besetzten* die Aula.",
+      "text": "Die Toilette ist gerade *besetzt*. ",
       "translations": {
-        "ru": "Студенты заняли актовый зал.",
+        "ru": "Туалет сейчас занят.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18917,7 +18917,7 @@
     "sentence": {
       "text": "Uns ist ein Hund *zugelaufen*.",
       "translations": {
-        "ru": "В нас наехала собака.",
+        "ru": "К нам приблудилась собака.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -20891,9 +20891,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Kind *fiel hin*.",
+      "text": "Das kleine Kind ist auf der Straße *hingefallen*.",
       "translations": {
-        "ru": "Ребенок упал.",
+        "ru": "Маленький ребёнок упал на улице.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -23465,9 +23465,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der feinliche Agent hat unseren Feinden Nachrichten *zugetragen*.",
+      "text": "Der feindliche Agent hat unseren Feinden Nachrichte *zugetragen*.",
       "translations": {
-        "ru": "Прекрасный агент принес новости нашим врагам.",
+        "ru": "Вражеский агент сообщил новости нашим врагам.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24583,7 +24583,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "ich habe meine Handschuhe *verloren*.",
+      "text": "Ich habe meine Handschuhe *verloren*.",
       "translations": {
         "ru": "Я пртерял мои перчатки.",
         "zh": "",
@@ -25363,9 +25363,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich muss ihm ordentlich zureden, damit er zustimmt.",
+      "text": "Der Tierarzt hat dem Hund ruhig *zugeredet*.",
       "translations": {
-        "ru": "Мне нужно уговорить его, чтобы он согласился.",
+        "ru": "Ветеринар спокойным голосом успокаивал собаку.",
         "zh": "",
         "es": "",
         "fr": "",
