@@ -477,7 +477,9 @@ class page {
         "Erfolgt seinem": "Er folgt seinem",
         "Fehler gut machen": "Fehler gutmachen",
         "zur Zeit in Deutschland": "zurzeit in Deutschland",
-        "stenograf": "Stenograph"
+        "stenograf": "Stenograph",
+        "zu Gesprächen worden": "zugesprechen worden",
+        "wurde trocken gelegt": "wurde trockengelegt"
       };
 
       for (const [key, value] of Object.entries(map)) {
