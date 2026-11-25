@@ -5135,7 +5135,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich *wußte*, daß er kommt.",
+      "text": "Ich *wusste*, dass er kommt.",
       "translations": {
         "ru": "Я знал, что он придет.",
         "zh": "",
@@ -7111,9 +7111,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich mache es *selbst*.",
+      "text": "Der Chef *selbst* hat mich angerufen.",
       "translations": {
-        "ru": "Я делаю это сам.",
+        "ru": "Мне позвонил сам шеф.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -12129,7 +12129,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Erbringen Sie den Beweis, daß Ihre Aussagen stimmen.",
+      "text": "Erbringen Sie den Beweis, dass Ihre Aussagen stimmen.",
       "translations": {
         "ru": "Предоставить доказательства того, что ваши утверждения верны.",
         "zh": "",
@@ -12571,9 +12571,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Nach dem Regen blüht alles auf und die Natur *lebt auf*.",
+      "text": "Wenn Musik läuft, *lebt* sie sofort *auf*.",
       "translations": {
-        "ru": "После дождя всё расцветает, и природа оживает.",
+        "ru": "Когда играет музыка, она сразу оживляется.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -18291,7 +18291,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Chemiker hat das Ergenis seiner Versuche *niedergeschrieben*.",
+      "text": "Der Chemiker hat das Ergebnis seiner Versuche *niedergeschrieben*.",
       "translations": {
         "ru": "Химик записал результаты своих опытов.",
         "zh": "",
@@ -20033,9 +20033,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Bevor wir auswanderten, *unterzog* man einer ärztlichen Untersuchung.",
+      "text": "Das neue Auto wird einem strengen Test *unterzogen*.",
       "translations": {
-        "ru": "Перед отъездом они прошли медицинское обследование.",
+        "ru": "Новую машину подвергают строгому тесту.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24184,7 +24184,7 @@
     "word": "verlesen",
     "transcription": "",
     "translations": {
-      "ru": "ошибочно прочитать, оговориться при чтении",
+      "ru": "ошибочно прочитать",
       "zh": "",
       "es": "",
       "fr": "",
@@ -24193,9 +24193,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Pfarrer *verliest* eine Bibelstelle.",
+      "text": "Entschuldigung, ich habe mich verlesen.",
       "translations": {
-        "ru": "Пастор читает отрывок из Библии.",
+        "ru": "Извините, я оговорился.",
         "zh": "",
         "es": "",
         "fr": "",

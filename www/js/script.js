@@ -479,7 +479,11 @@ class page {
         "zur Zeit in Deutschland": "zurzeit in Deutschland",
         "stenograf": "Stenograph",
         "zu Gesprächen worden": "zugesprechen worden",
-        "wurde trocken gelegt": "wurde trockengelegt"
+        "wurde trocken gelegt": "wurde trockengelegt",
+        "morgen nicht vor zu denken": "Morgen nicht fortzudenken",
+        "Meinungen auseinander gehen": "Meinungen auseinandergehen",
+        "Hund ruhig zu geredet": "Hund ruhig zugeredet",
+        "politisch kalt gestellt": "politisch kaltgestellt"
       };
 
       for (const [key, value] of Object.entries(map)) {
