@@ -489,7 +489,7 @@ class page {
         "schlecht getragen": "schlecht betragen",
         "Gespräch hier reinreden": "Gespräch hereinreden",
         "Verlassen Sie die Butter": "Zerlassen Sie die Butter",
-        "Ich vermeide ihn gestern": "Ich vermeine ihn gestern",
+        "vermeide ihn gestern": "vermeine ihn gestern",
         "Orakel weiß sagte": "Orakel weissagte",
         "es sofort hoch gegangen": "er sofort hochgegangen",
         "bzw kurz nach acht": "beziehungsweise kurz nach acht",
