@@ -1651,9 +1651,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Prophet *weissagte* Ereignisse der Zukunft.",
+      "text": "Das Orakel *weissagte* ihm eine große Zukunft.",
       "translations": {
-        "ru": "Пророк предсказывал события будущего.",
+        "ru": "Оракул предсказал ему великое будущее.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -4537,9 +4537,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Tom versuchte die Bombe gerade zu entschärfen, als sie *hochging*.",
+      "text": "Bei dieser Nachricht ist er sofort *hochgegangen*.",
       "translations": {
-        "ru": "Том пытался обезвредить бомбу, когда она взорвалась.",
+        "ru": "Услышав эту новость, он тут же взорвался от злости.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -5317,9 +5317,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Man hat Sibylle dazu ausersehen, das Geschenk zu überreichen.",
+      "text": "Er wurde für diese schwierige Aufgabe ausersehen.",
       "translations": {
-        "ru": "Сибилла была выбрана, чтобы представить настоящее.",
+        "ru": "Он был избран для этой трудной задачи.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -6019,9 +6019,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Die Dame bat den Herrn, das Rauchen zu unterlassen.",
+      "text": "Bitte unterlassen Sie das Rauchen in diesem Bereich.",
       "translations": {
-        "ru": "Дама попросила джентльмена бросить курить.",
+        "ru": "Пожалуйста, воздержитесь от курения в этой зоне.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -11791,9 +11791,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Das Haus ist ihm *zugesprechen* worden.",
+      "text": "Man muss ihm großen Mut zusprechen.",
       "translations": {
-        "ru": "Дом был вручен ему.",
+        "ru": "Нужно отдать должное его большой смелости.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -13249,7 +13249,7 @@
     "sentence": {
       "text": "Ihm ist Gerechtigkeit widerfahren.",
       "translations": {
-        "ru": "Справедливость восторжествовала (произошла).",
+        "ru": "Справедливость восторжествовала.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -22881,7 +22881,7 @@
   },
   {
     "id": 881,
-    "word": "mißhandeln",
+    "word": "misshandeln",
     "transcription": "",
     "translations": {
       "ru": "плохо обращаться, избивать",
@@ -22893,7 +22893,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der Mann hat den Hund *mißhandelt*.",
+      "text": "Der Mann hat den Hund *misshandelt*.",
       "translations": {
         "ru": "Мужчина жестоко обращался с собакой.",
         "zh": "",
@@ -23465,7 +23465,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Der feindliche Agent hat unseren Feinden Nachrichte *zugetragen*.",
+      "text": "Der feindliche Agent hat unseren Feinden Nachrichten *zugetragen*.",
       "translations": {
         "ru": "Вражеский агент сообщил новости нашим врагам.",
         "zh": "",
@@ -23491,9 +23491,9 @@
       "hi": ""
     },
     "sentence": {
-      "text": "Ich gehe eher nach Hause.",
+      "text": "Ich bin heute etwas eher nach Hause gekommen.",
       "translations": {
-        "ru": "Я скорее пойду домой.",
+        "ru": "Сегодня я пришел домой немного пораньше.",
         "zh": "",
         "es": "",
         "fr": "",
@@ -24115,7 +24115,7 @@
       "hi": ""
     },
     "sentence": {
-      "text": "In den Stil dieses Dichters muß man sich erst einlesen.",
+      "text": "In den Stil dieses Dichters muss man sich erst einlesen.",
       "translations": {
         "ru": "Прежде всего нужно прочувствовать стиль этого поэта.",
         "zh": "",

@@ -483,7 +483,14 @@ class page {
         "morgen nicht vor zu denken": "Morgen nicht fortzudenken",
         "Meinungen auseinander gehen": "Meinungen auseinandergehen",
         "Hund ruhig zu geredet": "Hund ruhig zugeredet",
-        "politisch kalt gestellt": "politisch kaltgestellt"
+        "politisch kalt gestellt": "politisch kaltgestellt",
+        "zugute kommen wird": "zugutekommen wird",
+        "Schülers nicht hinweg gehen": "Schülers nicht hinweggehen",
+        "schlecht getragen": "schlecht betragen",
+        "Gespräch hier reinreden": "Gespräch hereinreden",
+        "Verlassen Sie die Butter": "Zerlassen Sie die Butter",
+        "Ich vermeide ihn gestern": "Ich vermeine ihn gestern",
+        "Orakel weiß sagte": "Orakel weissagte"
       };
 
       for (const [key, value] of Object.entries(map)) {
